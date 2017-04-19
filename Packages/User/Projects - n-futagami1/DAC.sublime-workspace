@@ -1,0 +1,2666 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"colu",
+				"columns"
+			],
+			[
+				"new_",
+				"new_columns"
+			],
+			[
+				"clera",
+				"clearfix\t(_mixin.scss)"
+			],
+			[
+				"ml",
+				"margin-left\t(_btn.scss)"
+			],
+			[
+				"bor",
+				"border-box\t(_mixin.scss)"
+			],
+			[
+				"tex",
+				"text-align\t(_guide.scss)"
+			],
+			[
+				"ba",
+				"banner_free.png\tw:500 h:140"
+			],
+			[
+				"trans",
+				"translate\t(_icon.scss)"
+			],
+			[
+				"content",
+				"content"
+			],
+			[
+				"bgp",
+				"bgp\tbackground-position: ${1:0} ${2:0};"
+			],
+			[
+				"td",
+				"td-u\ttext-decoration: underline;"
+			],
+			[
+				"bgr",
+				"bgr-n\tbackground-repeat: no-repeat;"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"lin",
+				"line-dot"
+			],
+			[
+				"t",
+				"th\tTag"
+			],
+			[
+				"check",
+				"checkPassword"
+			],
+			[
+				"chnage",
+				"changeValue"
+			],
+			[
+				"che",
+				"checkConfirm"
+			],
+			[
+				"chan",
+				"changeValue\t(store.js)"
+			],
+			[
+				"ali",
+				"align-items\t(_signup.scss)"
+			],
+			[
+				"bdp",
+				"background-position"
+			],
+			[
+				"payme",
+				"paymentStatus"
+			],
+			[
+				"noti",
+				"notify\t(ContentsHeader.vue)"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"translate",
+				"translateY\t(Drawer.vue)"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"no",
+				"notify"
+			],
+			[
+				"No",
+				"Notify\t(_notify.scss)"
+			],
+			[
+				"MBS",
+				"MBS動画イズム444"
+			],
+			[
+				"border",
+				"border-box\t(Item.vue)"
+			],
+			[
+				"data",
+				"dataProgram"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"inn",
+				"innerHeight〔variable〕"
+			],
+			[
+				"widt",
+				"width"
+			],
+			[
+				"screen",
+				"screenX〔variable〕"
+			],
+			[
+				"sns",
+				"snsObj"
+			],
+			[
+				"encodeUR",
+				"encodeURIComponent"
+			],
+			[
+				"align-",
+				"align-items"
+			],
+			[
+				"wd",
+				"width"
+			],
+			[
+				"transla",
+				"translateX"
+			],
+			[
+				"hide-",
+				"hide-desktop"
+			],
+			[
+				"box-",
+				"box-btns"
+			],
+			[
+				"payment",
+				"payment_history"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"passwor",
+				"passwordType"
+			],
+			[
+				"show",
+				"showPassword"
+			],
+			[
+				"font-s",
+				"font-style: 〔property〕"
+			],
+			[
+				"pre",
+				"prepend\t.prepend()"
+			],
+			[
+				"logo",
+				"logo_444.png\t(ContentsHeader.vue)"
+			],
+			[
+				"text",
+				"textarea\tTag"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"labe",
+				"label-payment"
+			],
+			[
+				"change",
+				"changeValue"
+			],
+			[
+				"bdr",
+				"bdrz\tborder-radius"
+			],
+			[
+				"upda",
+				"updateLoading"
+			],
+			[
+				"update",
+				"updateNextEpisode"
+			],
+			[
+				"epi",
+				"episode"
+			],
+			[
+				"episode",
+				"episode"
+			],
+			[
+				"episo",
+				"episode_total_count"
+			],
+			[
+				"txt-",
+				"text-decoration: 〔property〕"
+			],
+			[
+				"rend",
+				"render"
+			],
+			[
+				"pay",
+				"payment_history"
+			],
+			[
+				"ttl-",
+				"ttl-line\t(_ttl.scss)"
+			],
+			[
+				"catego",
+				"categoryName"
+			],
+			[
+				"sty",
+				"styles"
+			],
+			[
+				"docum",
+				"document\t(ContentsHeader.vue)"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"add",
+				"add\t.add()"
+			],
+			[
+				"d",
+				"DrawerInner.vue"
+			],
+			[
+				"uk-off",
+				"uk-offcanvas-page \tUIkit class"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"btn-episode__",
+				"btn-episode__zero"
+			],
+			[
+				"paddin",
+				"padding-left\t(List.vue)"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"asyn",
+				"asyncPromotion"
+			],
+			[
+				"respo",
+				"response"
+			],
+			[
+				"hide",
+				"hide-phone\t(List.vue)"
+			],
+			[
+				"btn-episode",
+				"btn-episode__play"
+			],
+			[
+				"btn-episo",
+				"btn-episode__login\t(List.vue)"
+			],
+			[
+				"btn-epi",
+				"btn-episode__play\t(List.vue)"
+			],
+			[
+				"List",
+				"List\t(Movie.vue)"
+			],
+			[
+				"ListBt",
+				"ListBtn.vue"
+			],
+			[
+				"prog",
+				"program"
+			],
+			[
+				"ab",
+				"absolute\t(List.vue)"
+			],
+			[
+				"Contentes",
+				"ContentsViewer"
+			],
+			[
+				"video",
+				"video-viewer\t(main.js)"
+			],
+			[
+				"icon",
+				"icon-arrow\t_icon.scss"
+			],
+			[
+				"cla",
+				"classList"
+			],
+			[
+				"rela",
+				"relative"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"fet",
+				"fetchEpisode"
+			],
+			[
+				"fetc",
+				"fetchListEpisode"
+			],
+			[
+				"contents",
+				"contents-movie\t(index.html)"
+			],
+			[
+				"store",
+				"storeMovie"
+			],
+			[
+				"fe",
+				"fetchEpisode"
+			],
+			[
+				"active",
+				"activeList"
+			],
+			[
+				"reset",
+				"resetState"
+			],
+			[
+				"clear",
+				"clearUserName\t(index.js)"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"docu",
+				"document\t(app.js)"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"v-",
+				"v-if\t(ContentsHeader.vue)"
+			],
+			[
+				"Log",
+				"Login.vue"
+			],
+			[
+				"respon",
+				"responses\t(Promotion.vue)"
+			],
+			[
+				"outer",
+				"outerHeight\t.outerHeight()"
+			],
+			[
+				"inner",
+				"innerHeight\t.innerHeight()"
+			],
+			[
+				"append",
+				"appendPromotion"
+			],
+			[
+				"fetch",
+				"fetchPromotion\t(store.js)"
+			],
+			[
+				"asy",
+				"asyncEpisode"
+			],
+			[
+				"ttl",
+				"ttl-round\t_ttl.scss"
+			],
+			[
+				"icon-",
+				"icon-arrow__flat\t(index.html)"
+			],
+			[
+				"si",
+				"signup.html"
+			],
+			[
+				"la",
+				"label_au.png\tw:154 h:19"
+			],
+			[
+				"sign",
+				"signup_2.html"
+			],
+			[
+				"icon-arro",
+				"icon-arrow__flat"
+			],
+			[
+				"async",
+				"asyncList"
+			],
+			[
+				"list",
+				"listdata"
+			],
+			[
+				"for",
+				"forEach\t(index.js)"
+			],
+			[
+				"inser",
+				"insertList"
+			],
+			[
+				"lib",
+				"lib/"
+			],
+			[
+				"sear",
+				"searchKey"
+			],
+			[
+				"do",
+				"documentary"
+			],
+			[
+				"btn_login",
+				"btn_login_4.png\tw:128 h:105"
+			],
+			[
+				"scroll",
+				"scrollTo〔function〕"
+			],
+			[
+				"create",
+				"createStyle\t(_mixin.scss)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-content/themes/dac/functions.php",
+			"settings":
+			{
+				"buffer_size": 23194,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Searching 2422 files for \"mwform_validation_\"\n\n/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-content/plugins/mw-wp-form/mw-wp-form.php:\n  427 \t\t}\n  428 \t\t$this->validation_rules = apply_filters(\n  429:\t\t\t'mwform_validation_rules',\n  430 \t\t\t$this->validation_rules,\n  431 \t\t\tnull // 後方互換性のために残してるだけ\n\n/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-content/plugins/mw-wp-form/readme.txt:\n  373  \n  374  = 1.8.0 =\n  375: * Added   : Add mwform_validation_rules filter hook.\n  376  * Added   : Add API to get the data for mail.\n  377  * Added   : Add setting of response status in saved contact data.\n  ...\n  493  * Change  : jquery.ui.css のプロトコル指定、バージョンを変更\n  494  * Change  : データの持ち方を singleton に変更\n  495: * Added   : mwform_validation_xxx フィルターフックに引数を追加（$data）\n  496  * Added   : DB登録データ一覧で画像・ファイルカラムの項目は編集画面にリンク\n  497  * Added   : URLバリデーション\n\n/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-content/plugins/mw-wp-form/classes/controllers/class.main.php:\n  122  \t\t$this->Validation->set_rules( $this->Setting );\n  123  \t\t$this->Validation = apply_filters(\n  124: \t\t\t'mwform_validation_' . $form_key,\n  125  \t\t\t$this->Validation,\n  126  \t\t\t$this->Data->gets(),\n\n4 matches across 3 files\n",
+			"settings":
+			{
+				"buffer_size": 1201,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-content/plugins/mw-wp-form/classes/controllers/class.main.php",
+			"settings":
+			{
+				"buffer_size": 10616,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-content/plugins/mw-wp-form/readme.txt",
+			"settings":
+			{
+				"buffer_size": 25168,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "up",
+		"selected_items":
+		[
+			[
+				"up",
+				"SFTP: Upload File"
+			],
+			[
+				"upload",
+				"SFTP: Upload Open Files"
+			],
+			[
+				"uplo",
+				"SFTP: Upload Open Files"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"uploa",
+				"SFTP: Upload File"
+			],
+			[
+				"copy",
+				"ANF: Copy Current File"
+			],
+			[
+				"pro",
+				"Project Manager"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"media",
+				"Snippet: @media"
+			],
+			[
+				"minimap",
+				"View: Toggle Minimap"
+			],
+			[
+				"de",
+				"File: Delete"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"rev",
+				"File: Reveal"
+			],
+			[
+				"reve",
+				"File: Reveal"
+			],
+			[
+				"converutf",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"co",
+				"ANF: Copy Current File"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"re",
+				"File: Rename"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"",
+				"ANF: Copy Current File"
+			],
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"cop",
+				"ANF: Copy Current File"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"prett",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"syntavue",
+				"Set Syntax: Regular Expressions (Javascript Next)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packalist",
+				"Package Control: List Packages"
+			],
+			[
+				"syntaja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synj",
+				"Set Syntax: JSX"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"delte",
+				"File: Delete"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"dsable",
+				"Package Control: Disable Package"
+			],
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"border-ra",
+				"Snippet: border-radius"
+			],
+			[
+				"radiu",
+				"Snippet: border-radius"
+			],
+			[
+				"borderra",
+				"Snippet: border-radius"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"syntaxty",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"syntaxvue",
+				"Set Syntax: Regular Expressions (Javascript Next)"
+			],
+			[
+				"inclu",
+				"Snippet: @include"
+			],
+			[
+				"revea",
+				"File: Reveal"
+			],
+			[
+				"proje",
+				"Project Manager"
+			],
+			[
+				"include",
+				"Snippet: @include"
+			],
+			[
+				"mode",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"ready",
+				"Snippet: document.ready - $(function(){})"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"add pro",
+				"Project Manager: Add Project"
+			],
+			[
+				"setsyhe",
+				"Set Syntax: HTML (Erlang)"
+			],
+			[
+				"preview",
+				"OmniMarkupPreviewer: Preview Current Markup in Browser"
+			],
+			[
+				"impor",
+				"Snippet: @import"
+			],
+			[
+				"mixi",
+				"Snippet: @mixin"
+			],
+			[
+				"block",
+				"Toggle Block Comment"
+			],
+			[
+				"blo",
+				"Toggle Block Comment"
+			],
+			[
+				"blok",
+				"Snippet: display:block"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"syntax php",
+				"Set Syntax: PHP"
+			],
+			[
+				"down",
+				"SFTP: Download File"
+			],
+			[
+				"sync",
+				"SFTP: Sync Remote -> Local…"
+			],
+			[
+				"upload ",
+				"SFTP: Upload Open Files"
+			],
+			[
+				"downloa",
+				"SFTP: Download File"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"download",
+				"SFTP: Download File"
+			],
+			[
+				"each",
+				"Snippet: .each()"
+			],
+			[
+				"book",
+				"Bookmarks: Toggle"
+			],
+			[
+				"synh",
+				"Set Syntax: HTML"
+			],
+			[
+				"mo",
+				"File: Move"
+			],
+			[
+				"sync loca",
+				"SFTP: Sync Local -> Remote…"
+			],
+			[
+				"upo",
+				"SFTP: Upload Open Files"
+			],
+			[
+				"syntaxhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"converspa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"show",
+				"SFTP: Show Panel"
+			],
+			[
+				"upl",
+				"SFTP: Upload File"
+			],
+			[
+				"convertspa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"upopen",
+				"SFTP: Upload Open Files"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"word",
+				"WordPress Codex: Open Function Reference"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: var",
+				"Snippet: var_dump"
+			],
+			[
+				"set hp",
+				"Set Syntax: PHP"
+			],
+			[
+				"sethtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"project",
+				"Project Manager"
+			],
+			[
+				"anf",
+				"ANF: New File"
+			],
+			[
+				"shel",
+				"ShellCommand"
+			],
+			[
+				"new window",
+				"Project Manager: Open Project in New Window"
+			],
+			[
+				"openb",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"shell",
+				"ShellCommand"
+			],
+			[
+				"addfo",
+				"Project: Add Folder"
+			],
+			[
+				"wp",
+				"WordPress Codex: Search Selection"
+			],
+			[
+				"addpro",
+				"Project Manager: Add Project"
+			],
+			[
+				"openfile",
+				"ANF: Copy Current File"
+			],
+			[
+				"path",
+				"File: Copy Path"
+			],
+			[
+				"do",
+				"Snippet: document.ready - $(function(){})"
+			],
+			[
+				"docum",
+				"Snippet: document.ready - $(function(){})"
+			],
+			[
+				"document",
+				"Snippet: document.ready - $(function(){})"
+			],
+			[
+				"addproje",
+				"Project Manager: Add Project"
+			],
+			[
+				"keyf",
+				"Snippet: @keyframes"
+			],
+			[
+				"fill",
+				"Snippet: animation-fill-mode:forwards"
+			],
+			[
+				"animation-na",
+				"Snippet: animation-name"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"transpare",
+				"Snippet: transparentize()"
+			],
+			[
+				"retty",
+				"HTMLPrettify"
+			],
+			[
+				"bloc",
+				"Toggle Block Comment"
+			],
+			[
+				"copycu",
+				"ANF: Copy Current File"
+			],
+			[
+				"jquer",
+				"Snippet: jQuery(document).ready"
+			],
+			[
+				"new",
+				"ANF: New File"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"commen",
+				"Toggle Comment"
+			],
+			[
+				"p",
+				"Project Manager"
+			],
+			[
+				"pwd",
+				"Project Manager: Open Project in New Window"
+			],
+			[
+				"termi",
+				"Terminal: Open"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"tarnsi",
+				"Snippet: transition"
+			],
+			[
+				"includ",
+				"Snippet: @include"
+			],
+			[
+				"smoo",
+				"Snippet: font-smooth"
+			],
+			[
+				"exten",
+				"Snippet: @extend"
+			],
+			[
+				"extend",
+				"Snippet: @extend"
+			],
+			[
+				"jquery",
+				"Snippet: HTML - Include jQuery"
+			]
+		],
+		"width": 719.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/business",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/contact",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/news",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/pressrelease",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/recruit",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/js",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-content",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-content/themes",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-content/themes/dac"
+	],
+	"file_history":
+	[
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/includes/class-wp-posts-list-table.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/sftp-config.json",
+		"/Users/n-futagami/Library/Application Support/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+		"/Users/n-futagami/Library/Application Support/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+		"/Users/n-futagami/Library/Application Support/Sublime Text 3/Packages/SFTP/Default (OSX).sublime-keymap",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-content/themes/dac/page-contact.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/index.html",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/js/function_news.js",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/js/function_press.js",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/js/function_recruit.js",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/js/function_top.js",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/js/libs.js",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/license.txt",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/prd-wordpress-db.sql",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-config-sample.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-config.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-load.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-login.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-settings.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/xmlrpc.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/about.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/admin-ajax.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/admin-footer.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/comment.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/credits.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/custom-background.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/custom-header.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/edit-comments.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/edit-form-advanced.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/edit-form-comment.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/edit-link-form.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/edit-tag-form.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/edit-tags.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/edit.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/export.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/freedoms.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/import.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/index.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/install.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/link-manager.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/media-new.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/media.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/my-sites.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/nav-menus.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/network.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/options-discussion.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/options-general.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/options-media.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/options-permalink.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/options-reading.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/options-writing.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/options.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/plugin-editor.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/plugin-install.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/plugins.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/revision.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/setup-config.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/theme-editor.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/theme-install.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/themes.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/tools.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/update-core.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/upgrade.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/upload.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/user-edit.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/user-new.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/users.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/widgets.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/css/common-rtl.css",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/css/common.css",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/includes/ajax-actions.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/includes/class-wp-automatic-updater.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/includes/class-wp-comments-list-table.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/includes/class-wp-filesystem-base.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/includes/class-wp-filesystem-ssh2.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/includes/class-wp-press-this.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/includes/class-wp-site-icon.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/includes/class-wp-themes-list-table.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/includes/dashboard.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/includes/file.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/includes/image-edit.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/includes/media.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/includes/meta-boxes.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/includes/misc.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/includes/network.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/includes/options.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/includes/plugin-install.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/includes/schema.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/includes/theme.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/includes/translation-install.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/includes/update.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/includes/upgrade.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/js/bookmarklet.js",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/js/bookmarklet.min.js",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/js/customize-controls.js",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/js/customize-nav-menus.js",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/js/iris.min.js",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/js/post.js",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/js/press-this.js",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/js/press-this.min.js",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/js/svg-painter.js",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/maint/repair.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/network/index.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/network/settings.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/network/site-info.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/network/site-new.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/network/site-settings.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/network/site-themes.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/network/site-users.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/network/sites.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/network/themes.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/network/upgrade.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/network/user-new.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-admin/network/users.php",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-content/languages/admin-ja.mo",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-content/languages/admin-ja.po",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-content/languages/admin-network-ja.mo",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-content/languages/admin-network-ja.po",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-content/languages/ja.mo",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-content/languages/ja.po",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-content/languages/plugins/akismet-ja.mo",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-content/languages/plugins/akismet-ja.po",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-content/languages/themes/twentyfifteen-ja.mo",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-content/languages/themes/twentyfifteen-ja.po",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-content/languages/themes/twentyfourteen-ja.mo",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-content/languages/themes/twentyfourteen-ja.po",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-content/languages/themes/twentysixteen-ja.mo",
+		"/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-content/languages/themes/twentysixteen-ja.po"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 473.0,
+		"where_history":
+		[
+			"<open folders>",
+			"<open folders>,wp-admin/",
+			"<open folders>",
+			"<open folders>,*html,*vue,*scss",
+			"<open folders>,*html,*vue",
+			"<open folders>,*html,*vue,*scss",
+			"<open folders>,*html,*vue",
+			"<open folders>,*scss,*vue",
+			"<open folders>,*css,*vue",
+			"<open folders>,*html,*vue",
+			"<open folders>,*html",
+			"<open folders>,*vue",
+			"<open folders>",
+			"<open folders>,*vue,*html",
+			"<open folders>,*vue,*js",
+			"<open folders>,*vue",
+			"<open folders>",
+			"<open folders>,*html",
+			"<open folders>",
+			"<open folders>,*vue",
+			"<open folders>,*html,*vue",
+			"<open folders>,*html,vue",
+			"<open folders>,*scss",
+			"<open folders>,src/**/*js",
+			"<open folders>,/src/*js",
+			"<open folders>,*vue",
+			"<open folders>,vue",
+			"<open folders>",
+			"<open folders>,*vue",
+			"<open folders>",
+			"<open folders>,-/dist/",
+			"<open folders>,!/dist/",
+			"<open folders>",
+			"<open folders>,*html",
+			"<open folders>",
+			"<open folders>,*html",
+			"<open folders>",
+			"<open folders>,*vue",
+			"<open folders>,*vue,*html",
+			"<open folders>,*vue,*html,!node_modules",
+			"<open folders>,*vue,*html,!node_modules/**/*html",
+			"<open folders>,*vue,*html,!node_modules/",
+			"<open folders>,*vue,*html",
+			"<open folders>,*vue",
+			"<open folders>,*html",
+			"<open folders>,*vue,*scss",
+			"<open folders>,*vue",
+			"<open folders>,*scss",
+			"<open folders>",
+			"<open folders>,*.php",
+			"<open folders>",
+			"<open folders>,*css",
+			"<open folders>,*html",
+			"<open folders>",
+			"<open folders>,*js",
+			"<open folders>,js",
+			"<open folders>",
+			"<open folders>,*.scss",
+			"<open folders>,*.html",
+			"<open folders>,*.scss",
+			"<open folders>,.scss",
+			"<open folders>",
+			"<open folders>,*html",
+			"<open folders>",
+			"<open folders>,*html",
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"未入力です。",
+			"my_validation_rule",
+			"mwform_validation",
+			"mwform_validation_",
+			"mwform_validation_mw-wp-form-",
+			"filter",
+			"quick_",
+			"quick_edit_custom_box",
+			"columns",
+			"insert_columns",
+			"columns",
+			"会社名【地域】",
+			"posts_columns",
+			"manage_posts_columns",
+			"https:",
+			"small",
+			"center",
+			"月額課金のご解約",
+			"src=\"",
+			"href",
+			"breakMaxPhone",
+			"5px",
+			"\n            ",
+			"right",
+			"content",
+			"justify",
+			"        <footer class=\"l-footer\">\n            <div class=\"footer-inner\">\n                <div class=\"footer-nav\">\n                    <div class=\"btn-horizontal\">\n                        <a href='./' class=\"btn btn-social btn-fb icon-fb\">facebookをいいね！</a>\n                        <a href='./' class=\"btn btn-social btn-tw icon-tw\">twitterをフォロー</a>\n                    </div>\n                    <ul class=\"list-horizontal\">\n                        <li><a href='/guide/'>ご利用ガイド</a></li>\n                        <li><a href='/qa/'>よくある質問</a></li>\n                        <li><a href='/contact/'>お問い合わせ</a></li>\n                        <li><a href='/tokushou/'>特定商取引法に基づく表記</a></li>\n                    </ul>\n                </div>\n                <div class=\"list-authentication hide-phone\">\n                    <img src=\"../images/jasrac.png\" alt=\"JASRAC\" width=\"40\" height=\"40\">\n                    <p>JASRAC許諾：第9008689014Y45038号</p>\n                    <img src=\"../images/elicense.png\" alt=\"e-License\" width=\"81\" height=\"40\">\n                    <p>利用許諾番号：ID09010329</p>\n                    <img src=\"../images/jrc.png\" alt=\"JRC\" width=\"80\" height=\"40\">\n                    <p>許諾番号：X000654B02L</p>\n                </div>\n                <p class=\"txt small center\">各ページに掲載の記事・写真の無断転用を禁じます。すべての著作権は毎日放送に帰属します。</p>\n            </div>\n            <p class=\"txt-copyright\">Copyright © 1995-2016, Mainichi Broadcasting System, Inc. All Rights Reserved.</p>\n        </footer>\n",
+			"images",
+			"box-flex",
+			"block",
+			"display",
+			"stre",
+			"btn-solid prev",
+			"opaci",
+			"btn-solid gray",
+			"gray",
+			"$grayDark",
+			"baseBlack",
+			"icon_arrow",
+			"left",
+			"right",
+			"horizontal",
+			"Vw",
+			"fontVw",
+			"tokushou",
+			"kiyaku",
+			"tbl-guide",
+			"table",
+			"h1",
+			"guide",
+			"template.js",
+			"left",
+			"Phone",
+			"breakMaxPhone",
+			"mixin",
+			"fontVw",
+			"right",
+			"after",
+			"red",
+			"acrive",
+			"greenLignt",
+			"lighten",
+			"before",
+			"</a>",
+			"right",
+			"<h4",
+			"bold",
+			"mb3",
+			"large",
+			"bold",
+			"center",
+			"arrow_flat",
+			"32px",
+			"ttl-cat",
+			"img",
+			"bottom",
+			"left",
+			"Category",
+			"signup",
+			"<table>",
+			"table>",
+			"table",
+			"<hr class=\"line-dot\">",
+			"ttl-line left",
+			"breakMaxFablet",
+			"breakMaxPhone",
+			"breakMaxFablet",
+			"l-",
+			"l-main",
+			"特定商取引法に基づく表記",
+			"<h3",
+			"td",
+			"　",
+			"txt",
+			"<br>",
+			"<p>",
+			"※",
+			"                    <th></th>\n                    <td></td>\n",
+			"<a href='./'>特定商取引法に基づく表記</a>",
+			"<a href='./'>よくある質問</a>",
+			"<a href='./'>ご利用ガイド</a>",
+			"clearConfirmValue",
+			"clear",
+			"checkConfirm",
+			"changeValue",
+			"<form",
+			"3px",
+			"20px",
+			"FFF",
+			"icon-arrow",
+			"icon-category",
+			"before",
+			"arrow_red",
+			"left",
+			"img_arrow_r.png",
+			"isAlert",
+			"ale",
+			"false",
+			"notify-bar-inner",
+			"ns-",
+			"src=\"/images/logo_444.svg\" alt=\"\" width=\"230\" height=\"106\"",
+			"src=\"/images/logo_444.svg\" alt=\"\" width=\"230\"",
+			"toggle",
+			"transition",
+			"link",
+			"notify",
+			"notifies",
+			"isShow"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"http:",
+			"        <footer class=\"l-footer\">\n            <div class=\"footer-inner\">\n                <div class=\"footer-nav\">\n                    <div class=\"list-social\">\n                        <a href='./' class=\"btn btn-social btn-fb icon-fb\">facebookをいいね！</a>\n                        <a href='./' class=\"btn btn-social btn-tw icon-tw\">twitterをフォロー</a>\n                        <a href='https://checkout.rakuten.co.jp/shopping/' target='_blank'><img alt='楽天ID決済' src='https://checkout.rakuten.co.jp/2014/logo/s_sb_30088.jpg' border='0'/></a>\n                    </div>\n                    <ul class=\"list-subnav\">\n                        <li><a href='/guide/'>ご利用ガイド</a></li>\n                        <li><a href='/qa/'>よくある質問</a></li>\n                        <li><a href='/contact/'>お問い合わせ</a></li>\n                        <li><a href='/tokushou/'>特定商取引法に基づく表記</a></li>\n                        <li><a href='/guide/#env'>推奨環境</a></li>\n                        <li><a href='/policy/'>ご利用規約</a></li>\n                        <li><a href=\"http://www.mbs.jp/mbs/kojin-j/\" target=\"_blank\">個人情報について</a></li>\n                    </ul>\n                </div>\n                <div class=\"list-authentication hide-phone\">\n                    <img src=\"/images/jasrac.png\" alt=\"JASRAC\" width=\"40\" height=\"40\">\n                    <p>JASRAC許諾：第9008689014Y45038号</p>\n                    <img src=\"/images/elicense.png\" alt=\"e-License\" width=\"81\" height=\"40\">\n                    <p>利用許諾番号：ID09010329</p>\n                    <img src=\"/images/jrc.png\" alt=\"JRC\" width=\"80\" height=\"40\">\n                    <p>許諾番号：X000654B02L</p>\n                </div>\n                <p class=\"txt small center\">各ページに掲載の記事・写真の無断転用を禁じます。すべての著作権は毎日放送に帰属します。</p>\n            </div>\n            <p class=\"txt-copyright\">Copyright © 1995-2016, Mainichi Broadcasting System, Inc. All Rights Reserved.</p>\n        </footer>\n",
+			"ttl-page__sp",
+			"<a href='/tokushou/'>特定商取引法に基づく表記</a>",
+			"<a href='/qa/'>よくある質問</a>",
+			"<a href='/guide/'>ご利用ガイド</a>",
+			"src=\"/images/logo_444.svg\" alt=\"\"",
+			"img src=\"/images/logo_444.svg\" alt=\"MBS動画イズム444\"",
+			"src=\"/images/logo_444.svg\" alt=\"MBS動画イズム444\"",
+			"<title>MBS動画イズム444</title>",
+			"fontVw(",
+			"logo_444.svg",
+			"<copyright></copyright>",
+			"マイページ",
+			"",
+			"登録",
+			"",
+			"reset",
+			"            <contents-header>\n                <div class=\"static-site__logo\">\n                    <a href=\"/\"><img src=\"/images/logo_444.png\" alt=\"\" width=\"230\" height=\"106\"></a>\n                </div>\n            </contents-header>\n",
+			"<a href='/contact/'>お問い合わせ</a>",
+			"/history/",
+			"import Vue from 'vue'\nimport VueTouch from 'vue-touch'",
+			"import Vue from 'vue'\nimport VueTouch from 'vue-touch'\n",
+			"Vue.use(VueTouch)\n\nnew Vue({",
+			"                </div> -->\n                <p class=\"box-copyright\">\n                    ※仮にTverの分を載せています<br>\n                    ©NTV(C)TBS（C）フジテレビ／イースト・エンタテインメント(C)テレビ朝日Copyright(c)TV TOKYO Corporation All rights reserved.（C)朝日放送©NTV/TOHO CINEMAS LTD./DLE(C)MBSCopyright (C) Television Osaka Inc. All Rights Reserved.(C)朝日放送Copyright(c)BS JAPAN Corporation All rights reserved.（C）CTV（C）BSフジ(C)メ～テレ 協力：エンタメ～テレ動画(C)BS-TBS写真提供 フジテレビ(C)CBC(C)テレビ朝日・テレビ朝日映像（C）フジテレビ／共同テレビ（C）山本甲士／小学館（C）東海テレビ／ユニオン映画©NTV/HJ Holdings(C)'15,'16 SANRIO サンリオ/TBS・ファンワークス(C)TOMY/ワンダプロジェクト･TBS（C）いがらしみきお／竹書房・フジテレビ・エイケン(C)2013, 2015 SANRIO CO., LTD. TOKYO, JAPAN S/D･G（C）フジテレビ／フジゲームス(C)BS朝日/ViViA写真提供　フジテレビ(C)テレビ朝日・東映©BS日テレ(C)RKB（C）高須賀由枝／集英社・フジテレビ(C)MBS(C)えむき\n                </p>\n                <a href=\".\" class=\"btn-pagetop\"><img src=\"../images/btn_pagetop.png\" alt=\"ページ上部へ\" width=\"220\" height=\"108\"></a>\n",
+			"        <header>\n            <div class=\"l-header__min\">\n                <div class=\"logo\">\n                    <a href=\"/\"><img src=\"../images/logo_444.png\" alt=\"\" width=\"230\" height=\"106\"></a>\n                </div>\n            </div>\n        </header>\n",
+			"<a href='/signup/' class=\"btn-sq btn-pink icon-registration\">新規会員登録</a>",
+			"<a href='/login/' class=\"btn-sq btn-blue icon-login\">ログイン</a>",
+			"/announcer/\"",
+			"/sports/\"",
+			"/documentary/\"",
+			"\"/anime/\"",
+			"/variety/\"",
+			"/drama/\"",
+			"                        <li><a class=\"icon-arrow left\" href=\"/drama/\">ドラマ</a></li>\n                        <li><a class=\"icon-arrow left\" href=\"/variety/\">バラエティ</a></li>\n                        <li><a class=\"icon-arrow left\" href=\"/anime/\">アニメ</a></li>\n                        <li><a class=\"icon-arrow left\" href=\"/documentary/\">情報・ドキュメンタリー</a></li>\n                        <li><a class=\"icon-arrow left\" href=\"/sports/\">スポーツ</a></li>\n                        <li><a class=\"icon-arrow left\" href=\"/announcer/\">アナウンサー</a></li>\n",
+			"                        <a class=\"btn-nav\" href=\"/\">おすすめ</a>\n                        <a class=\"btn-nav\" href=\"/drama\">ドラマ</a>\n                        <a class=\"btn-nav active\" href=\"/variety\">バラエティ</a>\n                        <a class=\"btn-nav\" href=\"/anime\">アニメ</a>\n                        <a class=\"btn-nav\" href=\"/documentary\">情報・<br>ドキュメンタリー</a>\n                        <a class=\"btn-nav\" href=\"/sports\">スポーツ</a>\n                        <a class=\"btn-nav\" href=\"/announcer\">アナウンサー</a>\n",
+			"                    <div class=\"list-gnav-inner\">\n                        <a class=\"btn-nav\" href=\"/\">おすすめ</a>\n                        <a class=\"btn-nav\" href=\"/drama\">ドラマ</a>\n                        <a class=\"btn-nav active\" href=\"/variety\">バラエティ</a>\n                        <a class=\"btn-nav\" href=\"/anime\">アニメ</a>\n                        <a class=\"btn-nav\" href=\"/documentary\">情報・<br>ドキュメンタリー</a>\n                        <a class=\"btn-nav\" href=\"/sports\">スポーツ</a>\n                        <a class=\"btn-nav\" href=\"/announcer\">アナウンサー</a>\n                    </div>\n",
+			"                    <ul>\n                        <li><a class=\"icon-arrow left\" href=\"/drama\">ドラマ</a></li>\n                        <li><a class=\"icon-arrow left\" href=\"/variety\">バラエティ</a></li>\n                        <li><a class=\"icon-arrow left\" href=\"/anime\">アニメ</a></li>\n                        <li><a class=\"icon-arrow left\" href=\"/documentary\">情報・ドキュメンタリー</a></li>\n                        <li><a class=\"icon-arrow left\" href=\"/sports\">スポーツ</a></li>\n                        <li><a class=\"icon-arrow left\" href=\"/announcer\">アナウンサー</a></li>\n                    </ul>\n",
+			"form-wrapper",
+			"width=\"230\" height=\"106\"",
+			"axios.get",
+			"import axios from 'axios'",
+			"updateEpisodeList",
+			"<!DOCTYPE html>\n<html lang=\"ja\">\n",
+			"",
+			"/images",
+			"",
+			"store.get('",
+			"store.get(`",
+			"store.get",
+			"import store from '../store'",
+			"import store from 'store'",
+			"./",
+			"axios.get(`https://d3rmynrmqb9cpq.cloudfront.net/www",
+			"axios.get(`https://d3rmynrmqb9cpq.cloudfront.net/www/",
+			"href=\"./cat",
+			"<a href=\"/\"><img src=\"../images/logo_444.png\" alt=\"\" width=\"231\" height=\"110\"></a>",
+			"rspImage",
+			"bg_stripe.png",
+			"recommend",
+			"@include grid($1);",
+			"white-space: pre-wrap;",
+			"",
+			"@include baseWidth;",
+			"/xhr_images/promotion/",
+			"/xhr_images/drama/",
+			"\n",
+			"",
+			"<script src=\"/assets/js/jquery/jquery.js\"></script>\n    <script src=\"/assets/js/bootstrap/bootstrap.min.js\"></script>\n    <script src=\"/assets/js/bootstrap/bootstrap/form.js\"></script>\n    <script src=\"/assets/lib/datepicker/js/bootstrap-datepicker.js\"></script>\n    <script src=\"/assets/lib/datepicker/js/locales/bootstrap-datepicker.ja.js\"></script>\n    <script src=\"/assets/lib/timepicker/bootstrap-timepicker.js\"></script>",
+			"<title>TAS Agent</title>",
+			"width=\"203\"",
+			"<a class=\"navs\" href=\"#\"><span><img src=\"img/common/$1.png\"></span><br>$2</a>",
+			"",
+			"<span class=\"user-name-text\">タナカタロウ</span><a class=\"logout-link\" href=\"#logout\">ログアウト</a>",
+			"",
+			"<img src=\"./img/common/logo.png\" alt=\"TAS\" width=\"223\">",
+			"run.html",
+			"アカウント",
+			"Devicepack demo",
+			" id=\"main\" class=\"main\"",
+			"<div class=\"panel panel-default dvp-list-project\">\n                <div class=\"panel-heading\" role=\"tab\" id=\"headingOne\">\n                    <h4 class=\"panel-title\">\n                      <a data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseOne\" aria-expanded=\"false\" aria-controls=\"collapseOne\" class=\"collapsed\">\n                        プロジェクト\n                      </a>\n                    </h4>\n                </div>\n                <div id=\"collapseOne\" class=\"panel-collapse collapse\" role=\"tabpanel\" aria-labelledby=\"headingOne\" aria-expanded=\"false\" style=\"height: 0px;\">\n                    <ul class=\"nav dvp-side-subnav\">\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link\" href=\"top.html\">demo project</a>\n                        </li>\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link\" href=\"top.html\">demo project</a>\n                        </li>\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link disabled\" href=\"top.html\">&gt;&gt;ランの詳細を見る</a>\n                        </li>\n                    </ul>\n                </div>\n            </div>\n            <div class=\"panel panel-default dvp-list-run\">\n                <div class=\"panel-heading\" role=\"tab\" id=\"headingTwo\">\n                    <h4 class=\"panel-title\">\n                      <a class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">\n                        ラン\n                      </a>\n                    </h4>\n                </div>\n                <div id=\"collapseTwo\" class=\"panel-collapse collapse\" role=\"tabpanel\" aria-labelledby=\"headingTwo\">\n                    <ul class=\"nav dvp-side-subnav\">\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link\" href=\"#\">demo_undotsushin.ipa</a>\n                        </li>\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link\" href=\"#\">demo_undotsushin.ipa</a>\n                        </li>\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link disabled\" href=\"#\">&gt;&gt;ランの詳細を見る</a>\n                        </li>\n                    </ul>\n                </div>\n            </div>",
+			"<a href=\"./new1.html\">ランの新規作成</a>",
+			"col-lg-",
+			"            <a class=\"global__toggle__nav_icon\" href=\"#\" aria-expanded=\"false\" aria-controls=\"navlist\"><img class=\"menu\" src=\"../img/btn_menu_sp.png\" alt=\"menu\"><img class=\"close\" src=\"../img/btn_close_sp.png\" alt=\"close\"></a>\n            <nav id=\"navlist\" class=\"global__toggle__nav_list\" aria-expanded=\"true\">",
+			"<a href=\"https://www.jimin.jp/\" target=\"_blank\"><span class=\"nw\">自民党ホームページ</span></a>",
+			"                <ul class=\"child2__nav_list\">\n                    <li><a href=\"#\">政策BANK</a></li><!--\n                 --><!--<li><a href=\"#\">選挙公約2016（PDF）</a></li>--><!--\n                 --><li><a href=\"#\">政策パンフレット2016（PDF）</a></li><!--\n                 --><!--<li><a href=\"#\">こどもマニフェスト（PDF）</a></li>--><!--\n                 --><li><a href=\"#\">都道府県別政策集</a></li><!--\n                 --><!--<li><a href=\"#\" target=\"_blank\"><span class=\"nw\">自民党参院選2016</span></a></li>--><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">自民党ホームページ</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">ネット選挙について</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">プライバシーポリシー</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">お問い合わせ</span></a></li><!--\n                 --><li class=\"nav__sns\">\n                 <ul>\n                 <li><a href=\"http://www.facebook.com/share.php\" onclick=\"window.open(encodeURI(decodeURI(this.href)), 'FBwindow', 'width=554, height=470, menubar=no, toolbar=no, scrollbars=yes'); return false;\" rel=\"nofollow\"><img src=\"../img/btn_fb.png\" alt=\"シェアする\"></a></li>\n                    <li><a href=\"http://twitter.com/share\" onClick=\"window.open(encodeURI(decodeURI(this.href)), 'tweetwindow', 'width=650, height=470, personalbar=0, toolbar=0, scrollbars=1, sizable=1'); return false;\" rel=\"nofollow\"><img src=\"../img/btn_tw.png\" alt=\"\"></a></li>\n                 </ul>\n                 </li>\n                </ul>",
+			"<meta name=\"twitter:title\" content=\"自民党政策サイト\" />",
+			"<meta property=\"og:title\" content=\"自民党政策サイト\" />",
+			"<!-- *** OGP *** -->\n<meta property=\"og:title\" content=\"自由民主党\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:image\" content=\"https://www.jimin.jp/common/img/facebook-lbdems.jpg\" />\n<meta property=\"og:url\" content=\"https://special.jimin.jp/political_promise/\" />\n\n<meta name=\"twitter:title\" content=\"自由民主党\" />\n<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@jimin_koho\" />\n<meta name=\"twitter:description\" content=\"「この道を。力強く、前へ。」自民党の政策サイトです。道半ばではありますが、アベノミクスは確実に「結果」を生み出しています。この道を、力強く、前へ、進んで行こうではありませんか。 国民の皆様と共に,「誇りある日本」を取り戻すために。\" />\n<meta name=\"twitter:image\" content=\"https://www.jimin.jp/common/img/twitter-lbdems.jpg\" />\n<meta property=\"twitter:account_id\" content=\"58359180\" />\n",
+			"https://special.jimin.jp/political_promise/",
+			"<script>\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');\n  ga('create', 'UA-41065878-7', 'auto');\n  ga('send', 'pageview');\n</script>\n</body>\n",
+			"                 --><!--<li><a href=\"#\" target=\"_blank\"><span class=\"nw\">自民党参院選2016</span></a></li>--><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">自民党ホームページ</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">ネット選挙について</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">プライバシーポリシー</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">お問い合わせ</span></a></li>",
+			"                 --><!--<li><a href=\"#\" target=\"_blank\">自民党参院選2016<span class=\"nw\"></span></a></li>--><!--\n                 --><li><a href=\"#\" target=\"_blank\">自民党ホームページ<span class=\"nw\"></span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">ネット選挙について<span class=\"nw\"></span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">プライバシーポリシー<span class=\"nw\"></span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">お問い合わせ<span class=\"nw\"></span></a></li>",
+			"",
+			"都道府県別政策集",
+			"<div class=\"global__toggle__nav_icon\"><a href=\"#global__toggle__nav\"><img class=\"menu\" src=\"../img/btn_menu_sp.png\" alt=\"menu\"><img class=\"close\" src=\"../img/btn_close_sp.png\" alt=\"close\"></a></div>",
+			"<title>｜自民党政策サイト</title>",
+			"                <ul class=\"child2__nav_list\">\n                    <li><a href=\"#\">政策BANK</a></li><!--\n                 --><!--<li><a href=\"#\">選挙公約2016（PDF）</a></li>--><!--\n                 --><li><a href=\"#\">政策パンフレット2016（PDF）</a></li><!--\n                 --><!--<li><a href=\"#\">こどもマニフェスト（PDF）</a></li>--><!--\n                 --><li><a href=\"#\">都道府県別政策集（PDF）</a></li><!--\n                 --><!--<li><a href=\"#\" target=\"_blank\">自民党参院選2016</a></li>--><!--\n                 --><li><a href=\"#\" target=\"_blank\">自民党ホームページ</a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">ネット選挙について</a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">プライバシーポリシー</a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">お問い合わせ</a></li>\n                </ul>",
+			"\n<title>自由民主党</title>\n",
+			"",
+			"<title>自由民主党</title>",
+			"<title>siteName</title>\n\n<!-- *** OGP *** -->\n<meta property=\"og:title\" content=\"自由民主党\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:image\" content=\"https://www.jimin.jp/common/img/facebook-lbdems.jpg\" />\n<meta property=\"og:url\" content=\"https://www.jimin.jp/election/results/sen_san24/political_promise/\" />",
+			"<meta name=\"description\" content=\"「この道を。力強く、前へ。」自民党の政策サイトです。道半ばではありますが、アベノミクスは確実に「結果」を生み出しています。この道を、力強く、前へ、進んで行こうではありませんか。 国民の皆様と共に,「誇りある日本」を取り戻すために。\">\n<meta name=\"keywords\" content=\"自民党,自由民主党,自民,安倍晋三,アベノミクス,経済,外交,一億総活躍,3本の矢,地方創生,18歳選挙,女性活躍,子育て,介護,高齢者,若者,中小企業,農業,TPP,外国人,復興,奨学金,就職,保育,医療,教育,環境,エネルギー,労働\">",
+			"id=\"pageup",
+			"<script src=\"../js/jquery.function.js\"></script>",
+			"<script src=\"../js/jquery.easing.1.3.js\"></script>",
+			"<a id=\"#pageup\" href=\"#\">",
+			"<a class=\"logo\" href=\"../../index.html\">",
+			"<a class=\"logo\" href=\"../index.html\">",
+			"../prevention",
+			"/img/diplomacy",
+			"../diplomacy",
+			"small",
+			"<a href=\"../society/index.html\">さあ、一億総活躍社会へ！</a>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-content/themes/dac/functions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23194,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19682,
+								19682
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 7775.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1201,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										215,
+										233
+									],
+									[
+										446,
+										464
+									],
+									[
+										727,
+										745
+									],
+									[
+										1082,
+										1100
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								1096,
+								1096
+							]
+						],
+						"settings":
+						{
+							"default_dir": "/Users/n-futagami/_Project/Limlet_DAC/www/html",
+							"detect_indentation": false,
+							"incomplete_sync": null,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-content/plugins/mw-wp-form/classes/controllers/class.main.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10616,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3005,
+								3005
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5581.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/n-futagami/_Project/Limlet_DAC/www/html/wp/wp-content/plugins/mw-wp-form/readme.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25168,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19290,
+								19307
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 7805.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 713.0
+	},
+	"pinned_build_system": "",
+	"project": "DAC.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"icon",
+				"scss/parts/_icon.scss"
+			],
+			[
+				"img",
+				"scss/parts/_image.scss"
+			],
+			[
+				"t",
+				"scss/parts/_txt.scss"
+			],
+			[
+				"lay",
+				"scss/parts/_layout.scss"
+			],
+			[
+				"btn",
+				"scss/parts/_btn.scss"
+			],
+			[
+				"404",
+				"404.html"
+			],
+			[
+				"comp",
+				"reset/complete.html"
+			],
+			[
+				"mixi",
+				"scss/base/_mixin.scss"
+			],
+			[
+				"sign",
+				"scss/pages/_signup.scss"
+			],
+			[
+				"base",
+				"scss/base/_base.scss"
+			],
+			[
+				"step3",
+				"signup/step3.html"
+			],
+			[
+				"step",
+				"signup/step2_mobile.html"
+			],
+			[
+				"footer",
+				"scss/parts/_footer.scss"
+			],
+			[
+				"guide",
+				"guide/index.html"
+			],
+			[
+				"sig",
+				"scss/pages/_signup.scss"
+			],
+			[
+				"gui",
+				"guide/index.html"
+			],
+			[
+				"mixin",
+				"scss/base/_mixin.scss"
+			],
+			[
+				"sett",
+				"scss/base/_setting.scss"
+			],
+			[
+				"list",
+				"scss/parts/_list.scss"
+			],
+			[
+				"txt",
+				"scss/parts/_txt.scss"
+			],
+			[
+				"ttl",
+				"scss/parts/_ttl.scss"
+			],
+			[
+				"im",
+				"scss/parts/_image.scss"
+			],
+			[
+				"page_in",
+				"scss/pages/_pages_inc.scss"
+			],
+			[
+				"style",
+				"css/style.css"
+			],
+			[
+				"line",
+				"scss/parts/_line.scss"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"signupste",
+				"signup/step1.html"
+			],
+			[
+				"signup",
+				"src/signup/main.js"
+			],
+			[
+				"setting",
+				"scss/base/_setting.scss"
+			],
+			[
+				"mi",
+				"scss/base/_mixin.scss"
+			],
+			[
+				"no",
+				"src/modules/Notify.vue"
+			],
+			[
+				"notif",
+				"src/modules/Notify.vue"
+			],
+			[
+				"noti",
+				"src/modules/Notice.vue"
+			],
+			[
+				"step1",
+				"signup/step1.html"
+			],
+			[
+				"header",
+				"scss/parts/_header.scss"
+			],
+			[
+				"draw",
+				"src/modules/Drawer.vue"
+			],
+			[
+				"dwa",
+				"src/modules/Drawer.vue"
+			],
+			[
+				"loginvue",
+				"src/modules/Login.vue"
+			],
+			[
+				"cont",
+				"src/modules/ContentsHeader.vue"
+			],
+			[
+				"pages",
+				"scss/pages/_pages_inc.scss"
+			],
+			[
+				"contact/in",
+				"contact/index.html"
+			],
+			[
+				"account",
+				"src/account/Account.vue"
+			],
+			[
+				"settin",
+				"scss/base/_setting.scss"
+			],
+			[
+				"sn",
+				"src/title/Sns.vue"
+			],
+			[
+				"title",
+				"title/index.html"
+			],
+			[
+				"cal",
+				"src/modules/Caroucel.vue"
+			],
+			[
+				"setti",
+				"scss/base/_setting.scss"
+			],
+			[
+				"drvue",
+				"src/modules/Drawer.vue"
+			],
+			[
+				"topscs",
+				"scss/pages/_top.scss"
+			],
+			[
+				"topmai",
+				"src/top/main.js"
+			],
+			[
+				"content",
+				"src/modules/ContentsHeader.vue"
+			],
+			[
+				"con",
+				"src/modules/ContentsHeader.vue"
+			],
+			[
+				"hist",
+				"src/history/History.vue"
+			],
+			[
+				"filter",
+				"src/filters/index.js"
+			],
+			[
+				"tx",
+				"scss/parts/_txt.scss"
+			],
+			[
+				"signmain.js",
+				"src/signup/main.js"
+			],
+			[
+				"iem",
+				"src/account/Item.vue"
+			],
+			[
+				"accon",
+				"src/account/Account.vue"
+			],
+			[
+				"login",
+				"login/index.html"
+			],
+			[
+				"login/",
+				"src/login/main.js"
+			],
+			[
+				"detail",
+				"src/title/Detail.vue"
+			],
+			[
+				"_txt",
+				"scss/parts/_txt.scss"
+			],
+			[
+				"login/in",
+				"login/index.html"
+			],
+			[
+				"remain",
+				"scss/pages/_remainder.scss"
+			],
+			[
+				"tt",
+				"scss/parts/_ttl.scss"
+			],
+			[
+				"form",
+				"scss/parts/_form.scss"
+			],
+			[
+				"accontv",
+				"src/account/Account.vue"
+			],
+			[
+				"contact/main",
+				"src/contact/main.js"
+			],
+			[
+				"contact",
+				"src/contact/Contact.vue"
+			],
+			[
+				"histo",
+				"src/history/History.vue"
+			],
+			[
+				"mov",
+				"src/title/Movie.vue"
+			],
+			[
+				"cate",
+				"src/cat/Category.vue"
+			],
+			[
+				"accou",
+				"src/account/Account.vue"
+			],
+			[
+				"history/in",
+				"history/index.html"
+			],
+			[
+				"conte",
+				"src/modules/ContentsHeader.vue"
+			],
+			[
+				"ac",
+				"account/index.html"
+			],
+			[
+				"item",
+				"src/account/Item.vue"
+			],
+			[
+				"account/",
+				"src/account/Account.vue"
+			],
+			[
+				"mo",
+				"src/title/Movie.vue"
+			],
+			[
+				"title/main",
+				"src/title/main.js"
+			],
+			[
+				"set",
+				"scss/base/_setting.scss"
+			],
+			[
+				"store",
+				"src/modules/store/index.js"
+			],
+			[
+				"play",
+				"src/title/Player.vue"
+			],
+			[
+				"movie",
+				"src/title/Movie.vue"
+			],
+			[
+				"drawer",
+				"src/modules/Drawer.vue"
+			],
+			[
+				"lib",
+				"scss/parts/_libs.scss"
+			],
+			[
+				"reset",
+				"scss/base/_reset.scss"
+			],
+			[
+				"announcer/",
+				"announcer/index.html"
+			],
+			[
+				"d",
+				"scss/parts/_drawer.scss"
+			],
+			[
+				"libs",
+				"scss/parts/_libs.scss"
+			],
+			[
+				"patr",
+				"scss/_parts.scss"
+			],
+			[
+				"carou",
+				"src/modules/Caroucel.vue"
+			],
+			[
+				"top",
+				"src/top/main.js"
+			],
+			[
+				"store.sj",
+				"src/title/store.js"
+			],
+			[
+				"titl",
+				"title/index.html"
+			],
+			[
+				"page/top",
+				"scss/pages/_top.scss"
+			],
+			[
+				"page/",
+				"scss/pages/_cat.scss"
+			],
+			[
+				"app",
+				"js/app.js"
+			],
+			[
+				"draws",
+				"scss/parts/_drawer.scss"
+			],
+			[
+				"titlev",
+				"src/title/Title.vue"
+			],
+			[
+				"titlehtml",
+				"title/index.html"
+			],
+			[
+				"lib/",
+				"src/lib/index.js"
+			],
+			[
+				"bt",
+				"scss/parts/_btn.scss"
+			],
+			[
+				"styl",
+				"scss/style.scss"
+			],
+			[
+				"notify",
+				"scss/parts/_notify.scss"
+			],
+			[
+				"parts",
+				"scss/_parts.scss"
+			],
+			[
+				"top/main",
+				"src/top/main.js"
+			],
+			[
+				"srclogi",
+				"src/login/main.js"
+			],
+			[
+				"sports",
+				"sports/index.html"
+			],
+			[
+				"programs",
+				"src/modules/Programs.vue"
+			],
+			[
+				"li",
+				"src/title/List.vue"
+			],
+			[
+				"btnsc",
+				"scss/parts/_btn.scss"
+			],
+			[
+				"reman",
+				"remainder/index.html"
+			],
+			[
+				"log",
+				"login/index.html"
+			],
+			[
+				"si",
+				"signup/index.html"
+			],
+			[
+				"pa",
+				"scss/_parts.scss"
+			],
+			[
+				"conten",
+				"scss/parts/_contents.scss"
+			],
+			[
+				"lib/ind",
+				"src/lib/index.js"
+			],
+			[
+				"store/",
+				"src/store/index.js"
+			],
+			[
+				"_header",
+				"scss/parts/_header.scss"
+			],
+			[
+				"listvue",
+				"src/title/List.vue"
+			],
+			[
+				"program",
+				"src/title/Program.vue"
+			],
+			[
+				"episodevue",
+				"src/title/Episode.vue"
+			],
+			[
+				"_footer",
+				"scss/parts/_footer.scss"
+			],
+			[
+				"_settin",
+				"scss/base/_setting.scss"
+			],
+			[
+				"_btnscss",
+				"scss/parts/_btn.scss"
+			],
+			[
+				"mixiscs",
+				"scss/base/_mixin.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 307.0,
+		"last_filter": "btn-hi",
+		"selected_items":
+		[
+			[
+				"btn-hi",
+				"btn-horizontal"
+			],
+			[
+				"btn-ho",
+				"btn-horizontal"
+			],
+			[
+				"line-",
+				"line-dot"
+			],
+			[
+				"icon-a",
+				"icon-arrow"
+			],
+			[
+				"l-features",
+				"l-features"
+			],
+			[
+				"icon",
+				"icon-fb"
+			],
+			[
+				"trigger",
+				"menu-trigger"
+			],
+			[
+				"contents-mobile-login",
+				"contents-mobile-login"
+			],
+			[
+				"btn-regi",
+				"btn-registration"
+			],
+			[
+				"register",
+				"btn-registration:hover"
+			],
+			[
+				"btn-f",
+				"btn-f"
+			],
+			[
+				"header-greeting",
+				"header-greeting"
+			],
+			[
+				"ttl-",
+				"ttl-cat"
+			],
+			[
+				"ttl-cat",
+				"ttl-cat"
+			],
+			[
+				"btn-",
+				"btn-group"
+			],
+			[
+				"btn-group",
+				"btn-group"
+			],
+			[
+				"copy",
+				"box-copyright"
+			],
+			[
+				"ttl",
+				"ttl-line"
+			],
+			[
+				"sePa",
+				"setPage (state, url)"
+			],
+			[
+				"setPa",
+				"setPage"
+			],
+			[
+				"rsp",
+				"rspImage"
+			],
+			[
+				"grid",
+				"grid"
+			],
+			[
+				"show-me",
+				"show-menu"
+			],
+			[
+				"txtsma",
+				"txt.small"
+			],
+			[
+				"step",
+				"list-steps"
+			],
+			[
+				"box-",
+				"box-flex"
+			],
+			[
+				"box-fle",
+				"box-flex"
+			],
+			[
+				"list-ste",
+				"list-steps"
+			],
+			[
+				"flex",
+				"box-flex"
+			],
+			[
+				"txt",
+				"txt.center"
+			],
+			[
+				"promo",
+				"promotion"
+			],
+			[
+				"gnav",
+				"list-gnav"
+			],
+			[
+				"list-ho",
+				"list-horizontal"
+			],
+			[
+				"contens",
+				"contents-smartapp"
+			],
+			[
+				"contents-a",
+				"contents-smartapp"
+			],
+			[
+				"clp_media_posted_on",
+				"clp_media_posted_on"
+			],
+			[
+				"posted_on",
+				"clp_media_posted_on"
+			],
+			[
+				"btn-default",
+				"btn-default"
+			],
+			[
+				"center",
+				"center-block"
+			],
+			[
+				"pagination",
+				"pagination"
+			],
+			[
+				"autosize",
+				"_autoSize"
+			],
+			[
+				"vam",
+				"va-m"
+			],
+			[
+				"vm",
+				"va-m"
+			],
+			[
+				"label",
+				"label"
+			],
+			[
+				"radio",
+				"radio"
+			],
+			[
+				"body",
+				"body"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"table-bordered",
+				"table-bordered"
+			],
+			[
+				"text-cen",
+				"text-center"
+			],
+			[
+				"clea",
+				"clearfix"
+			],
+			[
+				"label-primary",
+				"label-primary"
+			],
+			[
+				"uk-icon-chevo",
+				"uk-icon-chevron-left"
+			],
+			[
+				"fade",
+				"uk-animation-fade"
+			],
+			[
+				"uk-open",
+				"uk-open"
+			],
+			[
+				"uk-fle",
+				"uk-flex"
+			],
+			[
+				"dvp-devi",
+				"dvp-device-table"
+			],
+			[
+				"tool",
+				"Tooltip"
+			],
+			[
+				"nav-tabs",
+				"nav-tabs"
+			],
+			[
+				"table-re",
+				"table-responsive"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"c-indicator",
+				"c-indicator"
+			],
+			[
+				"table-row-variant",
+				"table-row-variant"
+			],
+			[
+				"table-success",
+				"table-success"
+			],
+			[
+				"thead-inverse",
+				"thead-inverse"
+			],
+			[
+				"alert-va",
+				"alert-variant"
+			],
+			[
+				"alert",
+				"alert"
+			],
+			[
+				"bodr",
+				"border-radius"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"sele",
+				"select"
+			],
+			[
+				"btn",
+				"btn-secondary"
+			],
+			[
+				"button",
+				"Button"
+			],
+			[
+				"input",
+				"input-group"
+			],
+			[
+				"table",
+				"table-responsive"
+			],
+			[
+				"size",
+				"size"
+			],
+			[
+				"clear",
+				"clearfix"
+			],
+			[
+				"hori",
+				"dl-horizontal"
+			],
+			[
+				"font",
+				"font-weight-normal"
+			],
+			[
+				"radiu",
+				"border-radius"
+			],
+			[
+				"bread",
+				"breadcrumb"
+			],
+			[
+				"box-shadow",
+				"box-shadow"
+			]
+		],
+		"width": 449.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 170.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

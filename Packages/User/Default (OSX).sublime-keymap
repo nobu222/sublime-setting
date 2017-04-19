@@ -1,0 +1,225 @@
+[
+  {
+    "command": "null",
+    "keys": [
+      "shift+super+c"
+    ]
+  },
+  {
+    "args": {
+      "activate": true,
+      "auto_save": true,
+      "browsers": [
+        "chrome"
+      ],
+      "delay": 0.5
+    },
+    "command": "browser_refresh",
+    "keys": [
+      "ctrl+r"
+    ]
+  },
+  {
+    "args": {
+      "contents": "\n${TM_CURRENT_LINE/^\\s*(\\*\\s*).*$/$1/}"
+    },
+    "command": "insert_snippet",
+    "keys": [
+      "shift+enter"
+    ]
+  },
+  {
+    "command": "next_bookmark",
+    "keys": [
+      "f2"
+    ]
+  },
+  {
+    "command": "prev_bookmark",
+    "keys": [
+      "shift+f2"
+    ]
+  },
+  {
+    "command": "toggle_bookmark",
+    "keys": [
+      "ctrl+f2"
+    ]
+  },
+  {
+    "command": "clear_bookmarks",
+    "keys": [
+      "ctrl+shift+f2"
+    ]
+  },
+  {
+    "command": "select_all_bookmarks",
+    "keys": [
+      "alt+f2"
+    ]
+  },
+  {
+    "command": "open_terminal",
+    "keys": [
+      "f1"
+    ]
+  },
+  {
+    "command": "open_terminal_project_folder",
+    "keys": [
+      "super+shift+alt+f1"
+    ]
+  },
+  {
+    "command": "view_in_browser",
+    "keys": [
+      "f12"
+    ]
+  },
+  {
+    "command": "file_system_comp_trigger",
+    "keys": [
+      "ctrl+/"
+    ]
+  },
+  {
+    "args": {
+      "goto": "next"
+    },
+    "command": "goto_css_declaration",
+    "keys": [
+      "super+alt+right"
+    ]
+  },
+  {
+    "args": {
+      "goto": "prev"
+    },
+    "command": "goto_css_declaration",
+    "keys": [
+      "super+alt+left"
+    ]
+  },
+  {
+    "args": {
+      "file": "Packages/User/lineEnd.sublime-macro"
+    },
+    "command": "run_macro_file",
+    "keys": [
+      "ctrl+e"
+    ]
+  },
+  {
+    "args": {
+      "overlay": "command_palette"
+    },
+    "command": "show_overlay",
+    "keys": [
+      "ctrl+;"
+    ]
+  },
+  {
+    "command": "goto_definition",
+    "keys": [
+      "f3"
+    ]
+  },
+  {
+    "command": "jump_back",
+    "keys": [
+      "super+left"
+    ]
+  },
+  {
+    "command": "jump_forward",
+    "keys": [
+      "super+right"
+    ]
+  },
+  {
+    "command": "goto_symbol_in_project",
+    "keys": [
+      "super+ctrl+r"
+    ]
+  },
+  {
+    "command": "alignment",
+    "keys": [
+      "super+ctrl+a"
+    ]
+  },
+  {
+    "command": "generate_naming",
+    "keys": [
+      "super+ctrl+d"
+    ]
+  },
+  {
+    "args": {
+      "block": true
+    },
+    "command": "toggle_comment",
+    "keys": [
+      "super+shift+forward_slash"
+    ]
+  },
+  {
+    "args": {
+      "action": "expand_abbreviation"
+    },
+    "command": "run_emmet_action",
+    "context": [
+      {
+        "key": "emmet_action_enabled.expand_abbreviation"
+      }
+    ],
+    "keys": [
+      "super+e"
+    ]
+  }
+]
+  // {
+  //   "args": {
+  //     "action": "balance_outward"
+  //   },
+  //   "command": "run_emmet_action",
+  //   "context": [
+  //     {
+  //       "key": "emmet_action_enabled.balance_outward"
+  //     }
+  //   ],
+  //   "keys": [
+  //     "ctrl+k"
+  //   ]
+  // },
+
+  // {
+  //   "args": {
+  //     "file": "Packages/User/Delete line and insert.sublime-macro"
+  //   },
+  //   "command": "run_macro_file",
+  //   "keys": [
+  //     "ctrl+d",
+  //     "ctrl+d"
+  //   ]
+  // },
+  // {
+  //   "args": {
+  //     "file": "Packages/User/Delete to BOL.sublime-macro"
+  //   },
+  //   "command": "run_macro_file",
+  //   "keys": [
+  //     "ctrl+d",
+  //     "ctrl+0"
+  //   ]
+  // },
+  // {
+  //   "args": {
+  //     "file": "Packages/User/Delete a Word.sublime-macro"
+  //   },
+  //   "command": "run_macro_file",
+  //   "keys": [
+  //     "ctrl+d",
+  //     "ctrl+w"
+  //   ]
+  // },

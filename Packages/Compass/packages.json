@@ -1,0 +1,18 @@
+{
+	"schema_version": "3.0.0",
+	"packages": [
+		{
+			"name": "Compass",
+			"details": "https://github.com/whatwedo/sublime-text-compass",
+			"author": "whatwedo",
+			"readme": "https://raw.githubusercontent.com/whatwedo/sublime-text-compass/develop/README.markdown",
+			"releases": [
+				{
+                    "sublime_text": "*",
+					"tags": true
+				}
+			],
+			"labels": ["compass", "scss", "sass", "css", "precompiler", "build", "watch", "css3", "build system", "minification"]
+		}
+	]
+}

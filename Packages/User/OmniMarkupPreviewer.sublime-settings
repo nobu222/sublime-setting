@@ -1,0 +1,4 @@
+{
+    "refresh_on_modified_delay": 1000
+    ,"ajax_polling_interval": 1000
+}

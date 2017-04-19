@@ -1,0 +1,6 @@
+2015-02-01 02:28:03
+Traceback (most recent call last):
+  File "/Applications/Sublime Text.app/Contents/MacOS/sublime_plugin.py", line 526, in run_
+    return self.run()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 580, in run
+AttributeError: 'NoneType' object has no attribute 'settings'

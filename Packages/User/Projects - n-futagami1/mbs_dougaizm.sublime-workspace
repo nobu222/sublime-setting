@@ -1,0 +1,2757 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"box",
+				"box-shadow\t(_signup.scss)"
+			],
+			[
+				"clear",
+				"clearfix\t(_mixin.scss)"
+			],
+			[
+				"border",
+				"border-radius\t(_signup.scss)"
+			],
+			[
+				"drag",
+				"draggable"
+			],
+			[
+				"meta",
+				"metalist"
+			],
+			[
+				"get",
+				"getElementsByTagName〔function〕"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"program",
+				"programTitle"
+			],
+			[
+				"epi",
+				"episodeTitle"
+			],
+			[
+				"progra",
+				"programTitle"
+			],
+			[
+				"loggin",
+				"loggingToGA"
+			],
+			[
+				"stat",
+				"state"
+			],
+			[
+				"add",
+				"addToHomescreen"
+			],
+			[
+				"opaci",
+				"opacity: 〔property〕"
+			],
+			[
+				"opa",
+				"opacity: 〔property〕"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"updateC",
+				"updateCurrentList"
+			],
+			[
+				"unde",
+				"undefined"
+			],
+			[
+				"sele",
+				"selected\t(step2.html)"
+			],
+			[
+				"title",
+				"titles"
+			],
+			[
+				"pro",
+				"programname"
+			],
+			[
+				"twee",
+				"tweetChars"
+			],
+			[
+				"wat",
+				"waitingText"
+			],
+			[
+				"has",
+				"hasNextData"
+			],
+			[
+				"load",
+				"loadNewer"
+			],
+			[
+				"scro",
+				"scrollTo〔function〕"
+			],
+			[
+				"rakuten",
+				"rakutenParts"
+			],
+			[
+				"docu",
+				"document\t(app.js)"
+			],
+			[
+				"scri",
+				"script\tTag"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"thi",
+				"thumbnail-link\t_btn.scss"
+			],
+			[
+				"promo",
+				"promotion"
+			],
+			[
+				"colu",
+				"column\t(_layout.scss)"
+			],
+			[
+				"flex",
+				"flex-direction\t(_layout.scss)"
+			],
+			[
+				"setTi",
+				"setTimeout"
+			],
+			[
+				"set",
+				"setTimer"
+			],
+			[
+				"timer",
+				"timerId"
+			],
+			[
+				"time",
+				"timerId"
+			],
+			[
+				"setTI",
+				"setTimer"
+			],
+			[
+				"tim",
+				"timerId"
+			],
+			[
+				"offset",
+				"offsetTop"
+			],
+			[
+				"inn",
+				"innerHeight〔variable〕"
+			],
+			[
+				"windo",
+				"windowHeight"
+			],
+			[
+				"win",
+				"windowHeight"
+			],
+			[
+				"sc",
+				"scrollX〔variable〕"
+			],
+			[
+				"next",
+				"nextDataNone"
+			],
+			[
+				"tem",
+				"temporaryRegistration\t(store.js)"
+			],
+			[
+				"temp",
+				"temporaryRegistration"
+			],
+			[
+				"update",
+				"updateNotify"
+			],
+			[
+				"object",
+				"objectAssign"
+			],
+			[
+				"upda",
+				"updateNotify"
+			],
+			[
+				"change",
+				"changeUpdateComplete"
+			],
+			[
+				"noti",
+				"notify"
+			],
+			[
+				"dragMo",
+				"dragMoveInertia"
+			],
+			[
+				"displa",
+				"display: 〔property〕"
+			],
+			[
+				"dis",
+				"displayedSlideNum"
+			],
+			[
+				"setIni",
+				"setInfiniteMode"
+			],
+			[
+				"dispa",
+				"displayedSlideNum"
+			],
+			[
+				"slide",
+				"slideWidth"
+			],
+			[
+				"wrap",
+				"wrapperWidth"
+			],
+			[
+				"du",
+				"duration"
+			],
+			[
+				"setI",
+				"setInitialPos"
+			],
+			[
+				"cur",
+				"currentSlide"
+			],
+			[
+				"cu",
+				"currentSlide"
+			],
+			[
+				"con",
+				"ceil〔function〕"
+			],
+			[
+				"setIn",
+				"setInfiniteMode"
+			],
+			[
+				"center",
+				"centerPos"
+			],
+			[
+				"max",
+				"maxWidth"
+			],
+			[
+				"heig",
+				"height"
+			],
+			[
+				"mb",
+				"mb6\t(index.html)"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"trans",
+				"translateY"
+			],
+			[
+				"carou",
+				"caroucelWidth"
+			],
+			[
+				"transla",
+				"translate"
+			],
+			[
+				"inlin",
+				"inline-block〔value〕"
+			],
+			[
+				"cen",
+				"centerPos"
+			],
+			[
+				"window",
+				"windowWidth"
+			],
+			[
+				"touch",
+				"touchend"
+			],
+			[
+				"bor",
+				"border-box\t(_layout.scss)"
+			],
+			[
+				"bsz",
+				"box-sizing: 〔property〕"
+			],
+			[
+				"wid",
+				"width\t(Caroucel.vue)"
+			],
+			[
+				"car",
+				"caroucelPos"
+			],
+			[
+				"event",
+				"event"
+			],
+			[
+				"mouse",
+				"mousedown\t.mousedown()"
+			],
+			[
+				"carousel",
+				"carousel-wrapper"
+			],
+			[
+				"start",
+				"startX"
+			],
+			[
+				"span",
+				"spanX"
+			],
+			[
+				"over",
+				"overflowType"
+			],
+			[
+				"tranf",
+				"transform"
+			],
+			[
+				"gutter",
+				"gutter"
+			],
+			[
+				"gu",
+				"gutter"
+			],
+			[
+				"setti",
+				"settings"
+			],
+			[
+				"clera",
+				"clearfix\t(_mixin.scss)"
+			],
+			[
+				"ml",
+				"margin-left\t(_btn.scss)"
+			],
+			[
+				"tex",
+				"text-align\t(_guide.scss)"
+			],
+			[
+				"ba",
+				"banner_free.png\tw:500 h:140"
+			],
+			[
+				"content",
+				"content"
+			],
+			[
+				"bgp",
+				"bgp\tbackground-position: ${1:0} ${2:0};"
+			],
+			[
+				"td",
+				"td-u\ttext-decoration: underline;"
+			],
+			[
+				"bgr",
+				"bgr-n\tbackground-repeat: no-repeat;"
+			],
+			[
+				"lin",
+				"line-dot"
+			],
+			[
+				"t",
+				"th\tTag"
+			],
+			[
+				"check",
+				"checkPassword"
+			],
+			[
+				"chnage",
+				"changeValue"
+			],
+			[
+				"che",
+				"checkConfirm"
+			],
+			[
+				"chan",
+				"changeValue\t(store.js)"
+			],
+			[
+				"ali",
+				"align-items\t(_signup.scss)"
+			],
+			[
+				"bdp",
+				"background-position"
+			],
+			[
+				"payme",
+				"paymentStatus"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"translate",
+				"translateY\t(Drawer.vue)"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"no",
+				"notify"
+			],
+			[
+				"No",
+				"Notify\t(_notify.scss)"
+			],
+			[
+				"MBS",
+				"MBS動画イズム444"
+			],
+			[
+				"data",
+				"dataProgram"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"widt",
+				"width"
+			],
+			[
+				"screen",
+				"screenX〔variable〕"
+			],
+			[
+				"sns",
+				"snsObj"
+			],
+			[
+				"encodeUR",
+				"encodeURIComponent"
+			],
+			[
+				"align-",
+				"align-items"
+			],
+			[
+				"wd",
+				"width"
+			],
+			[
+				"hide-",
+				"hide-desktop"
+			],
+			[
+				"box-",
+				"box-btns"
+			],
+			[
+				"payment",
+				"payment_history"
+			],
+			[
+				"pass",
+				"password"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/app.js",
+			"settings":
+			{
+				"buffer_size": 2664,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/modules/store/index.js",
+			"settings":
+			{
+				"buffer_size": 1842,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/top/main.js",
+			"settings":
+			{
+				"buffer_size": 1108,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/lib/addtohomescreen.js",
+			"settings":
+			{
+				"buffer_size": 31165,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/index.html",
+			"settings":
+			{
+				"buffer_size": 9748,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "tern",
+		"selected_items":
+		[
+			[
+				"tern",
+				"tern_for_sublime: Jump to Definition"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"re",
+				"File: Rename"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"reveal",
+				"File: Reveal"
+			],
+			[
+				"copy",
+				"ANF: Copy Current File"
+			],
+			[
+				"jsonprt",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"jqu",
+				"Snippet: HTML - Include jQuery"
+			],
+			[
+				"jsonprett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"json",
+				"Pretty JSON: JSON 2 XML"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"media",
+				"Snippet: @media"
+			],
+			[
+				"minimap",
+				"View: Toggle Minimap"
+			],
+			[
+				"de",
+				"File: Delete"
+			],
+			[
+				"rev",
+				"File: Reveal"
+			],
+			[
+				"reve",
+				"File: Reveal"
+			],
+			[
+				"converutf",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"co",
+				"ANF: Copy Current File"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"",
+				"ANF: Copy Current File"
+			],
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"cop",
+				"ANF: Copy Current File"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"up",
+				"Convert Case: Upper Case"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"prett",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"syntavue",
+				"Set Syntax: Regular Expressions (Javascript Next)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packalist",
+				"Package Control: List Packages"
+			],
+			[
+				"syntaja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synj",
+				"Set Syntax: JSX"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"delte",
+				"File: Delete"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"dsable",
+				"Package Control: Disable Package"
+			],
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"border-ra",
+				"Snippet: border-radius"
+			],
+			[
+				"radiu",
+				"Snippet: border-radius"
+			],
+			[
+				"borderra",
+				"Snippet: border-radius"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"syntaxty",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"syntaxvue",
+				"Set Syntax: Regular Expressions (Javascript Next)"
+			],
+			[
+				"inclu",
+				"Snippet: @include"
+			],
+			[
+				"revea",
+				"File: Reveal"
+			],
+			[
+				"proje",
+				"Project Manager"
+			],
+			[
+				"include",
+				"Snippet: @include"
+			],
+			[
+				"mode",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"ready",
+				"Snippet: document.ready - $(function(){})"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"add pro",
+				"Project Manager: Add Project"
+			],
+			[
+				"setsyhe",
+				"Set Syntax: HTML (Erlang)"
+			],
+			[
+				"preview",
+				"OmniMarkupPreviewer: Preview Current Markup in Browser"
+			],
+			[
+				"impor",
+				"Snippet: @import"
+			],
+			[
+				"mixi",
+				"Snippet: @mixin"
+			],
+			[
+				"block",
+				"Toggle Block Comment"
+			],
+			[
+				"blo",
+				"Toggle Block Comment"
+			],
+			[
+				"blok",
+				"Snippet: display:block"
+			],
+			[
+				"uplo",
+				"SFTP: Upload Open Files"
+			],
+			[
+				"upload",
+				"SFTP: Upload Open Files"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"syntax php",
+				"Set Syntax: PHP"
+			],
+			[
+				"down",
+				"SFTP: Download File"
+			],
+			[
+				"sync",
+				"SFTP: Sync Remote -> Local…"
+			],
+			[
+				"upload ",
+				"SFTP: Upload Open Files"
+			],
+			[
+				"downloa",
+				"SFTP: Download File"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"download",
+				"SFTP: Download File"
+			],
+			[
+				"each",
+				"Snippet: .each()"
+			],
+			[
+				"book",
+				"Bookmarks: Toggle"
+			],
+			[
+				"uploa",
+				"SFTP: Upload Open Files"
+			],
+			[
+				"synh",
+				"Set Syntax: HTML"
+			],
+			[
+				"mo",
+				"File: Move"
+			],
+			[
+				"sync loca",
+				"SFTP: Sync Local -> Remote…"
+			],
+			[
+				"upo",
+				"SFTP: Upload Open Files"
+			],
+			[
+				"syntaxhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"converspa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"show",
+				"SFTP: Show Panel"
+			],
+			[
+				"upl",
+				"SFTP: Upload File"
+			],
+			[
+				"convertspa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"upopen",
+				"SFTP: Upload Open Files"
+			],
+			[
+				"word",
+				"WordPress Codex: Open Function Reference"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: var",
+				"Snippet: var_dump"
+			],
+			[
+				"set hp",
+				"Set Syntax: PHP"
+			],
+			[
+				"sethtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"project",
+				"Project Manager"
+			],
+			[
+				"anf",
+				"ANF: New File"
+			],
+			[
+				"shel",
+				"ShellCommand"
+			],
+			[
+				"new window",
+				"Project Manager: Open Project in New Window"
+			],
+			[
+				"openb",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"shell",
+				"ShellCommand"
+			],
+			[
+				"addfo",
+				"Project: Add Folder"
+			],
+			[
+				"wp",
+				"WordPress Codex: Search Selection"
+			],
+			[
+				"addpro",
+				"Project Manager: Add Project"
+			],
+			[
+				"openfile",
+				"ANF: Copy Current File"
+			],
+			[
+				"path",
+				"File: Copy Path"
+			],
+			[
+				"do",
+				"Snippet: document.ready - $(function(){})"
+			],
+			[
+				"docum",
+				"Snippet: document.ready - $(function(){})"
+			],
+			[
+				"document",
+				"Snippet: document.ready - $(function(){})"
+			],
+			[
+				"addproje",
+				"Project Manager: Add Project"
+			],
+			[
+				"pro",
+				"Project Manager"
+			],
+			[
+				"keyf",
+				"Snippet: @keyframes"
+			],
+			[
+				"fill",
+				"Snippet: animation-fill-mode:forwards"
+			],
+			[
+				"animation-na",
+				"Snippet: animation-name"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"transpare",
+				"Snippet: transparentize()"
+			],
+			[
+				"retty",
+				"HTMLPrettify"
+			],
+			[
+				"bloc",
+				"Toggle Block Comment"
+			],
+			[
+				"copycu",
+				"ANF: Copy Current File"
+			],
+			[
+				"jquer",
+				"Snippet: jQuery(document).ready"
+			],
+			[
+				"new",
+				"ANF: New File"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"commen",
+				"Toggle Comment"
+			],
+			[
+				"p",
+				"Project Manager"
+			],
+			[
+				"pwd",
+				"Project Manager: Open Project in New Window"
+			],
+			[
+				"termi",
+				"Terminal: Open"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"tarnsi",
+				"Snippet: transition"
+			],
+			[
+				"includ",
+				"Snippet: @include"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/modules",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/modules/store",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/title",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/top"
+	],
+	"file_history":
+	[
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/title/main.js",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/top/main.js",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/app.js",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/title/store.js",
+		"/Users/n-futagami/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/dist/app.js",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/signup/step2.html",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/scss/parts/_form.scss",
+		"/Users/n-futagami/Library/Application Support/Sublime Text 3/Packages/tern_for_sublime/Tern.sublime-settings",
+		"/Users/n-futagami/Library/Application Support/Sublime Text 3/Packages/User/Tern.sublime-settings",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/scss/pages/_signup.scss",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/signup/step3.html",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/scss/base/_mixin.scss",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/scss/pages/_policy.scss",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/tokushou/index.html",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/json/category/movie-newer1.json",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/modules/Caroucel.vue",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/index.html",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/modules/Login.vue",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/title/index.html",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/title/Movie.vue",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/dist/title.js",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/modules/Promotion.vue",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/analytics.js",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/title/ListBtn.vue",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/title/List.vue",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/title/video.html",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/scss/parts/_footer.scss",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/404.html",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/variety/index.html",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/sports/index.html",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/signup/step4.html",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/signup/step2_mobile.html",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/signup/step1.html",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/signup/error.html",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/signup/complete.html",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/senbatsu/index.html",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/reset/reset.html",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/reset/index.html",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/reset/complete.html",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/qa/index.html",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/policy/index.html",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/movie/index.html",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/login/index.html",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/history/index.html",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/guide/index.html",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/drama/index.html",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/documentary/index.html",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/account/index.html",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/account/payment.html",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/anime/index.html",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/cancel/complete.html",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/cancel/index.html",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/contact/index.html",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/scss/_parts.scss",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/scss/parts/_addtohomescreen.scss",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/favicon/manifest.json",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/lib/addtohomescreen.js",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/add-to-homescreen-master/src/addtohomescreen.js",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/modules/Drawer.vue",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/modules/DrawerInner.vue",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/serviceworker.js",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/manifest.json",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/favicon/favicons/manifest.json",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/lib/addtohomescreen.min.js",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/webpack.config.js",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/announcer/index.html",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/modules/Programs.vue",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/scss/parts/_image.scss",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/contact/Contact.vue",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/account/store.js",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/account/Item.vue",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/history/ListBtn.vue",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/filters/index.js",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/lib/index.js",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/images/arrow_green_dark.svg",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/images/arrow_gray.svg",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/scss/parts/_notify.scss",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/scss/base/_setting.scss",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/images/arrow_r_black.svg",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/images/arrow_r_green.svg",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/images/arrow_green.svg",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/images/arrow_flat.svg",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/images/arrow_b_green.svg",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/images/404.svg",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/images/404.png",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/title/Player.vue",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/scss/parts/_ttl.scss",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/modules/store/index.js",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/scss/parts/_icon.scss",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/scss/parts/_list.scss",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/scss/parts/_btn.scss",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/scss/base/_base.scss",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/scss/parts/_layout.scss",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/account/Account.vue",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/history/History.vue",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/modules/ContentsHeader.vue",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/modules/Features.vue",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/modules/Newest.vue",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/modules/Recommend.vue",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/modules/MobileLogin.vue",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/modules/Notify.vue",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/title/Detail.vue",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/title/Related.vue",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/title/Sns.vue",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/modules/TweetRai4.vue",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/scss/pages/_qa.scss",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/scss/pages/_guide.scss",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/modules/Notice.vue",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/cat/main.js",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/history/main.js",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/json/basara2/episode-list1.json",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/json/category/anime-newer.json",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/json/category/anime-programs-1.json",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/json/category/announcer-newer.json",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/modules/Thumbnail.vue",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/js/app.js",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/js/app.min.js",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/template/main.js",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/scss/parts/_libs.scss",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/cat/Category.vue",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/history/store.js",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/css/style.css",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/scss/pages/_tokushou.scss",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/scss/pages/_pages_inc.scss",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/scss/pages/_contact.scss",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/json/basara2/program.json",
+		"/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/dist/signup.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 473.0,
+		"where_history":
+		[
+			"<open folders>,-*/dist*,-*/css*,-*/json/*,-*/src/lib/*",
+			"<open folders>,-*/dist*,-*/css*,-*/json/*",
+			"<open folders>,-*/dist*,-*/css*",
+			"<open folders>,-*/dist/*,-/css",
+			"<open folders>,-/dist/*,-/css",
+			"<open folders>,-/dist,-/css",
+			"<open folders>",
+			"<open folders>,*vue,*scss",
+			"<open folders>,*html,*vue,*scss",
+			"<open folders>,main.js",
+			"<open folders>,*html,*vue,*scss",
+			"<open folders>,*html,*vue",
+			"<open folders>,*html,*vue,*scss",
+			"<open folders>,*html,*vue",
+			"<open folders>,*scss,*vue",
+			"<open folders>,*css,*vue",
+			"<open folders>,*html,*vue",
+			"<open folders>,*html",
+			"<open folders>,*vue",
+			"<open folders>",
+			"<open folders>,*vue,*html",
+			"<open folders>,*vue,*js",
+			"<open folders>,*vue",
+			"<open folders>",
+			"<open folders>,*html",
+			"<open folders>",
+			"<open folders>,*vue",
+			"<open folders>,*html,*vue",
+			"<open folders>,*html,vue",
+			"<open folders>,*scss",
+			"<open folders>,src/**/*js",
+			"<open folders>,/src/*js",
+			"<open folders>,*vue",
+			"<open folders>,vue",
+			"<open folders>",
+			"<open folders>,*vue",
+			"<open folders>",
+			"<open folders>,-/dist/",
+			"<open folders>,!/dist/",
+			"<open folders>",
+			"<open folders>,*html",
+			"<open folders>",
+			"<open folders>,*html",
+			"<open folders>",
+			"<open folders>,*vue",
+			"<open folders>,*vue,*html",
+			"<open folders>,*vue,*html,!node_modules",
+			"<open folders>,*vue,*html,!node_modules/**/*html",
+			"<open folders>,*vue,*html,!node_modules/",
+			"<open folders>,*vue,*html",
+			"<open folders>,*vue",
+			"<open folders>,*html",
+			"<open folders>,*vue,*scss",
+			"<open folders>,*vue",
+			"<open folders>,*scss",
+			"<open folders>",
+			"<open folders>,*.php",
+			"<open folders>",
+			"<open folders>,*css",
+			"<open folders>,*html",
+			"<open folders>",
+			"<open folders>,*js",
+			"<open folders>,js",
+			"<open folders>",
+			"<open folders>,*.scss",
+			"<open folders>,*.html",
+			"<open folders>,*.scss",
+			"<open folders>,.scss",
+			"<open folders>",
+			"<open folders>,*html",
+			"<open folders>",
+			"<open folders>,*html",
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"true",
+			"console.log",
+			"state.episode",
+			"var",
+			"false",
+			"3px",
+			"3px 3px",
+			"before",
+			",.",
+			".2",
+			"none",
+			"dtaggable",
+			"funtion",
+			"nocarousel",
+			"load",
+			"dataComplete",
+			"window",
+			"console.log",
+			"break",
+			"value",
+			"key",
+			"name",
+			"key",
+			"exist",
+			"const",
+			"siteTitle",
+			"PAGE_TITLE",
+			"',",
+			"title",
+			"metalist",
+			"setAttribute",
+			"mbsondemand",
+			").",
+			"key",
+			"metalist[i]",
+			"property",
+			"title",
+			"description",
+			"name",
+			"description",
+			"text",
+			"description",
+			" + separator",
+			"title",
+			"separator",
+			"PAGE_TITLE",
+			"dataEpisode",
+			"updatePageTitle",
+			"app.js",
+			"Carou",
+			"newer",
+			"updatePageTitle",
+			"Title",
+			"page",
+			"true",
+			"title",
+			"function",
+			"page",
+			"pageX",
+			"page",
+			"order",
+			"nextEpisode",
+			"yearofcreation",
+			"<script src=\"/dist/app.js\"></script>",
+			"    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0\">\n",
+			"true",
+			"document.location.href",
+			"detectHomescreen",
+			"ath",
+			"addToHomescreen",
+			"#bfd500, 10",
+			"box-shado",
+			"ath-conta",
+			"color",
+			"eee",
+			"apple",
+			"57",
+			"ukoffcanvas",
+			"service",
+			"console",
+			"variety",
+			"href=\"/",
+			"./path/to/",
+			"\\/",
+			"\"src\": \"\\/",
+			"\\/",
+			"アナウンサー",
+			"                    <a class=\"btn-nav\" href=\"/announcer/\">アナウンサー</a>\n",
+			"<a class=\"btn-nav\" href=\"/announcer/\">アナウンサー</a>",
+			"                    <a class=\"btn-nav\" href=\"/announcer/\">アナウンサー</a>\n",
+			"timer",
+			"announcer",
+			"<div class=\"list-authentication hide-phone\">\n                    <img src=\"/images/jasrac.png\" alt=\"JASRAC\" width=\"40\" height=\"40\">\n                    <p>JASRAC許諾：第9008689015Y45038号</p>\n                    <img src=\"/images/elicense.png\" alt=\"e-License\" width=\"81\" height=\"40\">\n                    <p>利用許諾番号：ID09010329</p>\n                    <img src=\"/images/jrc.png\" alt=\"JRC\" width=\"80\" height=\"40\">\n                    <p>許諾番号：X000654B02L</p>\n                </div>",
+			"start",
+			"p>",
+			"center",
+			"width",
+			"メールアドレス",
+			"(録)メールアドレス",
+			"(!録)?メールアドレス",
+			"(![録])メールアドレス",
+			"(![録])*メールアドレス",
+			"(![登録])*メールアドレス",
+			"(!登録)*メールアドレス",
+			"(!登録)メールアドレス",
+			"メールアドレス",
+			"ID",
+			"ログイン.*ID",
+			"システムと",
+			"ログイン.*ID",
+			"to",
+			"difference",
+			"func",
+			"functionName",
+			"callFunc",
+			"callFuncName",
+			";",
+			"scrollTop",
+			"to",
+			"offsetTop",
+			"update",
+			"episodeList",
+			"updateCurrentList",
+			"click",
+			"第9008689014Y45038号",
+			"img",
+			"img-thumb",
+			"align-items:"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0\">\n    <link rel=\"icon\" type=\"image/png\" href=\"/favicon/favicons/favicon-96x96.png\" sizes=\"96x96\">\n    <link rel=\"icon\" type=\"image/png\" href=\"/favicon/favicons/favicon-32x32.png\" sizes=\"32x32\">\n    <link rel=\"icon\" type=\"image/png\" href=\"/favicon/favicons/favicon-16x16.png\" sizes=\"16x16\">\n    <link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"/favicon/favicons/apple-touch-icon-180x180.png\">\n    <link rel=\"apple-touch-icon\" sizes=\"152x152\" href=\"/favicon/favicons/apple-touch-icon-152x152.png\">\n    <link rel=\"apple-touch-icon\" sizes=\"144x144\" href=\"/favicon/favicons/apple-touch-icon-144x144.png\">\n    <link rel=\"apple-touch-icon\" sizes=\"120x120\" href=\"/favicon/favicons/apple-touch-icon-120x120.png\">\n    <link rel=\"apple-touch-icon\" sizes=\"114x114\" href=\"/favicon/favicons/apple-touch-icon-114x114.png\">\n    <link rel=\"apple-touch-icon\" sizes=\"76x76\" href=\"/favicon/favicons/apple-touch-icon-76x76.png\">\n    <link rel=\"apple-touch-icon\" sizes=\"72x72\" href=\"/favicon/favicons/apple-touch-icon-72x72.png\">\n    <link rel=\"apple-touch-icon\" sizes=\"60x60\" href=\"/favicon/favicons/apple-touch-icon-60x60.png\">\n    <link rel=\"apple-touch-icon\" sizes=\"57x57\" href=\"/favicon/favicons/apple-touch-icon-57x57.png\">\n    <link rel=\"icon\" type=\"image/png\" href=\"/favicon/favicons/android-chrome-192x192.png\" sizes=\"192x192\">\n    <link rel=\"manifest\" href=\"/favicon/favicons/manifest.json\">\n",
+			"",
+			"<ul class=\"list-authentication\">\n                    <li>\n                        <img src=\"/images/jasrac.png\" alt=\"JASRAC\" width=\"40\" height=\"40\">\n                        <span>JASRAC許諾：第9008689015Y45038号</span>\n                    </li>\n                    <li>\n                        <img src=\"/images/elicense.png\" alt=\"e-License\" width=\"81\" height=\"40\">\n                        <span>利用許諾番号：ID09010329</span>\n                    </li>\n                    <li>\n                        <img src=\"/images/jrc.png\" alt=\"JRC\" width=\"80\" height=\"40\">\n                        <span>許諾番号：X000654B02L</span>\n                    </li>\n                    <li>\n                        <img src=\"/images/lmark.png\" alt=\"\">\n                        <span class=\"txt-lmark\">このエルマークは、レコード会社・映像製作会社が<br>提供するコンテンツを示す登録商標です。<br> RIAJ60014008</span>\n                    </li>\n                </ul>",
+			"第9008689015Y45038号",
+			"-ms-align-items: stretch;align-items: stretch;",
+			"-ms-align-items: center;align-items: center;",
+			"-ms-justify-content: center;justify-content: center;",
+			"-ms-flex: 1;flex: 1;",
+			"-ms-flex-wrap: wrap;flex-wrap: wrap;",
+			"display: -ms-flexbox;display: flex;",
+			"-ms-flex-wrap: wrap;flex-wrap: wrap;",
+			"display: -ms-flexbox;display: flex;",
+			"facebookでシェア！",
+			"閲覧履歴",
+			"<a tabindex=\"0\" id=\"shareBtnFB\" class=\"btn btn-social btn-fb icon-fb\">facebookをいいね！</a>",
+			"<a tabindex=\"0\" id=\"followBtnTW\" class=\"btn btn-social btn-tw icon-tw\">twitterをフォロー</a>",
+			"<a tabindex=\"0\" id=\"shareBtnFB\" class=\"btn btn-social btn-fb icon-fb\">facebookでシェア</a>",
+			"<a tabindex=\"0\" id=\"shareBtnFB\" class=\"btn btn-social btn-fb icon-fb\">facebookでシェア！</a>",
+			"情報",
+			"padding-right: ",
+			"padding-left: ",
+			"src=\"/dist/app.js\"",
+			"<script src=\"/js/app.min.js\"></script><script src=\"/dist/",
+			"<script src=\"/dist/",
+			"",
+			"<a href=\"#top\" class=\"btn-pagetop\" id=\"goToPageTop\">",
+			"<a class=\"btn-nav\" href=\"/announcer/\">アナウンサー</a>\n                    <a class=\"btn-nav\" href=\"/movie/\">映画</a></div>",
+			"<a class=\"btn-nav\" href=\"/announcer/\">アナウンサー</a>\n                    <a class=\"btn-nav\" href=\"/movie/\">映画</a>",
+			"報道・ドキュメンタリー",
+			"<a class=\"btn-nav\" href=\"/documentary/\">報道・<br>ドキュメンタリー</a>",
+			"税抜",
+			"        <footer class=\"l-footer\">\n            <div class=\"footer-inner\">\n                <div class=\"footer-nav\">\n                    <div class=\"list-social\">\n                        <a href='./' class=\"btn btn-social btn-fb icon-fb\">facebookをいいね！</a>\n                        <a href='./' class=\"btn btn-social btn-tw icon-tw\">twitterをフォロー</a>\n                        <a href='https://checkout.rakuten.co.jp/shopping/' target='_blank'><img alt='楽天ID決済' src='https://checkout.rakuten.co.jp/2014/logo/s_sb_30088.jpg' border='0'/></a>\n                    </div>\n                    <ul class=\"list-subnav\">\n                        <li><a href='/guide/'>ご利用ガイド</a></li>\n                        <li><a href='/qa/'>よくある質問</a></li>\n                        <li><a href='/contact/'>お問い合わせ</a></li>\n                        <li><a href='/tokushou/'>特定商取引法に基づく表記</a></li>\n                        <li><a href='/guide/#env'>推奨環境</a></li>\n                        <li><a href='/policy/'>ご利用規約</a></li>\n                        <li><a href=\"http://www.mbs.jp/mbs/kojin-j/\" target=\"_blank\">個人情報について</a></li>\n                    </ul>\n                </div>\n                <div class=\"list-authentication hide-phone\">\n                    <img src=\"/images/jasrac.png\" alt=\"JASRAC\" width=\"40\" height=\"40\">\n                    <p>JASRAC許諾：第9008689014Y45038号</p>\n                    <img src=\"/images/elicense.png\" alt=\"e-License\" width=\"81\" height=\"40\">\n                    <p>利用許諾番号：ID09010329</p>\n                    <img src=\"/images/jrc.png\" alt=\"JRC\" width=\"80\" height=\"40\">\n                    <p>許諾番号：X000654B02L</p>\n                </div>\n                <p class=\"txt small center\">各ページに掲載の記事・写真の無断転用を禁じます。すべての著作権は毎日放送に帰属します。</p>\n            </div>\n            <p class=\"txt-copyright\">Copyright © 1995-2016, Mainichi Broadcasting System, Inc. All Rights Reserved.</p>\n        </footer>\n",
+			"ttl-page__sp",
+			"<a href='/tokushou/'>特定商取引法に基づく表記</a>",
+			"<a href='/qa/'>よくある質問</a>",
+			"<a href='/guide/'>ご利用ガイド</a>",
+			"src=\"/images/logo_444.svg\" alt=\"\"",
+			"img src=\"/images/logo_444.svg\" alt=\"MBS動画イズム444\"",
+			"src=\"/images/logo_444.svg\" alt=\"MBS動画イズム444\"",
+			"<title>MBS動画イズム444</title>",
+			"fontVw(",
+			"logo_444.svg",
+			"<copyright></copyright>",
+			"マイページ",
+			"",
+			"登録",
+			"",
+			"reset",
+			"            <contents-header>\n                <div class=\"static-site__logo\">\n                    <a href=\"/\"><img src=\"/images/logo_444.png\" alt=\"\" width=\"230\" height=\"106\"></a>\n                </div>\n            </contents-header>\n",
+			"<a href='/contact/'>お問い合わせ</a>",
+			"/history/",
+			"import Vue from 'vue'\nimport VueTouch from 'vue-touch'",
+			"import Vue from 'vue'\nimport VueTouch from 'vue-touch'\n",
+			"Vue.use(VueTouch)\n\nnew Vue({",
+			"                </div> -->\n                <p class=\"box-copyright\">\n                    ※仮にTverの分を載せています<br>\n                    ©NTV(C)TBS（C）フジテレビ／イースト・エンタテインメント(C)テレビ朝日Copyright(c)TV TOKYO Corporation All rights reserved.（C)朝日放送©NTV/TOHO CINEMAS LTD./DLE(C)MBSCopyright (C) Television Osaka Inc. All Rights Reserved.(C)朝日放送Copyright(c)BS JAPAN Corporation All rights reserved.（C）CTV（C）BSフジ(C)メ～テレ 協力：エンタメ～テレ動画(C)BS-TBS写真提供 フジテレビ(C)CBC(C)テレビ朝日・テレビ朝日映像（C）フジテレビ／共同テレビ（C）山本甲士／小学館（C）東海テレビ／ユニオン映画©NTV/HJ Holdings(C)'15,'16 SANRIO サンリオ/TBS・ファンワークス(C)TOMY/ワンダプロジェクト･TBS（C）いがらしみきお／竹書房・フジテレビ・エイケン(C)2013, 2015 SANRIO CO., LTD. TOKYO, JAPAN S/D･G（C）フジテレビ／フジゲームス(C)BS朝日/ViViA写真提供　フジテレビ(C)テレビ朝日・東映©BS日テレ(C)RKB（C）高須賀由枝／集英社・フジテレビ(C)MBS(C)えむき\n                </p>\n                <a href=\".\" class=\"btn-pagetop\"><img src=\"../images/btn_pagetop.png\" alt=\"ページ上部へ\" width=\"220\" height=\"108\"></a>\n",
+			"        <header>\n            <div class=\"l-header__min\">\n                <div class=\"logo\">\n                    <a href=\"/\"><img src=\"../images/logo_444.png\" alt=\"\" width=\"230\" height=\"106\"></a>\n                </div>\n            </div>\n        </header>\n",
+			"<a href='/signup/' class=\"btn-sq btn-pink icon-registration\">新規会員登録</a>",
+			"<a href='/login/' class=\"btn-sq btn-blue icon-login\">ログイン</a>",
+			"/announcer/\"",
+			"/sports/\"",
+			"/documentary/\"",
+			"\"/anime/\"",
+			"/variety/\"",
+			"/drama/\"",
+			"                        <li><a class=\"icon-arrow left\" href=\"/drama/\">ドラマ</a></li>\n                        <li><a class=\"icon-arrow left\" href=\"/variety/\">バラエティ</a></li>\n                        <li><a class=\"icon-arrow left\" href=\"/anime/\">アニメ</a></li>\n                        <li><a class=\"icon-arrow left\" href=\"/documentary/\">情報・ドキュメンタリー</a></li>\n                        <li><a class=\"icon-arrow left\" href=\"/sports/\">スポーツ</a></li>\n                        <li><a class=\"icon-arrow left\" href=\"/announcer/\">アナウンサー</a></li>\n",
+			"                        <a class=\"btn-nav\" href=\"/\">おすすめ</a>\n                        <a class=\"btn-nav\" href=\"/drama\">ドラマ</a>\n                        <a class=\"btn-nav active\" href=\"/variety\">バラエティ</a>\n                        <a class=\"btn-nav\" href=\"/anime\">アニメ</a>\n                        <a class=\"btn-nav\" href=\"/documentary\">情報・<br>ドキュメンタリー</a>\n                        <a class=\"btn-nav\" href=\"/sports\">スポーツ</a>\n                        <a class=\"btn-nav\" href=\"/announcer\">アナウンサー</a>\n",
+			"                    <div class=\"list-gnav-inner\">\n                        <a class=\"btn-nav\" href=\"/\">おすすめ</a>\n                        <a class=\"btn-nav\" href=\"/drama\">ドラマ</a>\n                        <a class=\"btn-nav active\" href=\"/variety\">バラエティ</a>\n                        <a class=\"btn-nav\" href=\"/anime\">アニメ</a>\n                        <a class=\"btn-nav\" href=\"/documentary\">情報・<br>ドキュメンタリー</a>\n                        <a class=\"btn-nav\" href=\"/sports\">スポーツ</a>\n                        <a class=\"btn-nav\" href=\"/announcer\">アナウンサー</a>\n                    </div>\n",
+			"                    <ul>\n                        <li><a class=\"icon-arrow left\" href=\"/drama\">ドラマ</a></li>\n                        <li><a class=\"icon-arrow left\" href=\"/variety\">バラエティ</a></li>\n                        <li><a class=\"icon-arrow left\" href=\"/anime\">アニメ</a></li>\n                        <li><a class=\"icon-arrow left\" href=\"/documentary\">情報・ドキュメンタリー</a></li>\n                        <li><a class=\"icon-arrow left\" href=\"/sports\">スポーツ</a></li>\n                        <li><a class=\"icon-arrow left\" href=\"/announcer\">アナウンサー</a></li>\n                    </ul>\n",
+			"form-wrapper",
+			"width=\"230\" height=\"106\"",
+			"axios.get",
+			"import axios from 'axios'",
+			"updateEpisodeList",
+			"<!DOCTYPE html>\n<html lang=\"ja\">\n",
+			"",
+			"/images",
+			"",
+			"store.get('",
+			"store.get(`",
+			"store.get",
+			"import store from '../store'",
+			"import store from 'store'",
+			"./",
+			"axios.get(`https://d3rmynrmqb9cpq.cloudfront.net/www",
+			"axios.get(`https://d3rmynrmqb9cpq.cloudfront.net/www/",
+			"href=\"./cat",
+			"<a href=\"/\"><img src=\"../images/logo_444.png\" alt=\"\" width=\"231\" height=\"110\"></a>",
+			"rspImage",
+			"bg_stripe.png",
+			"recommend",
+			"@include grid($1);",
+			"white-space: pre-wrap;",
+			"",
+			"@include baseWidth;",
+			"/xhr_images/promotion/",
+			"/xhr_images/drama/",
+			"\n",
+			"",
+			"<script src=\"/assets/js/jquery/jquery.js\"></script>\n    <script src=\"/assets/js/bootstrap/bootstrap.min.js\"></script>\n    <script src=\"/assets/js/bootstrap/bootstrap/form.js\"></script>\n    <script src=\"/assets/lib/datepicker/js/bootstrap-datepicker.js\"></script>\n    <script src=\"/assets/lib/datepicker/js/locales/bootstrap-datepicker.ja.js\"></script>\n    <script src=\"/assets/lib/timepicker/bootstrap-timepicker.js\"></script>",
+			"<title>TAS Agent</title>",
+			"width=\"203\"",
+			"<a class=\"navs\" href=\"#\"><span><img src=\"img/common/$1.png\"></span><br>$2</a>",
+			"",
+			"<span class=\"user-name-text\">タナカタロウ</span><a class=\"logout-link\" href=\"#logout\">ログアウト</a>",
+			"",
+			"<img src=\"./img/common/logo.png\" alt=\"TAS\" width=\"223\">",
+			"run.html",
+			"アカウント",
+			"Devicepack demo",
+			" id=\"main\" class=\"main\"",
+			"<div class=\"panel panel-default dvp-list-project\">\n                <div class=\"panel-heading\" role=\"tab\" id=\"headingOne\">\n                    <h4 class=\"panel-title\">\n                      <a data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseOne\" aria-expanded=\"false\" aria-controls=\"collapseOne\" class=\"collapsed\">\n                        プロジェクト\n                      </a>\n                    </h4>\n                </div>\n                <div id=\"collapseOne\" class=\"panel-collapse collapse\" role=\"tabpanel\" aria-labelledby=\"headingOne\" aria-expanded=\"false\" style=\"height: 0px;\">\n                    <ul class=\"nav dvp-side-subnav\">\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link\" href=\"top.html\">demo project</a>\n                        </li>\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link\" href=\"top.html\">demo project</a>\n                        </li>\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link disabled\" href=\"top.html\">&gt;&gt;ランの詳細を見る</a>\n                        </li>\n                    </ul>\n                </div>\n            </div>\n            <div class=\"panel panel-default dvp-list-run\">\n                <div class=\"panel-heading\" role=\"tab\" id=\"headingTwo\">\n                    <h4 class=\"panel-title\">\n                      <a class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">\n                        ラン\n                      </a>\n                    </h4>\n                </div>\n                <div id=\"collapseTwo\" class=\"panel-collapse collapse\" role=\"tabpanel\" aria-labelledby=\"headingTwo\">\n                    <ul class=\"nav dvp-side-subnav\">\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link\" href=\"#\">demo_undotsushin.ipa</a>\n                        </li>\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link\" href=\"#\">demo_undotsushin.ipa</a>\n                        </li>\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link disabled\" href=\"#\">&gt;&gt;ランの詳細を見る</a>\n                        </li>\n                    </ul>\n                </div>\n            </div>",
+			"<a href=\"./new1.html\">ランの新規作成</a>",
+			"col-lg-",
+			"            <a class=\"global__toggle__nav_icon\" href=\"#\" aria-expanded=\"false\" aria-controls=\"navlist\"><img class=\"menu\" src=\"../img/btn_menu_sp.png\" alt=\"menu\"><img class=\"close\" src=\"../img/btn_close_sp.png\" alt=\"close\"></a>\n            <nav id=\"navlist\" class=\"global__toggle__nav_list\" aria-expanded=\"true\">",
+			"<a href=\"https://www.jimin.jp/\" target=\"_blank\"><span class=\"nw\">自民党ホームページ</span></a>",
+			"                <ul class=\"child2__nav_list\">\n                    <li><a href=\"#\">政策BANK</a></li><!--\n                 --><!--<li><a href=\"#\">選挙公約2016（PDF）</a></li>--><!--\n                 --><li><a href=\"#\">政策パンフレット2016（PDF）</a></li><!--\n                 --><!--<li><a href=\"#\">こどもマニフェスト（PDF）</a></li>--><!--\n                 --><li><a href=\"#\">都道府県別政策集</a></li><!--\n                 --><!--<li><a href=\"#\" target=\"_blank\"><span class=\"nw\">自民党参院選2016</span></a></li>--><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">自民党ホームページ</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">ネット選挙について</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">プライバシーポリシー</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">お問い合わせ</span></a></li><!--\n                 --><li class=\"nav__sns\">\n                 <ul>\n                 <li><a href=\"http://www.facebook.com/share.php\" onclick=\"window.open(encodeURI(decodeURI(this.href)), 'FBwindow', 'width=554, height=470, menubar=no, toolbar=no, scrollbars=yes'); return false;\" rel=\"nofollow\"><img src=\"../img/btn_fb.png\" alt=\"シェアする\"></a></li>\n                    <li><a href=\"http://twitter.com/share\" onClick=\"window.open(encodeURI(decodeURI(this.href)), 'tweetwindow', 'width=650, height=470, personalbar=0, toolbar=0, scrollbars=1, sizable=1'); return false;\" rel=\"nofollow\"><img src=\"../img/btn_tw.png\" alt=\"\"></a></li>\n                 </ul>\n                 </li>\n                </ul>",
+			"<meta name=\"twitter:title\" content=\"自民党政策サイト\" />",
+			"<meta property=\"og:title\" content=\"自民党政策サイト\" />",
+			"<!-- *** OGP *** -->\n<meta property=\"og:title\" content=\"自由民主党\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:image\" content=\"https://www.jimin.jp/common/img/facebook-lbdems.jpg\" />\n<meta property=\"og:url\" content=\"https://special.jimin.jp/political_promise/\" />\n\n<meta name=\"twitter:title\" content=\"自由民主党\" />\n<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@jimin_koho\" />\n<meta name=\"twitter:description\" content=\"「この道を。力強く、前へ。」自民党の政策サイトです。道半ばではありますが、アベノミクスは確実に「結果」を生み出しています。この道を、力強く、前へ、進んで行こうではありませんか。 国民の皆様と共に,「誇りある日本」を取り戻すために。\" />\n<meta name=\"twitter:image\" content=\"https://www.jimin.jp/common/img/twitter-lbdems.jpg\" />\n<meta property=\"twitter:account_id\" content=\"58359180\" />\n",
+			"https://special.jimin.jp/political_promise/",
+			"<script>\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');\n  ga('create', 'UA-41065878-7', 'auto');\n  ga('send', 'pageview');\n</script>\n</body>\n",
+			"                 --><!--<li><a href=\"#\" target=\"_blank\"><span class=\"nw\">自民党参院選2016</span></a></li>--><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">自民党ホームページ</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">ネット選挙について</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">プライバシーポリシー</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">お問い合わせ</span></a></li>",
+			"                 --><!--<li><a href=\"#\" target=\"_blank\">自民党参院選2016<span class=\"nw\"></span></a></li>--><!--\n                 --><li><a href=\"#\" target=\"_blank\">自民党ホームページ<span class=\"nw\"></span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">ネット選挙について<span class=\"nw\"></span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">プライバシーポリシー<span class=\"nw\"></span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">お問い合わせ<span class=\"nw\"></span></a></li>",
+			"",
+			"都道府県別政策集",
+			"<div class=\"global__toggle__nav_icon\"><a href=\"#global__toggle__nav\"><img class=\"menu\" src=\"../img/btn_menu_sp.png\" alt=\"menu\"><img class=\"close\" src=\"../img/btn_close_sp.png\" alt=\"close\"></a></div>",
+			"<title>｜自民党政策サイト</title>",
+			"                <ul class=\"child2__nav_list\">\n                    <li><a href=\"#\">政策BANK</a></li><!--\n                 --><!--<li><a href=\"#\">選挙公約2016（PDF）</a></li>--><!--\n                 --><li><a href=\"#\">政策パンフレット2016（PDF）</a></li><!--\n                 --><!--<li><a href=\"#\">こどもマニフェスト（PDF）</a></li>--><!--\n                 --><li><a href=\"#\">都道府県別政策集（PDF）</a></li><!--\n                 --><!--<li><a href=\"#\" target=\"_blank\">自民党参院選2016</a></li>--><!--\n                 --><li><a href=\"#\" target=\"_blank\">自民党ホームページ</a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">ネット選挙について</a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">プライバシーポリシー</a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">お問い合わせ</a></li>\n                </ul>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2664,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2110,
+								2110
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 311.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/modules/store/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1842,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								248,
+								248
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/top/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1108,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								583,
+								583
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/src/lib/addtohomescreen.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 31165,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11915,
+								11922
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3301.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/n-futagami/_Project/CLP_MBS_動画イズム/html/mbs_dougaizm/www/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9748,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 112.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "mbs_dougaizm.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"add",
+				"src/lib/addtohomescreen.js"
+			],
+			[
+				"app",
+				"src/app.js"
+			],
+			[
+				"title/store",
+				"src/title/store.js"
+			],
+			[
+				"srcapp",
+				"src/app.js"
+			],
+			[
+				"for",
+				"scss/parts/_form.scss"
+			],
+			[
+				"sig",
+				"signup/step2.html"
+			],
+			[
+				"poli",
+				"scss/pages/_policy.scss"
+			],
+			[
+				"sign",
+				"scss/pages/_signup.scss"
+			],
+			[
+				"tokusho/",
+				"tokushou/index.html"
+			],
+			[
+				"signup/ste",
+				"signup/step3.html"
+			],
+			[
+				"carou",
+				"src/modules/Caroucel.vue"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"title/sore",
+				"src/title/store.js"
+			],
+			[
+				"title/inde",
+				"title/index.html"
+			],
+			[
+				"mo",
+				"src/title/Movie.vue"
+			],
+			[
+				"tite",
+				"dist/title.js"
+			],
+			[
+				"title",
+				"dist/title.js"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"app.js",
+				"src/app.js"
+			],
+			[
+				"app.",
+				"dist/app.js"
+			],
+			[
+				"footer",
+				"scss/parts/_footer.scss"
+			],
+			[
+				"vari",
+				"variety/index.html"
+			],
+			[
+				"_pa",
+				"scss/_parts.scss"
+			],
+			[
+				"mani",
+				"favicon/manifest.json"
+			],
+			[
+				"dra",
+				"src/modules/Drawer.vue"
+			],
+			[
+				"d",
+				"src/modules/DrawerInner.vue"
+			],
+			[
+				"signup/step",
+				"signup/step1.html"
+			],
+			[
+				"guide",
+				"guide/index.html"
+			],
+			[
+				"program.vu",
+				"src/modules/Programs.vue"
+			],
+			[
+				"drawer",
+				"src/modules/DrawerInner.vue"
+			],
+			[
+				"imag",
+				"scss/parts/_image.scss"
+			],
+			[
+				"conta",
+				"src/contact/Contact.vue"
+			],
+			[
+				"title/so",
+				"src/title/store.js"
+			],
+			[
+				"store.",
+				"src/account/store.js"
+			],
+			[
+				"lisb",
+				"src/history/ListBtn.vue"
+			],
+			[
+				"list",
+				"src/title/List.vue"
+			],
+			[
+				"movie",
+				"src/title/Movie.vue"
+			],
+			[
+				"sett",
+				"scss/base/_setting.scss"
+			],
+			[
+				"si",
+				"scss/pages/_signup.scss"
+			],
+			[
+				"modules/s",
+				"src/modules/store/index.js"
+			],
+			[
+				"ttl",
+				"scss/parts/_ttl.scss"
+			],
+			[
+				"pla",
+				"src/title/Player.vue"
+			],
+			[
+				"featue",
+				"src/modules/Features.vue"
+			],
+			[
+				"lay",
+				"scss/parts/_layout.scss"
+			],
+			[
+				"rai",
+				"src/modules/TweetRai4.vue"
+			],
+			[
+				"icon",
+				"scss/parts/_icon.scss"
+			],
+			[
+				"movi",
+				"src/title/Movie.vue"
+			],
+			[
+				"filter",
+				"src/filters/index.js"
+			],
+			[
+				"fe",
+				"src/modules/Features.vue"
+			],
+			[
+				"hea",
+				"src/modules/ContentsHeader.vue"
+			],
+			[
+				"_guide",
+				"scss/pages/_guide.scss"
+			],
+			[
+				"step",
+				"signup/step1.html"
+			],
+			[
+				"gu",
+				"guide/index.html"
+			],
+			[
+				"filer",
+				"src/filters/index.js"
+			],
+			[
+				"la",
+				"scss/parts/_layout.scss"
+			],
+			[
+				"base",
+				"scss/base/_base.scss"
+			],
+			[
+				"fea",
+				"src/modules/Features.vue"
+			],
+			[
+				"promo",
+				"src/modules/Promotion.vue"
+			],
+			[
+				"pro",
+				"src/modules/Programs.vue"
+			],
+			[
+				"json/basara/episode-",
+				"json/basara2/episode-list1.json"
+			],
+			[
+				"ap",
+				"src/app.js"
+			],
+			[
+				"",
+				"src/modules/Caroucel.vue"
+			],
+			[
+				"his",
+				"src/history/History.vue"
+			],
+			[
+				"btn",
+				"scss/parts/_btn.scss"
+			],
+			[
+				"setti",
+				"scss/base/_setting.scss"
+			],
+			[
+				"promotion",
+				"src/modules/Promotion.vue"
+			],
+			[
+				"lib",
+				"scss/parts/_libs.scss"
+			],
+			[
+				"pa",
+				"scss/_parts.scss"
+			],
+			[
+				"index.",
+				"index.html"
+			],
+			[
+				"fear",
+				"src/modules/Features.vue"
+			],
+			[
+				"announ",
+				"announcer/index.html"
+			],
+			[
+				"draw",
+				"src/modules/Drawer.vue"
+			],
+			[
+				"program",
+				"src/modules/Programs.vue"
+			],
+			[
+				"store",
+				"src/title/store.js"
+			],
+			[
+				"se",
+				"scss/base/_setting.scss"
+			],
+			[
+				"login/",
+				"login/index.html"
+			],
+			[
+				"contact/in",
+				"contact/index.html"
+			],
+			[
+				"contact",
+				"src/contact/Contact.vue"
+			],
+			[
+				"qa",
+				"qa/index.html"
+			],
+			[
+				"contact/",
+				"contact/index.html"
+			],
+			[
+				"json/basara2/pro",
+				"json/basara2/program.json"
+			],
+			[
+				"fo",
+				"scss/parts/_footer.scss"
+			],
+			[
+				"mov",
+				"src/title/Movie.vue"
+			],
+			[
+				"settin",
+				"scss/base/_setting.scss"
+			],
+			[
+				"signup",
+				"scss/pages/_signup.scss"
+			],
+			[
+				"sing",
+				"scss/base/_setting.scss"
+			],
+			[
+				"gui",
+				"scss/pages/_guide.scss"
+			],
+			[
+				"guide/",
+				"guide/index.html"
+			],
+			[
+				"top.scss",
+				"scss/pages/_top.scss"
+			],
+			[
+				"sns",
+				"src/title/Sns.vue"
+			],
+			[
+				"mi",
+				"scss/base/_mixin.scss"
+			],
+			[
+				"payment",
+				"account/payment.html"
+			],
+			[
+				"mixi",
+				"scss/base/_mixin.scss"
+			],
+			[
+				"mixin",
+				"scss/base/_mixin.scss"
+			],
+			[
+				"parts",
+				"scss/_parts.scss"
+			],
+			[
+				"anime/inde",
+				"anime/index.html"
+			],
+			[
+				"lib/",
+				"js/lib/slick-theme.css"
+			],
+			[
+				"top.",
+				"scss/pages/_top.scss"
+			],
+			[
+				"setting",
+				"scss/base/_setting.scss"
+			],
+			[
+				"catego",
+				"src/cat/Category.vue"
+			],
+			[
+				"cat",
+				"scss/pages/_cat.scss"
+			],
+			[
+				"layou",
+				"scss/parts/_layout.scss"
+			],
+			[
+				"anime/",
+				"anime/index.html"
+			],
+			[
+				"styl",
+				"css/style.css"
+			],
+			[
+				"img",
+				"scss/parts/_image.scss"
+			],
+			[
+				"t",
+				"scss/parts/_txt.scss"
+			],
+			[
+				"404",
+				"404.html"
+			],
+			[
+				"comp",
+				"reset/complete.html"
+			],
+			[
+				"step3",
+				"signup/step3.html"
+			],
+			[
+				"txt",
+				"scss/parts/_txt.scss"
+			],
+			[
+				"im",
+				"scss/parts/_image.scss"
+			],
+			[
+				"page_in",
+				"scss/pages/_pages_inc.scss"
+			],
+			[
+				"style",
+				"css/style.css"
+			],
+			[
+				"line",
+				"scss/parts/_line.scss"
+			],
+			[
+				"signupste",
+				"signup/step1.html"
+			],
+			[
+				"no",
+				"src/modules/Notify.vue"
+			],
+			[
+				"notif",
+				"src/modules/Notify.vue"
+			],
+			[
+				"noti",
+				"src/modules/Notice.vue"
+			],
+			[
+				"step1",
+				"signup/step1.html"
+			],
+			[
+				"header",
+				"scss/parts/_header.scss"
+			],
+			[
+				"dwa",
+				"src/modules/Drawer.vue"
+			],
+			[
+				"loginvue",
+				"src/modules/Login.vue"
+			],
+			[
+				"cont",
+				"src/modules/ContentsHeader.vue"
+			],
+			[
+				"pages",
+				"scss/pages/_pages_inc.scss"
+			],
+			[
+				"account",
+				"src/account/Account.vue"
+			],
+			[
+				"sn",
+				"src/title/Sns.vue"
+			],
+			[
+				"cal",
+				"src/modules/Caroucel.vue"
+			],
+			[
+				"drvue",
+				"src/modules/Drawer.vue"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "clear",
+		"selected_items":
+		[
+			[
+				"clear",
+				"clearfix"
+			],
+			[
+				"authentication",
+				"list-authentication"
+			],
+			[
+				"not",
+				"notify"
+			],
+			[
+				"tweet",
+				"tweet-rai4"
+			],
+			[
+				"thu",
+				"thumbnail-link"
+			],
+			[
+				"parts-rakuten",
+				"parts-rakuten"
+			],
+			[
+				"loadNe",
+				"loadNext()"
+			],
+			[
+				"txt",
+				"txt.center"
+			],
+			[
+				"btn-ra",
+				"btn-radius"
+			],
+			[
+				"box-rakuten",
+				"box-rakuten"
+			],
+			[
+				"circle",
+				"&.circle-g"
+			],
+			[
+				"circl",
+				"slick-next.circle-g"
+			],
+			[
+				"btn-hi",
+				"btn-horizontal"
+			],
+			[
+				"btn-ho",
+				"btn-horizontal"
+			],
+			[
+				"line-",
+				"line-dot"
+			],
+			[
+				"icon-a",
+				"icon-arrow"
+			],
+			[
+				"l-features",
+				"l-features"
+			],
+			[
+				"icon",
+				"icon-fb"
+			],
+			[
+				"trigger",
+				"menu-trigger"
+			],
+			[
+				"contents-mobile-login",
+				"contents-mobile-login"
+			],
+			[
+				"btn-regi",
+				"btn-registration"
+			],
+			[
+				"register",
+				"btn-registration:hover"
+			],
+			[
+				"btn-f",
+				"btn-f"
+			],
+			[
+				"header-greeting",
+				"header-greeting"
+			],
+			[
+				"ttl-",
+				"ttl-cat"
+			],
+			[
+				"ttl-cat",
+				"ttl-cat"
+			],
+			[
+				"btn-",
+				"btn-group"
+			],
+			[
+				"btn-group",
+				"btn-group"
+			],
+			[
+				"copy",
+				"box-copyright"
+			],
+			[
+				"ttl",
+				"ttl-line"
+			],
+			[
+				"sePa",
+				"setPage (state, url)"
+			],
+			[
+				"setPa",
+				"setPage"
+			],
+			[
+				"rsp",
+				"rspImage"
+			],
+			[
+				"grid",
+				"grid"
+			],
+			[
+				"show-me",
+				"show-menu"
+			],
+			[
+				"txtsma",
+				"txt.small"
+			],
+			[
+				"step",
+				"list-steps"
+			],
+			[
+				"box-",
+				"box-flex"
+			],
+			[
+				"box-fle",
+				"box-flex"
+			],
+			[
+				"list-ste",
+				"list-steps"
+			],
+			[
+				"flex",
+				"box-flex"
+			],
+			[
+				"promo",
+				"promotion"
+			],
+			[
+				"gnav",
+				"list-gnav"
+			],
+			[
+				"list-ho",
+				"list-horizontal"
+			],
+			[
+				"contens",
+				"contents-smartapp"
+			],
+			[
+				"contents-a",
+				"contents-smartapp"
+			],
+			[
+				"clp_media_posted_on",
+				"clp_media_posted_on"
+			],
+			[
+				"posted_on",
+				"clp_media_posted_on"
+			],
+			[
+				"btn-default",
+				"btn-default"
+			],
+			[
+				"center",
+				"center-block"
+			],
+			[
+				"pagination",
+				"pagination"
+			],
+			[
+				"autosize",
+				"_autoSize"
+			],
+			[
+				"vam",
+				"va-m"
+			],
+			[
+				"vm",
+				"va-m"
+			],
+			[
+				"label",
+				"label"
+			],
+			[
+				"radio",
+				"radio"
+			],
+			[
+				"body",
+				"body"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"table-bordered",
+				"table-bordered"
+			],
+			[
+				"text-cen",
+				"text-center"
+			],
+			[
+				"clea",
+				"clearfix"
+			],
+			[
+				"label-primary",
+				"label-primary"
+			],
+			[
+				"uk-icon-chevo",
+				"uk-icon-chevron-left"
+			],
+			[
+				"fade",
+				"uk-animation-fade"
+			],
+			[
+				"uk-open",
+				"uk-open"
+			],
+			[
+				"uk-fle",
+				"uk-flex"
+			],
+			[
+				"dvp-devi",
+				"dvp-device-table"
+			],
+			[
+				"tool",
+				"Tooltip"
+			],
+			[
+				"nav-tabs",
+				"nav-tabs"
+			],
+			[
+				"table-re",
+				"table-responsive"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"c-indicator",
+				"c-indicator"
+			],
+			[
+				"table-row-variant",
+				"table-row-variant"
+			],
+			[
+				"table-success",
+				"table-success"
+			],
+			[
+				"thead-inverse",
+				"thead-inverse"
+			],
+			[
+				"alert-va",
+				"alert-variant"
+			],
+			[
+				"alert",
+				"alert"
+			],
+			[
+				"bodr",
+				"border-radius"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"sele",
+				"select"
+			],
+			[
+				"btn",
+				"btn-secondary"
+			],
+			[
+				"button",
+				"Button"
+			],
+			[
+				"input",
+				"input-group"
+			],
+			[
+				"table",
+				"table-responsive"
+			],
+			[
+				"size",
+				"size"
+			],
+			[
+				"hori",
+				"dl-horizontal"
+			],
+			[
+				"font",
+				"font-weight-normal"
+			],
+			[
+				"radiu",
+				"border-radius"
+			],
+			[
+				"bread",
+				"breadcrumb"
+			],
+			[
+				"box-shadow",
+				"box-shadow"
+			]
+		],
+		"width": 467.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 170.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

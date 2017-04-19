@@ -1,0 +1,2007 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cat_",
+				"cat_slugs"
+			],
+			[
+				"arra",
+				"array	(functions.php)"
+			],
+			[
+				"this",
+				"thisCat"
+			],
+			[
+				"esc",
+				"esc_attr"
+			],
+			[
+				"str_replace",
+				"str_replace"
+			],
+			[
+				"add_fil",
+				"add_filter"
+			],
+			[
+				"add_ac",
+				"add_action"
+			],
+			[
+				"add_fi",
+				"add_filter"
+			],
+			[
+				"get_temple",
+				"get_template_directory_uri"
+			],
+			[
+				"wp_en",
+				"wp_enqueue_script"
+			],
+			[
+				"set",
+				"setAlmDefault"
+			],
+			[
+				"unit__",
+				"unit__first	(content-unit_first.php)"
+			],
+			[
+				"ea",
+				"each	$.each()"
+			],
+			[
+				"get_cate",
+				"get_category_link"
+			],
+			[
+				"tech",
+				"tech_id"
+			],
+			[
+				"cate",
+				"category__not_in"
+			],
+			[
+				"catego",
+				"category__not_in=\"857	(home.php)"
+			],
+			[
+				"get_catego",
+				"get_the_category	(content-unit_first.php)"
+			],
+			[
+				"block__date",
+				"block__date__display	(header.php)"
+			],
+			[
+				"app",
+				"apple-touch-icon"
+			],
+			[
+				"fini",
+				"finished"
+			],
+			[
+				"dis",
+				"display	(style.css)"
+			],
+			[
+				"css",
+				"css	.css() - single"
+			],
+			[
+				"get_post_sns",
+				"get_post_sns_count()	mixed"
+			],
+			[
+				"get_post",
+				"get_post_sns_count()	mixed"
+			],
+			[
+				"get_the_",
+				"get_the_permalink"
+			],
+			[
+				"rawurlenco",
+				"rawurlencode()"
+			],
+			[
+				"scti",
+				"script	Tag"
+			],
+			[
+				"get_po",
+				"get_post"
+			],
+			[
+				"get_thumbna",
+				"get_post_thumbnail_id"
+			],
+			[
+				"related_",
+				"related_thumbnail	(yarpp-template-clpmedia.php)"
+			],
+			[
+				"thum",
+				"thumbnail"
+			],
+			[
+				"get_post_thum",
+				"get_the_post_thumbnail_url	(content-single-post.php)"
+			],
+			[
+				"size",
+				"sizes"
+			],
+			[
+				"_uni",
+				"_unit"
+			],
+			[
+				"_unit",
+				"_unitLen"
+			],
+			[
+				"wra",
+				"wrapAll	.wrapAll()"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"function",
+				"function_exists	(home.php)"
+			],
+			[
+				"functio",
+				"function_exists	(home.php)"
+			],
+			[
+				"end",
+				"endwhile	(single-post.php)"
+			],
+			[
+				"cat",
+				"category_slug"
+			],
+			[
+				"ogp",
+				"ogp_image"
+			],
+			[
+				"fiel",
+				"field_text"
+			],
+			[
+				"tag_",
+				"tag_description"
+			],
+			[
+				"clp_media_get_ti",
+				"clp_media_get_title()	mixed"
+			],
+			[
+				"thu",
+				"thumb"
+			],
+			[
+				"home_",
+				"home_text	(functions.php)"
+			],
+			[
+				"crum",
+				"crumb_tag	(functions.php)"
+			],
+			[
+				"bread",
+				"breadcrumb"
+			],
+			[
+				"contain",
+				"container_class	(functions.php)"
+			],
+			[
+				"get_the",
+				"get_the_ID"
+			],
+			[
+				"get_the_post_thumbnail_",
+				"get_the_post_thumbnail_url"
+			],
+			[
+				"get_",
+				"get_the_ID	(header.php)"
+			],
+			[
+				"get_template",
+				"get_template_part"
+			],
+			[
+				"is_pa",
+				"is_page"
+			],
+			[
+				"chil",
+				"children〔function〕"
+			],
+			[
+				"get_ta",
+				"get_tag"
+			],
+			[
+				"fo",
+				"for	for (…) {…}"
+			],
+			[
+				"category",
+				"category_id"
+			],
+			[
+				"categ",
+				"category"
+			],
+			[
+				"get_templa",
+				"get_template_part"
+			],
+			[
+				"get_template_di",
+				"get_template_directory_uri"
+			],
+			[
+				"wrap",
+				"wrapAll〔function〕"
+			],
+			[
+				"get_temp",
+				"get_template_part('template-parts"
+			],
+			[
+				"unit_",
+				"unit_first	(default.php)"
+			],
+			[
+				"getLoo",
+				"getLoopCount()	mixed"
+			],
+			[
+				"posts",
+				"posts_per_page=8"
+			],
+			[
+				"post_",
+				"posts_per_page=\"8"
+			],
+			[
+				"a",
+				"array	$… = array (…)"
+			],
+			[
+				"template",
+				"template_directory"
+			],
+			[
+				"get_templ",
+				"get_template_directory_uri	(functions.php)"
+			],
+			[
+				"clou",
+				"cloudpack.pem"
+			],
+			[
+				"getLo",
+				"getLoopCount()	mixed"
+			],
+			[
+				"getL",
+				"getLoopCount()	mixed"
+			],
+			[
+				"target",
+				"target_post"
+			],
+			[
+				"targe",
+				"target_post"
+			],
+			[
+				"get_stylesheet_dire",
+				"get_stylesheet_directory_uri"
+			],
+			[
+				"the_titl",
+				"the_title"
+			],
+			[
+				"func",
+				"functions"
+			],
+			[
+				"cener",
+				"center-block	(_utilities.scss)"
+			],
+			[
+				"assets",
+				"assets/"
+			],
+			[
+				"bs3bu",
+				"bs3-button:danger	bs3-button-danger"
+			],
+			[
+				"col-",
+				"col-xs-4"
+			],
+			[
+				"adte",
+				"bootstrap-datepicker3.min.css"
+			],
+			[
+				"asset",
+				"assets/"
+			],
+			[
+				"datetime",
+				"datetimepicker"
+			],
+			[
+				"date",
+				"datetimepicker	(bootstrap-datetimepicker.js)"
+			],
+			[
+				"ja",
+				"bootstrap-datepicker.ja.min.js"
+			],
+			[
+				"b",
+				"bootstrap-datepicker/"
+			],
+			[
+				"bower",
+				"bower_components/"
+			],
+			[
+				"change",
+				"changeInput"
+			],
+			[
+				"chan",
+				"changeInput"
+			],
+			[
+				"chang",
+				"changeInput	(hotelaccount_tas.html)"
+			],
+			[
+				"ty",
+				"type"
+			],
+			[
+				"tri",
+				"triggers"
+			],
+			[
+				"m",
+				"mb10"
+			],
+			[
+				"mb1",
+				"mb10	(common.scss)"
+			],
+			[
+				"hotela",
+				"hotelaccount_tas.html"
+			],
+			[
+				"bs3btn",
+				"bs3-lg-button	bs3-lg-button"
+			],
+			[
+				"ei",
+				"edit_tas.html"
+			],
+			[
+				"edi",
+				"edit_hotel.html"
+			],
+			[
+				"lis",
+				"list_hotel.html"
+			],
+			[
+				"login",
+				"login_tas.html"
+			],
+			[
+				"pa",
+				"parts_tas.html"
+			],
+			[
+				"p",
+				"parts_hotel.html"
+			],
+			[
+				"logo_",
+				"logo_Hotel.png	(edit_hotel.html)"
+			],
+			[
+				"colla",
+				"collapsed"
+			],
+			[
+				"datepi",
+				"datepicker-range"
+			],
+			[
+				"time",
+				"timepicker"
+			],
+			[
+				"wid",
+				"width: 〔property〕"
+			],
+			[
+				"width",
+				"width=\"100	(parts.html)"
+			],
+			[
+				"lea",
+				"lead	(_type.scss)"
+			],
+			[
+				"bs3",
+				"bs3-col	bs3-col"
+			],
+			[
+				"bs3-b",
+				"bs3-button:primary	bs3-button-primary"
+			],
+			[
+				"buttin",
+				"bs3-sm-button:info	bs3-sm-button-info"
+			],
+			[
+				"nb",
+				"nbsp;％"
+			],
+			[
+				"ml",
+				"ml10	common.scss"
+			],
+			[
+				"page",
+				"page-parts-icon.png	w:20 h:20"
+			],
+			[
+				"user",
+				"user_icon.png	w:20 h:20"
+			],
+			[
+				"content__",
+				"content__menu"
+			],
+			[
+				"commo",
+				"common/"
+			],
+			[
+				"uk-icon-",
+				"uk-icon-glass 	UIkit class"
+			],
+			[
+				"uk-icon-che",
+				"uk-icon-chevron-left 	UIkit class"
+			],
+			[
+				"dvp-fade",
+				"dvp-fade-in"
+			],
+			[
+				"remo",
+				"removeClass〔function〕"
+			],
+			[
+				"dvp-fa",
+				"dvp-fade-in	(style.scss)"
+			],
+			[
+				"sele",
+				"selector"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/n-futagami/_Project/CLP_tmc_api/project/index.html",
+			"settings":
+			{
+				"buffer_size": 186,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "project",
+		"selected_items":
+		[
+			[
+				"project",
+				"Project Manager: Add Project"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"copy",
+				"ANF: Copy Current File"
+			],
+			[
+				"download",
+				"SFTP: Download File"
+			],
+			[
+				"each",
+				"Snippet: .each()"
+			],
+			[
+				"sync",
+				"SFTP: Sync Local -> Remote…"
+			],
+			[
+				"book",
+				"Bookmarks: Toggle"
+			],
+			[
+				"block",
+				"Toggle Block Comment"
+			],
+			[
+				"uploa",
+				"SFTP: Upload Open Files"
+			],
+			[
+				"synh",
+				"Set Syntax: HTML"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"mo",
+				"File: Move"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"sync loca",
+				"SFTP: Sync Local -> Remote…"
+			],
+			[
+				"upload",
+				"SFTP: Upload Open Files"
+			],
+			[
+				"up",
+				"SFTP: Upload Open Files"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"co",
+				"ANF: Copy Current File"
+			],
+			[
+				"cop",
+				"ANF: Copy Current File"
+			],
+			[
+				"upo",
+				"SFTP: Upload Open Files"
+			],
+			[
+				"",
+				"ANF: Copy Current File"
+			],
+			[
+				"uplo",
+				"SFTP: Upload Open Files"
+			],
+			[
+				"syntaxhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"converspa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"show",
+				"SFTP: Show Panel"
+			],
+			[
+				"upl",
+				"SFTP: Upload File"
+			],
+			[
+				"convertspa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"upopen",
+				"SFTP: Upload Open Files"
+			],
+			[
+				"ready",
+				"Snippet: document.ready - $(function(){})"
+			],
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"File: Rename"
+			],
+			[
+				"word",
+				"WordPress Codex: Open Function Reference"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: var",
+				"Snippet: var_dump"
+			],
+			[
+				"set hp",
+				"Set Syntax: PHP"
+			],
+			[
+				"sethtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"anf",
+				"ANF: New File"
+			],
+			[
+				"shel",
+				"ShellCommand"
+			],
+			[
+				"new window",
+				"Project Manager: Open Project in New Window"
+			],
+			[
+				"openb",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"shell",
+				"ShellCommand"
+			],
+			[
+				"addfo",
+				"Project: Add Folder"
+			],
+			[
+				"wp",
+				"WordPress Codex: Search Selection"
+			],
+			[
+				"addpro",
+				"Project Manager: Add Project"
+			],
+			[
+				"media",
+				"Snippet: media"
+			],
+			[
+				"openfile",
+				"ANF: Copy Current File"
+			],
+			[
+				"path",
+				"File: Copy Path"
+			],
+			[
+				"do",
+				"Snippet: document.ready - $(function(){})"
+			],
+			[
+				"docum",
+				"Snippet: document.ready - $(function(){})"
+			],
+			[
+				"document",
+				"Snippet: document.ready - $(function(){})"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"addproje",
+				"Project Manager: Add Project"
+			],
+			[
+				"pro",
+				"Project Manager"
+			],
+			[
+				"keyf",
+				"Snippet: @keyframes"
+			],
+			[
+				"fill",
+				"Snippet: animation-fill-mode:forwards"
+			],
+			[
+				"animation-na",
+				"Snippet: animation-name"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"transpare",
+				"Snippet: transparentize()"
+			],
+			[
+				"retty",
+				"HTMLPrettify"
+			],
+			[
+				"blo",
+				"Toggle Block Comment"
+			],
+			[
+				"bloc",
+				"Toggle Block Comment"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"copycu",
+				"ANF: Copy Current File"
+			],
+			[
+				"jquer",
+				"Snippet: jQuery(document).ready"
+			],
+			[
+				"new",
+				"ANF: New File"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"commen",
+				"Toggle Comment"
+			],
+			[
+				"p",
+				"Project Manager"
+			],
+			[
+				"pwd",
+				"Project Manager: Open Project in New Window"
+			],
+			[
+				"proje",
+				"Project Manager"
+			],
+			[
+				"termi",
+				"Terminal: Open"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"tarnsi",
+				"Snippet: transition"
+			],
+			[
+				"inclu",
+				"Snippet: @include"
+			],
+			[
+				"include",
+				"Snippet: @include"
+			],
+			[
+				"includ",
+				"Snippet: @include"
+			],
+			[
+				"smoo",
+				"Snippet: font-smooth"
+			],
+			[
+				"mixi",
+				"Snippet: @mixin"
+			],
+			[
+				"exten",
+				"Snippet: @extend"
+			],
+			[
+				"extend",
+				"Snippet: @extend"
+			],
+			[
+				"jquery",
+				"Snippet: HTML - Include jQuery"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/n-futagami/_Project/CLP_tmc_api/project",
+		"/Users/n-futagami/_Project/CLP_tmc_api/project/build",
+		"/Users/n-futagami/_Project/CLP_tmc_api/project/config",
+		"/Users/n-futagami/_Project/CLP_tmc_api/project/src",
+		"/Users/n-futagami/_Project/CLP_tmc_api/project/static"
+	],
+	"file_history":
+	[
+		"/Users/n-futagami/Desktop/i_253c81ba_2016-08-10.sql",
+		"/Users/n-futagami/_Project/CLP_cloudpack.media/www/wp-content/themes/clp_media/template-parts/content-unit.php",
+		"/Users/n-futagami/_Project/CLP_cloudpack.media/www/wp-content/themes/clp_media/template-parts/content-unit_first.php",
+		"/Users/n-futagami/_Project/CLP_cloudpack.media/www/wp-content/themes/clp_media/js/date.js",
+		"/Users/n-futagami/_Project/CLP_cloudpack.media/www/wp-content/themes/clp_media/js/alm_function.js",
+		"/Users/n-futagami/_Project/CLP_cloudpack.media/www/wp-content/themes/clp_media/js/customizer.js",
+		"/Users/n-futagami/_Project/CLP_cloudpack.media/www/wp-content/themes/clp_media/header.php",
+		"/Users/n-futagami/_Project/CLP_cloudpack.media/www/wp-content/themes/clp_media/template-parts/content-single-post.php",
+		"/Users/n-futagami/_Project/CLP_cloudpack.media/www/wp-content/themes/clp_media/functions.php",
+		"/Users/n-futagami/_Project/CLP_cloudpack.media/www/wp-content/themes/clp_media/js/libs.js",
+		"/Users/n-futagami/_Project/CLP_cloudpack.media/www/wp-content/themes/clp_media/js/function.js",
+		"/Users/n-futagami/_Project/CLP_cloudpack.media/www/wp-content/themes/clp_media/yarpp-template-clpmedia.php",
+		"/Users/n-futagami/_Project/CLP_cloudpack.media/www/wp-content/themes/clp_media/single-post.php",
+		"/Users/n-futagami/_Project/CLP_cloudpack.media/www/wp-content/themes/clp_media/template-parts/content-tech.php",
+		"/Users/n-futagami/_Project/CLP_cloudpack.media/www/wp-content/themes/clp_media/home.php",
+		"/Users/n-futagami/_Project/CLP_cloudpack.media/www/wp-content/themes/clp_media/style.css",
+		"/Users/n-futagami/_Project/cloudpack.media/www/wp-content/themes/clp_media/js/alm_function.js",
+		"/Users/n-futagami/_Project/cloudpack.media/www/wp-content/themes/clp_media/template-parts/content-unit.php",
+		"/Users/n-futagami/_Project/cloudpack.media/www/wp-content/themes/clp_media/template-parts/content-single-post.php",
+		"/Users/n-futagami/_Project/cloudpack.media/www/wp-content/themes/clp_media/template-parts/content-unit_first.php",
+		"/Users/n-futagami/_Project/cloudpack.media/www/wp-content/themes/clp_media/yarpp-template-clpmedia.php",
+		"/Users/n-futagami/_Project/cloudpack.media/www/wp-content/themes/clp_media/category.php",
+		"/Users/n-futagami/_Project/cloudpack.media/www/wp-content/themes/clp_media/template-parts/content-page.php",
+		"/Users/n-futagami/_Project/cloudpack.media/www/wp-content/themes/clp_media/footer.php",
+		"/Users/n-futagami/_Project/cloudpack.media/www/wp-content/themes/clp_media/home.php",
+		"/Users/n-futagami/_Project/cloudpack.media/www/wp-content/themes/clp_media/single-post.php",
+		"/Users/n-futagami/_Project/cloudpack.media/www/wp-content/themes/clp_media/functions.php",
+		"/Users/n-futagami/_Project/cloudpack.media/www/wp-content/themes/clp_media/header.php",
+		"/Users/n-futagami/_Project/cloudpack.media/www/wp-content/themes/clp_media/style.css",
+		"/Users/n-futagami/_Project/cloudpack.media/www/wp-content/themes/clp_media/js/libs.js",
+		"/Users/n-futagami/_Project/cloudpack.media/www/wp-content/themes/clp_media/template-parts/content.php",
+		"/Users/n-futagami/_Project/cloudpack.media/www/wp-content/themes/clp_media/alm_templates/default.php",
+		"/Users/n-futagami/_Project/cloudpack.media/www/wp-content/themes/clp_media/alm_templates/single-post.php",
+		"/Users/n-futagami/_Project/cloudpack.media/www/wp-content/themes/clp_media/page.php",
+		"/Users/n-futagami/_Project/cloudpack.media/www/wp-content/themes/clp_media/single.php",
+		"/Users/n-futagami/_Project/cloudpack.media/www/wp-content/themes/clp_media/tag.php",
+		"/Users/n-futagami/_Project/cloudpack.media/www/wp-content/themes/clp_media/template-parts/content-tech.php",
+		"/Users/n-futagami/_Project/cloudpack.media/www/wp-content/themes/clp_media/sftp-config.json",
+		"/Users/n-futagami/_Project/cloudpack.media/www/wp-content/themes/clp_media/inc/template-tags.php",
+		"/Users/n-futagami/_Project/cloudpack.media/www/wp-content/themes/clp_media/top.css",
+		"/Users/n-futagami/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/Users/n-futagami/_Project/cloudpack.media/www/wp-content/themes/clp_media/content-unit.php",
+		"/Users/n-futagami/_Project/cloudpack.media/www/wp-content/themes/clp_media/tempate-parts/content-unit_first.php",
+		"/Users/n-futagami/_Project/cloudpack.media/www/wp-content/themes/clp_media/index.php",
+		"/Users/n-futagami/_Project/cloudpack.media/www/wp-content/themes/clp_media/js/function.js",
+		"/Users/n-futagami/_Project/cloudpack.media/www/wp-content/themes/clp_media/sidebar.php",
+		"/Users/n-futagami/_Project/cloudpack.media/www/wp-content/themes/clp_media/_home.php",
+		"/Users/n-futagami/_Project/cloudpack.media/www/wp-content/themes/clp_media/_s.css",
+		"/Users/n-futagami/_Project/cloudpack.media/www/wp-config.php",
+		"/Users/n-futagami/Library/Application Support/Sublime Text 3/Packages/User/Projects - n-futagami1/clp.media_theme.sublime-project",
+		"/Users/n-futagami/Library/Application Support/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
+		"/Users/n-futagami/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/n-futagami/_Project/cloudpack.media/www/wp-content/themes/clp_media/svg.php",
+		"/Users/n-futagami/_Project/cloudpack.media/www/wp-content/themes/clp_media/.jscsrc",
+		"/Users/n-futagami/_Project/cloudpack.media/www/wp-content/themes/clp_media/.jshintignore",
+		"/Users/n-futagami/Library/Application Support/Sublime Text 3/Settings/SideBarEnhancements.json",
+		"/Users/n-futagami/_Project/cloudpack.media/www/wp-content/themes/clp/style.css",
+		"/Users/n-futagami/_Project/cloudpack.media/www/wp-content/themes/clp/index.php",
+		"/Users/n-futagami/_Project/cloudpack.media/www/wp-content/themes/clp/header.php",
+		"/Users/n-futagami/_Project/cloudpack.media/www/wp-content/themes/clp/inc/custom-header.php",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/login_tas.html",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/login.html",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/login_hotel.html",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/list_tas.html",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/list_hotel.html",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/edit_hotel.html",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/edit_tas.html",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/hotelaccount_hotel.html",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/hotelaccount_tas.html",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/edit.html",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/list.html",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/_theme.scss",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/index.html",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/parts.html",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/js/jquery/jquery.autosize.min.js",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/css/admin_layout_bk.css",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/_bootstrap.scss",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/lib/datepicker/js/bootstrap-datepicker.js",
+		"/Users/n-futagami/Downloads/datepicker/js/bootstrap-datepicker.js",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/parts_tas.html",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/parts_hotel.html",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/bower_components/eonasdan-bootstrap-datetimepicker/src/js/bootstrap-datetimepicker.js",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/bower_components/eonasdan-bootstrap-datetimepicker/build/js/bootstrap-datetimepicker.min.js",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/_tables.scss",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/js/bootstrap/bootstrap/form.js",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/js/document.js",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/common.scss",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/js/util/form.js",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/js/libs.js",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/js/main.js",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/_variables.scss",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/_type.scss",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/_navbar.scss",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/_navs.scss",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/_labels.scss",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/mixins/_labels.scss",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/_buttons.scss",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/_grid.scss",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/admin_layout.scss",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/style.scss",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/_utilities.scss",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/_setting.scss",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/_reset.scss",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/admin_layout_bk.scss",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/css/bootstrap.css",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/css/style.css",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/css/style.css",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/frame.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/suites.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/top.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/verify.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/login.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/api/readme.md",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/devicepool.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/project.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/scss/uikit/core/flex.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/components/form-password.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/uikit.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/scss/style.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/scss/uikit/uikit-mixins.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/scss/uikit/core/table.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/style_old.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/scss/uikit/uikit-variables.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/scss/uikit/core/grid.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/jquery.function.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/scss/uikit/core/modal.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/scss/uikit/core/nav.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/api/app/Project.php"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 473.0,
+		"where_history":
+		[
+			"<open folders>",
+			"<open folders>,*css",
+			"<open folders>,*html",
+			"<open folders>",
+			"<open folders>,*js",
+			"<open folders>,js",
+			"<open folders>",
+			"<open folders>,*.scss",
+			"<open folders>,*.html",
+			"<open folders>,*.scss",
+			"<open folders>,.scss",
+			"<open folders>",
+			"<open folders>,*html",
+			"<open folders>",
+			"<open folders>,*html",
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"about",
+			"tech",
+			"category",
+			"category__not_in",
+			"get_category",
+			"name",
+			"id",
+			"857",
+			"tech_id",
+			"the_post_thumbnail",
+			"subject",
+			"replace",
+			"day_jp",
+			"var",
+			"SUN",
+			"SAT",
+			"FRI",
+			"THU",
+			"WED",
+			"TUE",
+			"MON",
+			"<li class=\"btn__slack\">\n	                <a href=\"dummy\">\n	                    <title>slack</title>\n	                    <svg class=\"icon\">\n	                        <use xlink:href=\"#icon-slack\" />\n	                    </svg>\n	                </a>\n	            </li>",
+			"<li class=\"btn__slack\"><a href=\"dummy\"><title>slack</title><svg class=\"icon\"><use xlink:href=\"#icon-slack\"/></svg></a></li>",
+			"SUN",
+			"Sunday",
+			"alm",
+			"reveal",
+			"facebook",
+			"dummy",
+			"facebook",
+			"dummy",
+			"facebook",
+			"hatebu",
+			"condition",
+			"thumbnail",
+			"block__date_view",
+			"console",
+			"./",
+			"finished",
+			" = ",
+			". ",
+			"	\n",
+			"bold",
+			" em",
+			"echo '<br>' . ",
+			"<svg class=\"icon icon__share\">",
+			"hatena",
+			"counte",
+			"sum",
+			"theBody",
+			"twitter",
+			"float__share",
+			"btn__twitter",
+			"get_the_author_id",
+			"/>\n",
+			"get_post_thumbnail_id",
+			"get_the_post_thumbnail_",
+			"the_post_thumbnail",
+			"user_id",
+			"get_avatar",
+			"\n          ",
+			"block__unit__",
+			"block__unit__more",
+			"is_author",
+			"is_year",
+			"is_tag",
+			"is_home",
+			"post_title",
+			"the_title",
+			"get_categories",
+			"global",
+			"460",
+			"1400",
+			"thumbnail",
+			"breadcrumb(",
+			"div",
+			"ul",
+			"Archive for ",
+			"Home",
+			"crumbs",
+			"ul",
+			"div",
+			"wrapElm",
+			"short",
+			"breadcrumb",
+			"html",
+			"get_the_ID",
+			"almComplete",
+			"##**",
+			"alm_functions",
+			"setBlankUnit",
+			"cloudpack技術情報サイト",
+			"description",
+			"home_thumbnail",
+			"image",
+			"is_month",
+			"the_time(",
+			"home_thumbnail",
+			"image",
+			"sep",
+			"wpdocs",
+			":",
+			"の記事一覧",
+			"?>",
+			". ",
+			"; ?>",
+			"<?php ",
+			"al",
+			"url",
+			"image",
+			"src=\"/img",
+			"dummy",
+			"cat_name",
+			"category",
+			"categories",
+			"the_custum_breadcrumb",
+			"arg",
+			"href=\"<?php",
+			"dummy",
+			"output",
+			"post_id",
+			"get_template_part",
+			"url(\"",
+			"url",
+			"post",
+			"slug",
+			"460",
+			"category"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\n",
+			"",
+			"<script src=\"/assets/js/jquery/jquery.js\"></script>\n    <script src=\"/assets/js/bootstrap/bootstrap.min.js\"></script>\n    <script src=\"/assets/js/bootstrap/bootstrap/form.js\"></script>\n    <script src=\"/assets/lib/datepicker/js/bootstrap-datepicker.js\"></script>\n    <script src=\"/assets/lib/datepicker/js/locales/bootstrap-datepicker.ja.js\"></script>\n    <script src=\"/assets/lib/timepicker/bootstrap-timepicker.js\"></script>",
+			"<title>TAS Agent</title>",
+			"width=\"203\"",
+			"<a class=\"navs\" href=\"#\"><span><img src=\"img/common/$1.png\"></span><br>$2</a>",
+			"",
+			"<span class=\"user-name-text\">タナカタロウ</span><a class=\"logout-link\" href=\"#logout\">ログアウト</a>",
+			"",
+			"<img src=\"./img/common/logo.png\" alt=\"TAS\" width=\"223\">",
+			"run.html",
+			"アカウント",
+			"Devicepack demo",
+			" id=\"main\" class=\"main\"",
+			"<div class=\"panel panel-default dvp-list-project\">\n                <div class=\"panel-heading\" role=\"tab\" id=\"headingOne\">\n                    <h4 class=\"panel-title\">\n                      <a data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseOne\" aria-expanded=\"false\" aria-controls=\"collapseOne\" class=\"collapsed\">\n                        プロジェクト\n                      </a>\n                    </h4>\n                </div>\n                <div id=\"collapseOne\" class=\"panel-collapse collapse\" role=\"tabpanel\" aria-labelledby=\"headingOne\" aria-expanded=\"false\" style=\"height: 0px;\">\n                    <ul class=\"nav dvp-side-subnav\">\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link\" href=\"top.html\">demo project</a>\n                        </li>\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link\" href=\"top.html\">demo project</a>\n                        </li>\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link disabled\" href=\"top.html\">&gt;&gt;ランの詳細を見る</a>\n                        </li>\n                    </ul>\n                </div>\n            </div>\n            <div class=\"panel panel-default dvp-list-run\">\n                <div class=\"panel-heading\" role=\"tab\" id=\"headingTwo\">\n                    <h4 class=\"panel-title\">\n                      <a class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">\n                        ラン\n                      </a>\n                    </h4>\n                </div>\n                <div id=\"collapseTwo\" class=\"panel-collapse collapse\" role=\"tabpanel\" aria-labelledby=\"headingTwo\">\n                    <ul class=\"nav dvp-side-subnav\">\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link\" href=\"#\">demo_undotsushin.ipa</a>\n                        </li>\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link\" href=\"#\">demo_undotsushin.ipa</a>\n                        </li>\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link disabled\" href=\"#\">&gt;&gt;ランの詳細を見る</a>\n                        </li>\n                    </ul>\n                </div>\n            </div>",
+			"<a href=\"./new1.html\">ランの新規作成</a>",
+			"col-lg-",
+			"            <a class=\"global__toggle__nav_icon\" href=\"#\" aria-expanded=\"false\" aria-controls=\"navlist\"><img class=\"menu\" src=\"../img/btn_menu_sp.png\" alt=\"menu\"><img class=\"close\" src=\"../img/btn_close_sp.png\" alt=\"close\"></a>\n            <nav id=\"navlist\" class=\"global__toggle__nav_list\" aria-expanded=\"true\">",
+			"<a href=\"https://www.jimin.jp/\" target=\"_blank\"><span class=\"nw\">自民党ホームページ</span></a>",
+			"                <ul class=\"child2__nav_list\">\n                    <li><a href=\"#\">政策BANK</a></li><!--\n                 --><!--<li><a href=\"#\">選挙公約2016（PDF）</a></li>--><!--\n                 --><li><a href=\"#\">政策パンフレット2016（PDF）</a></li><!--\n                 --><!--<li><a href=\"#\">こどもマニフェスト（PDF）</a></li>--><!--\n                 --><li><a href=\"#\">都道府県別政策集</a></li><!--\n                 --><!--<li><a href=\"#\" target=\"_blank\"><span class=\"nw\">自民党参院選2016</span></a></li>--><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">自民党ホームページ</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">ネット選挙について</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">プライバシーポリシー</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">お問い合わせ</span></a></li><!--\n                 --><li class=\"nav__sns\">\n                 <ul>\n                 <li><a href=\"http://www.facebook.com/share.php\" onclick=\"window.open(encodeURI(decodeURI(this.href)), 'FBwindow', 'width=554, height=470, menubar=no, toolbar=no, scrollbars=yes'); return false;\" rel=\"nofollow\"><img src=\"../img/btn_fb.png\" alt=\"シェアする\"></a></li>\n                    <li><a href=\"http://twitter.com/share\" onClick=\"window.open(encodeURI(decodeURI(this.href)), 'tweetwindow', 'width=650, height=470, personalbar=0, toolbar=0, scrollbars=1, sizable=1'); return false;\" rel=\"nofollow\"><img src=\"../img/btn_tw.png\" alt=\"\"></a></li>\n                 </ul>\n                 </li>\n                </ul>",
+			"<meta name=\"twitter:title\" content=\"自民党政策サイト\" />",
+			"<meta property=\"og:title\" content=\"自民党政策サイト\" />",
+			"<!-- *** OGP *** -->\n<meta property=\"og:title\" content=\"自由民主党\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:image\" content=\"https://www.jimin.jp/common/img/facebook-lbdems.jpg\" />\n<meta property=\"og:url\" content=\"https://special.jimin.jp/political_promise/\" />\n\n<meta name=\"twitter:title\" content=\"自由民主党\" />\n<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@jimin_koho\" />\n<meta name=\"twitter:description\" content=\"「この道を。力強く、前へ。」自民党の政策サイトです。道半ばではありますが、アベノミクスは確実に「結果」を生み出しています。この道を、力強く、前へ、進んで行こうではありませんか。 国民の皆様と共に,「誇りある日本」を取り戻すために。\" />\n<meta name=\"twitter:image\" content=\"https://www.jimin.jp/common/img/twitter-lbdems.jpg\" />\n<meta property=\"twitter:account_id\" content=\"58359180\" />\n",
+			"https://special.jimin.jp/political_promise/",
+			"<script>\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');\n  ga('create', 'UA-41065878-7', 'auto');\n  ga('send', 'pageview');\n</script>\n</body>\n",
+			"                 --><!--<li><a href=\"#\" target=\"_blank\"><span class=\"nw\">自民党参院選2016</span></a></li>--><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">自民党ホームページ</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">ネット選挙について</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">プライバシーポリシー</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">お問い合わせ</span></a></li>",
+			"                 --><!--<li><a href=\"#\" target=\"_blank\">自民党参院選2016<span class=\"nw\"></span></a></li>--><!--\n                 --><li><a href=\"#\" target=\"_blank\">自民党ホームページ<span class=\"nw\"></span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">ネット選挙について<span class=\"nw\"></span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">プライバシーポリシー<span class=\"nw\"></span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">お問い合わせ<span class=\"nw\"></span></a></li>",
+			"",
+			"都道府県別政策集",
+			"<div class=\"global__toggle__nav_icon\"><a href=\"#global__toggle__nav\"><img class=\"menu\" src=\"../img/btn_menu_sp.png\" alt=\"menu\"><img class=\"close\" src=\"../img/btn_close_sp.png\" alt=\"close\"></a></div>",
+			"<title>｜自民党政策サイト</title>",
+			"                <ul class=\"child2__nav_list\">\n                    <li><a href=\"#\">政策BANK</a></li><!--\n                 --><!--<li><a href=\"#\">選挙公約2016（PDF）</a></li>--><!--\n                 --><li><a href=\"#\">政策パンフレット2016（PDF）</a></li><!--\n                 --><!--<li><a href=\"#\">こどもマニフェスト（PDF）</a></li>--><!--\n                 --><li><a href=\"#\">都道府県別政策集（PDF）</a></li><!--\n                 --><!--<li><a href=\"#\" target=\"_blank\">自民党参院選2016</a></li>--><!--\n                 --><li><a href=\"#\" target=\"_blank\">自民党ホームページ</a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">ネット選挙について</a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">プライバシーポリシー</a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">お問い合わせ</a></li>\n                </ul>",
+			"\n<title>自由民主党</title>\n",
+			"",
+			"<title>自由民主党</title>",
+			"<title>siteName</title>\n\n<!-- *** OGP *** -->\n<meta property=\"og:title\" content=\"自由民主党\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:image\" content=\"https://www.jimin.jp/common/img/facebook-lbdems.jpg\" />\n<meta property=\"og:url\" content=\"https://www.jimin.jp/election/results/sen_san24/political_promise/\" />",
+			"<meta name=\"description\" content=\"「この道を。力強く、前へ。」自民党の政策サイトです。道半ばではありますが、アベノミクスは確実に「結果」を生み出しています。この道を、力強く、前へ、進んで行こうではありませんか。 国民の皆様と共に,「誇りある日本」を取り戻すために。\">\n<meta name=\"keywords\" content=\"自民党,自由民主党,自民,安倍晋三,アベノミクス,経済,外交,一億総活躍,3本の矢,地方創生,18歳選挙,女性活躍,子育て,介護,高齢者,若者,中小企業,農業,TPP,外国人,復興,奨学金,就職,保育,医療,教育,環境,エネルギー,労働\">",
+			"id=\"pageup",
+			"<script src=\"../js/jquery.function.js\"></script>",
+			"<script src=\"../js/jquery.easing.1.3.js\"></script>",
+			"<a id=\"#pageup\" href=\"#\">",
+			"<a class=\"logo\" href=\"../../index.html\">",
+			"<a class=\"logo\" href=\"../index.html\">",
+			"../prevention",
+			"/img/diplomacy",
+			"../diplomacy",
+			"small",
+			"<a href=\"../society/index.html\">さあ、一億総活躍社会へ！</a>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/n-futagami/_Project/CLP_tmc_api/project/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 186,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"is_xml": false,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "vue.js.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"header",
+				"header.php"
+			],
+			[
+				"single",
+				"template-parts/content-single-post.php"
+			],
+			[
+				"function",
+				"functions.php"
+			],
+			[
+				"sing",
+				"single-post.php"
+			],
+			[
+				"content-unit",
+				"template-parts/content-unit_first.php"
+			],
+			[
+				"unit",
+				"template-parts/content-unit.php"
+			],
+			[
+				"alm",
+				"js/alm_function.js"
+			],
+			[
+				"func",
+				"functions.php"
+			],
+			[
+				"style",
+				"style.css"
+			],
+			[
+				"single-",
+				"single-post.php"
+			],
+			[
+				"al",
+				"js/alm_function.js"
+			],
+			[
+				"ho",
+				"home.php"
+			],
+			[
+				"unitfi",
+				"template-parts/content-unit_first.php"
+			],
+			[
+				"",
+				"template-parts/content-unit.php"
+			],
+			[
+				"footer",
+				"footer.php"
+			],
+			[
+				"content-page",
+				"template-parts/content-page.php"
+			],
+			[
+				"cate",
+				"category.php"
+			],
+			[
+				"home",
+				"home.php"
+			],
+			[
+				"uin",
+				"template-parts/content-unit_first.php"
+			],
+			[
+				"con",
+				"template-parts/content.php"
+			],
+			[
+				"content",
+				"template-parts/content.php"
+			],
+			[
+				"tag",
+				"tag.php"
+			],
+			[
+				"funcion",
+				"functions.php"
+			],
+			[
+				"sin",
+				"single.php"
+			],
+			[
+				"hea",
+				"header.php"
+			],
+			[
+				"js/",
+				"js/function.js"
+			],
+			[
+				"home.php",
+				"home.php"
+			],
+			[
+				"in",
+				"index.php"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"common",
+				"assets/sass/common.scss"
+			],
+			[
+				"pagina",
+				"assets/sass/bootstrap/mixins/_pagination.scss"
+			],
+			[
+				"navbar",
+				"assets/sass/bootstrap/_navbar.scss"
+			],
+			[
+				"themescss",
+				"assets/sass/bootstrap/_theme.scss"
+			],
+			[
+				"variable",
+				"assets/sass/bootstrap/_variables.scss"
+			],
+			[
+				"grid",
+				"assets/sass/bootstrap/_grid.scss"
+			],
+			[
+				"bootstrap.scss",
+				"assets/sass/_bootstrap.scss"
+			],
+			[
+				"hotel",
+				"hotelaccount_tas.html"
+			],
+			[
+				"pane",
+				"assets/sass/bootstrap/_panels.scss"
+			],
+			[
+				"datepicker",
+				"assets/lib/datepicker/js/bootstrap-datepicker.js"
+			],
+			[
+				"part",
+				"parts_tas.html"
+			],
+			[
+				"form",
+				"assets/js/bootstrap/bootstrap/form.js"
+			],
+			[
+				"bootstrap/fo",
+				"assets/js/bootstrap/bootstrap/form.js"
+			],
+			[
+				"main",
+				"js/main.js"
+			],
+			[
+				"table.sscss",
+				"assets/sass/bootstrap/_tables.scss"
+			],
+			[
+				"parts",
+				"parts.html"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"edi",
+				"edit_tas.html"
+			],
+			[
+				"vari",
+				"assets/sass/bootstrap/_variables.scss"
+			],
+			[
+				"como",
+				"assets/sass/common.scss"
+			],
+			[
+				"partstas",
+				"parts_tas.html"
+			],
+			[
+				"loginho",
+				"login_hotel.html"
+			],
+			[
+				"login",
+				"login_tas.html"
+			],
+			[
+				"type",
+				"assets/sass/bootstrap/_type.scss"
+			],
+			[
+				"nav",
+				"assets/sass/bootstrap/_navs.scss"
+			],
+			[
+				"tab",
+				"assets/sass/bootstrap/_tables.scss"
+			],
+			[
+				"ty",
+				"assets/sass/bootstrap/_type.scss"
+			],
+			[
+				"label",
+				"assets/sass/bootstrap/_labels.scss"
+			],
+			[
+				"log",
+				"login.html"
+			],
+			[
+				"docu",
+				"assets/js/document.js"
+			],
+			[
+				"table",
+				"assets/sass/bootstrap/_tables.scss"
+			],
+			[
+				"list",
+				"list.html"
+			],
+			[
+				"varia",
+				"assets/sass/bootstrap/_variables.scss"
+			],
+			[
+				"icons",
+				"scss/uikit/core/icon.scss"
+			],
+			[
+				"frame",
+				"frame.html"
+			],
+			[
+				"sui",
+				"suites.html"
+			],
+			[
+				"uikit-mi",
+				"scss/uikit/uikit-mixins.scss"
+			],
+			[
+				"top",
+				"top.html"
+			],
+			[
+				"suites",
+				"suites.html"
+			],
+			[
+				"suite",
+				"suites.html"
+			],
+			[
+				"val",
+				"scss/uikit/uikit-variables.scss"
+			],
+			[
+				"de",
+				"devices.html"
+			],
+			[
+				"new4",
+				"new4.html"
+			],
+			[
+				"new3",
+				"new3.html"
+			],
+			[
+				"new",
+				"new5.html"
+			],
+			[
+				"new1",
+				"new1.html"
+			],
+			[
+				"new2",
+				"new2.html"
+			],
+			[
+				"modal",
+				"scss/uikit/core/modal.scss"
+			],
+			[
+				"uiki",
+				"js/uikit.js"
+			],
+			[
+				"stl",
+				"css/style.css"
+			],
+			[
+				"tyle",
+				"css/style.css"
+			],
+			[
+				"bread",
+				"scss/_breadcrumb.scss"
+			],
+			[
+				"va",
+				"scss/_variables.scss"
+			],
+			[
+				"style.",
+				"scss/style_old.scss"
+			],
+			[
+				"chart",
+				"js/Chart.js"
+			],
+			[
+				"fun",
+				"js/jquery.function.js"
+			],
+			[
+				"reboot",
+				"scss/_reboot.scss"
+			],
+			[
+				"moda",
+				"scss/_modal.scss"
+			],
+			[
+				"table-or",
+				"scss/mixins/_table-row.scss"
+			],
+			[
+				"mixingri",
+				"scss/mixins/_grid.scss"
+			],
+			[
+				"cus",
+				"scss/_custom-forms.scss"
+			],
+			[
+				"s",
+				"scss/style.scss"
+			],
+			[
+				"reb",
+				"scss/_reboot.scss"
+			],
+			[
+				"nor",
+				"scss/_normalize.scss"
+			],
+			[
+				"mixi",
+				"scss/_mixins.scss"
+			],
+			[
+				"boot",
+				"scss/bootstrap.scss"
+			],
+			[
+				"varie",
+				"scss/_variables.scss"
+			],
+			[
+				"scss",
+				"sass/_main.scss"
+			],
+			[
+				"lay",
+				"sass/_layout.scss"
+			],
+			[
+				"pre",
+				"prevention/index.html"
+			],
+			[
+				"local",
+				"local/index.html"
+			],
+			[
+				"life",
+				"life/index.html"
+			],
+			[
+				"trade",
+				"trade/index.html"
+			],
+			[
+				"econo",
+				"economics/index.html"
+			],
+			[
+				"sass",
+				"sass/_setting.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"clp_media_posted_on",
+				"clp_media_posted_on"
+			],
+			[
+				"posted_on",
+				"clp_media_posted_on"
+			],
+			[
+				"btn-default",
+				"btn-default"
+			],
+			[
+				"center",
+				"center-block"
+			],
+			[
+				"pagination",
+				"pagination"
+			],
+			[
+				"autosize",
+				"_autoSize"
+			],
+			[
+				"vam",
+				"va-m"
+			],
+			[
+				"vm",
+				"va-m"
+			],
+			[
+				"label",
+				"label"
+			],
+			[
+				"radio",
+				"radio"
+			],
+			[
+				"body",
+				"body"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"table-bordered",
+				"table-bordered"
+			],
+			[
+				"text-cen",
+				"text-center"
+			],
+			[
+				"clea",
+				"clearfix"
+			],
+			[
+				"label-primary",
+				"label-primary"
+			],
+			[
+				"uk-icon-chevo",
+				"uk-icon-chevron-left"
+			],
+			[
+				"fade",
+				"uk-animation-fade"
+			],
+			[
+				"uk-open",
+				"uk-open"
+			],
+			[
+				"uk-fle",
+				"uk-flex"
+			],
+			[
+				"dvp-devi",
+				"dvp-device-table"
+			],
+			[
+				"grid",
+				"make-grid-columns"
+			],
+			[
+				"btn-",
+				"btn-lg"
+			],
+			[
+				"tool",
+				"Tooltip"
+			],
+			[
+				"nav-tabs",
+				"nav-tabs"
+			],
+			[
+				"table-re",
+				"table-responsive"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"c-indicator",
+				"c-indicator"
+			],
+			[
+				"table-row-variant",
+				"table-row-variant"
+			],
+			[
+				"table-success",
+				"table-success"
+			],
+			[
+				"thead-inverse",
+				"thead-inverse"
+			],
+			[
+				"alert-va",
+				"alert-variant"
+			],
+			[
+				"alert",
+				"alert"
+			],
+			[
+				"bodr",
+				"border-radius"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"sele",
+				"select"
+			],
+			[
+				"btn",
+				"btn-secondary"
+			],
+			[
+				"button",
+				"Button"
+			],
+			[
+				"input",
+				"input-group"
+			],
+			[
+				"table",
+				"table-responsive"
+			],
+			[
+				"size",
+				"size"
+			],
+			[
+				"clear",
+				"clearfix"
+			],
+			[
+				"hori",
+				"dl-horizontal"
+			],
+			[
+				"font",
+				"font-weight-normal"
+			],
+			[
+				"radiu",
+				"border-radius"
+			],
+			[
+				"bread",
+				"breadcrumb"
+			],
+			[
+				"box-shadow",
+				"box-shadow"
+			],
+			[
+				"box-",
+				"box-shadow"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 176.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,2428 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"set",
+				"section_	common.scss"
+			],
+			[
+				"cener",
+				"center-block	(_utilities.scss)"
+			],
+			[
+				"assets",
+				"assets/"
+			],
+			[
+				"bs3bu",
+				"bs3-button:danger	bs3-button-danger"
+			],
+			[
+				"col-",
+				"col-xs-4"
+			],
+			[
+				"end",
+				"enddate"
+			],
+			[
+				"adte",
+				"bootstrap-datepicker3.min.css"
+			],
+			[
+				"asset",
+				"assets/"
+			],
+			[
+				"datetime",
+				"datetimepicker"
+			],
+			[
+				"date",
+				"datetimepicker	(bootstrap-datetimepicker.js)"
+			],
+			[
+				"css",
+				"css/"
+			],
+			[
+				"ja",
+				"bootstrap-datepicker.ja.min.js"
+			],
+			[
+				"b",
+				"bootstrap-datepicker/"
+			],
+			[
+				"bower",
+				"bower_components/"
+			],
+			[
+				"change",
+				"changeInput"
+			],
+			[
+				"chan",
+				"changeInput"
+			],
+			[
+				"chang",
+				"changeInput	(hotelaccount_tas.html)"
+			],
+			[
+				"ty",
+				"type"
+			],
+			[
+				"tri",
+				"triggers"
+			],
+			[
+				"m",
+				"mb10"
+			],
+			[
+				"mb1",
+				"mb10	(common.scss)"
+			],
+			[
+				"hotela",
+				"hotelaccount_tas.html"
+			],
+			[
+				"bs3btn",
+				"bs3-lg-button	bs3-lg-button"
+			],
+			[
+				"ei",
+				"edit_tas.html"
+			],
+			[
+				"edi",
+				"edit_hotel.html"
+			],
+			[
+				"lis",
+				"list_hotel.html"
+			],
+			[
+				"login",
+				"login_tas.html"
+			],
+			[
+				"pa",
+				"parts_tas.html"
+			],
+			[
+				"p",
+				"parts_hotel.html"
+			],
+			[
+				"logo_",
+				"logo_Hotel.png	(edit_hotel.html)"
+			],
+			[
+				"colla",
+				"collapsed"
+			],
+			[
+				"datepi",
+				"datepicker-range"
+			],
+			[
+				"time",
+				"timepicker"
+			],
+			[
+				"wid",
+				"width: 〔property〕"
+			],
+			[
+				"width",
+				"width=\"100	(parts.html)"
+			],
+			[
+				"lea",
+				"lead	(_type.scss)"
+			],
+			[
+				"bs3",
+				"bs3-col	bs3-col"
+			],
+			[
+				"bs3-b",
+				"bs3-button:primary	bs3-button-primary"
+			],
+			[
+				"buttin",
+				"bs3-sm-button:info	bs3-sm-button-info"
+			],
+			[
+				"nb",
+				"nbsp;％"
+			],
+			[
+				"ml",
+				"ml10	common.scss"
+			],
+			[
+				"page",
+				"page-parts-icon.png	w:20 h:20"
+			],
+			[
+				"user",
+				"user_icon.png	w:20 h:20"
+			],
+			[
+				"content__",
+				"content__menu"
+			],
+			[
+				"commo",
+				"common/"
+			],
+			[
+				"uk-icon-",
+				"uk-icon-glass 	UIkit class"
+			],
+			[
+				"uk-icon-che",
+				"uk-icon-chevron-left 	UIkit class"
+			],
+			[
+				"dvp-fade",
+				"dvp-fade-in"
+			],
+			[
+				"remo",
+				"removeClass〔function〕"
+			],
+			[
+				"dvp-fa",
+				"dvp-fade-in	(style.scss)"
+			],
+			[
+				"sele",
+				"selector"
+			],
+			[
+				"uk-ani",
+				"uk-animation-reverse	(animation.scss)"
+			],
+			[
+				"uk-anim",
+				"uk-animation-fade	(animation.scss)"
+			],
+			[
+				"add",
+				"addClass〔function〕"
+			],
+			[
+				"slide",
+				"slideUp〔function〕"
+			],
+			[
+				"background",
+				"background-color	(style.scss)"
+			],
+			[
+				"uk-nav",
+				"uk-nav-sub	(frame.html)"
+			],
+			[
+				"run",
+				"run01	(frame.html)"
+			],
+			[
+				"uk-na",
+				"uk-nav-sub"
+			],
+			[
+				"dvp-devi",
+				"dvp-devicepool-list	(style.scss)"
+			],
+			[
+				"デバイス",
+				"デバイスプール"
+			],
+			[
+				"dvp-pro",
+				"dvp-project-name	style.scss"
+			],
+			[
+				"uk-icon-sor",
+				"uk-icon-sort-desc	(style.css)"
+			],
+			[
+				"uk-icon-a",
+				"uk-icon-arrow-down 	UIkit class"
+			],
+			[
+				"uk-button",
+				"uk-button-primary 	UIkit class"
+			],
+			[
+				"uk-tab",
+				"uk-table	(suites.html)"
+			],
+			[
+				"uk-o",
+				"uk-overflow-container	(suites.html)"
+			],
+			[
+				"uk-form-s",
+				"uk-form-small 	UIkit class"
+			],
+			[
+				"uk-width-4",
+				"uk-width-4-10	(grid.scss)"
+			],
+			[
+				"uk-iconsor",
+				"uk-icon-sort-down 	UIkit class"
+			],
+			[
+				"uk-table-",
+				"uk-table-condensed 	UIkit class"
+			],
+			[
+				"uk-width-1",
+				"uk-width-1-4	(grid.scss)"
+			],
+			[
+				"uk-icon",
+				"uk-icon-medium 	UIkit class"
+			],
+			[
+				"uk-bu",
+				"uk-button-primary 	UIkit class"
+			],
+			[
+				"uk-anima",
+				"uk-animation-fade	(uikit.js)"
+			],
+			[
+				"uk-floa",
+				"uk-float-right"
+			],
+			[
+				"uk-float",
+				"uk-float-left"
+			],
+			[
+				"uk-flo",
+				"uk-float-right"
+			],
+			[
+				"dvp-run-set",
+				"dvp-run-setting-title"
+			],
+			[
+				"uk-margin-la",
+				"uk-margin-large-bottom	(new1.html)"
+			],
+			[
+				"uk-margin",
+				"uk-margin-bottom 	UIkit class"
+			],
+			[
+				"t",
+				"top.html"
+			],
+			[
+				"uk-form-",
+				"uk-form-row"
+			],
+			[
+				"uk-ro",
+				"uk-row-first	(uikit.js)"
+			],
+			[
+				"uk-form-wid",
+				"uk-form-width-large	(new3.html)"
+			],
+			[
+				"uk-form-widt",
+				"uk-form-width-large	(style.css)"
+			],
+			[
+				"uk-modal-dia",
+				"uk-modal-dialog-large 	UIkit class"
+			],
+			[
+				"lage",
+				"labelString"
+			],
+			[
+				"query",
+				"querySelector	(Chart.js)"
+			],
+			[
+				"ctx",
+				"ctxRun"
+			],
+			[
+				"addEven",
+				"addEventListener	(Chart.js)"
+			],
+			[
+				"animat",
+				"animation"
+			],
+			[
+				"performanceMem",
+				"performanceMemChart"
+			],
+			[
+				"perfor",
+				"performanceCPUChart"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"ct",
+				"ctxFPS"
+			],
+			[
+				"data",
+				"datasets"
+			],
+			[
+				"per",
+				"performanceCPU"
+			],
+			[
+				"option",
+				"options"
+			],
+			[
+				"device",
+				"deviceBarData"
+			],
+			[
+				"uni",
+				"unit"
+			],
+			[
+				"devi",
+				"deviceBar"
+			],
+			[
+				"can",
+				"canvas	Tag"
+			],
+			[
+				"scri",
+				"script	HTML - Script"
+			],
+			[
+				"ba",
+				"bar-graph2.png	w:440 h:25"
+			],
+			[
+				"btn-",
+				"btn-primary"
+			],
+			[
+				"demo",
+				"demo_undotsushin.ipa"
+			],
+			[
+				"the",
+				"thead-inverse	_tables.scss"
+			],
+			[
+				"sum",
+				"submit	(_normalize.scss)"
+			],
+			[
+				"create",
+				"create_device_pool"
+			],
+			[
+				"create-",
+				"create-device-pool	(new3.html)"
+			],
+			[
+				"img_icon_info",
+				"img_icon_info_lg.png	(_variables.scss)"
+			],
+			[
+				"img_icon_su",
+				"img_icon_success_lg.png	w:23 h:23"
+			],
+			[
+				"create_",
+				"create_next"
+			],
+			[
+				"create-steps",
+				"create-steps-prev	(new2.html)"
+			],
+			[
+				"new",
+				"new1.html"
+			],
+			[
+				"dvp-uplo",
+				"dvp-form-upload-test	(new2.html)"
+			],
+			[
+				"doc",
+				"document〔variable〕"
+			],
+			[
+				"aria",
+				"aria-controls	(index.html)"
+			],
+			[
+				"cl",
+				"cl	console.log"
+			],
+			[
+				"scro",
+				"scrollTop	.scrollTop()"
+			],
+			[
+				"src_",
+				"src_array"
+			],
+			[
+				"attr",
+				"attr	.attr() - single"
+			],
+			[
+				"unde",
+				"undefined〔keyword〕"
+			],
+			[
+				"image",
+				"image_map"
+			],
+			[
+				"sr",
+				"src_map"
+			],
+			[
+				"toggle_na",
+				"toggle_nav_list"
+			],
+			[
+				"toggle_nav",
+				"toggle_nav_list"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/n-futagami/_Project/D_iret_TAS/07_web/source/index.html",
+			"settings":
+			{
+				"buffer_size": 747,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/D_iret_TAS/07_web/source/parts.html",
+			"settings":
+			{
+				"buffer_size": 114141,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/D_iret_TAS/07_web/source/hotelaccount_hotel.html",
+			"settings":
+			{
+				"buffer_size": 48760,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/D_iret_TAS/07_web/source/hotelaccount_tas.html",
+			"settings":
+			{
+				"buffer_size": 63836,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/_navbar.scss",
+			"settings":
+			{
+				"buffer_size": 17591,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/_buttons.scss",
+			"settings":
+			{
+				"buffer_size": 3919,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/_pagination.scss",
+			"settings":
+			{
+				"buffer_size": 2136,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/mixins/_pagination.scss",
+			"settings":
+			{
+				"buffer_size": 507,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/_utilities.scss",
+			"settings":
+			{
+				"buffer_size": 765,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/_grid.scss",
+			"settings":
+			{
+				"buffer_size": 1443,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "@import \"setting\";\n@import \"reset\";\n@import \"bootstrap\";\n@import \"bootstrap/theme\";\n\nform {\n	margin: 0;\n	padding: 0;\n}\nlabel {\n	cursor: pointer;\n}\n.error {\n	color: #CC0000;\n}\ntd.error {\n	color: #111111;\n}\ntd.error .cleditorMain {\n	border: #CC0000 solid 1px;\n}\ntd.error .cleditorMain textarea {\n	color: #111111;\n}\n\np.error{\n	clear: both;\n	margin: 0;\n}\nspan.error span,\nspan.error span div,\np.error span,\np.error span div{\n	margin: 0 !important;\n	padding: 0 !important;\n}\n.sub {\n	color: #888888;\n}\np.sub {\n	color: #888888;\n	margin-top: 12px;\n	margin-bottom: 0;\n	clear: both;\n}\nimg.img-full-scale,\n.img-full-scale img {\n	max-width: none;\n}\ni.l-icon-search{\n	display: inline-block;\n	width: 25px;\n	height: 25px;\n	margin-top: 1px;\n	*margin-right: .3em;\n	line-height: 25px;\n	vertical-align: text-top;\n	background-image: url(\"../img/icons/glyphicons_027_search.png\");\n	background-position: 0 0;\n	background-repeat: no-repeat;\n}\n\ni.icon-back{\n	display: inline-block;\n	width: 25px;\n	/*height: 25px;*/\n	margin-top: 1px;\n	*margin-right: .3em;\n	vertical-align: text-top;\n	background-image: url(\"../img/icons/glyphicons_421_back.png\");\n	background-position: 0 0;\n	background-repeat: no-repeat;\n}\n\ni.icon-jump{\n	display: inline-block;\n	width: 25px;\n	/*height: 25px;*/\n	margin-top: 1px;\n	*margin-right: .3em;\n	vertical-align: text-top;\n	background-image: url(\"../img/icons/glyphicons_422_jump.png\");\n	background-position: 0 0;\n	background-repeat: no-repeat;\n}\n\n\nglyphicons_221_unshare.png\n\n.btn-back {\n	padding-left:35px;\n	background-image: url(\"../img/icons/glyphicons_421_back.png\");\n	background-color: #F9F9F9;\n	background-position: 8px 6px !important;\n	background-repeat: no-repeat;\n	background-attachment: scroll !important;\n}\ntable .must_icon{\n	float: right;\n	margin-left:5px;\n}\n.breadcrumb{padding:7px 14px;margin:0 0 18px;list-style:none;background-color:#fbfbfb;background-image:-moz-linear-gradient(top,#fff,#f5f5f5);background-image:-ms-linear-gradient(top,#fff,#f5f5f5);background-image:-webkit-gradient(linear,0 0,0 100%,from(#fff),to(#f5f5f5));background-image:-webkit-linear-gradient(top,#fff,#f5f5f5);background-image:-o-linear-gradient(top,#fff,#f5f5f5);background-image:linear-gradient(top,#fff,#f5f5f5);background-repeat:repeat-x;border:1px solid #ddd;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;filter:progid:dximagetransform.microsoft.gradient(startColorstr='#ffffff',endColorstr='#f5f5f5',GradientType=0);-webkit-box-shadow:inset 0 1px 0 #fff;-moz-box-shadow:inset 0 1px 0 #fff;box-shadow:inset 0 1px 0 #fff;}\n.breadcrumb li{display:inline-block;*display:inline;text-shadow:0 0px 0 #fff;*zoom:1}\n.breadcrumb .divider{padding:0 5px; color:#333; }\n.breadcrumb .active{color:#333; text-shadow:0 1px 0 #fff; font-weight:bold;}\n\n.f-left {\n	float:left;\n}\n.f-right {\n	float:right;\n}\n.minw-tb{\n	min-width: 768px;\n}\n\n.btn-collapse {\n	.glyphicon-plus {\n		display: none;\n	}\n	.glyphicon-minus {\n		display: inline;\n	}\n\n	&.collapsed {\n		.glyphicon-plus {\n			display: inline;\n		}\n		.glyphicon-minus {\n			display: none;\n		}\n	}\n}\n\n\n.tc_red,\n.red,\n.error { color: #C00; }\n.blue,\n.tc_blue { color: #0088cc; }\n.tc_gr { color: #777777; }\n.ta_l { text-align: left; }\n.ta_c { text-align: center; }\n.ta_r { text-align: right; }\n.fw-n { font-weight: normal; }\n.fw-b { font-weight: bold; }\n\n.txt10{ font-size: 10px; }\n.txt11{ font-size: 11px; }\n.txt12{ font-size: 12px; }\n.txt13{ font-size: 13px; }\n.txt14{ font-size: 14px; }\n.txt16{ font-size: 16px; }\n.txt18{ font-size: 18px; }\n.txt20{ font-size: 20px; }\n.txt22{ font-size: 22px; }\n.txt24{ font-size: 24px; }\n\n.m0{margin: 0;}\n.m10{margin: 10px;}\n\n\n\n.mt-20{margin-top: -20px;}\n.mt-15{margin-top: -15px;}\n.mt-10{margin-top: -10px;}\n.mt-5{margin-top: -5px;}\n.mt0{margin-top: 0;}\n.mt5{margin-top: 5px;}\n.mt10{margin-top: 10px;}\n.mt15{margin-top: 15px;}\n.mt20{margin-top: 20px;}\n.mt30{margin-top: 30px;}\n.mt40{margin-top: 40px;}\n.mt50{margin-top: 50px;}\n.mt60{margin-top: 60px;}\n\n.mb0{margin-bottom: 0;}\n.mb5{margin-bottom: 5px;}\n.mb10{margin-bottom: 10px;}\n.mb15{margin-bottom: 15px;}\n.mb20{margin-bottom: 20px;}\n.mb30{margin-bottom: 30px;}\n.mb35{margin-bottom: 35px;}\n.mb40{margin-bottom: 40px;}\n.mb50{margin-bottom: 50px;}\n.mb60{margin-bottom: 60px;}\n\n.ml0{margin-left: 0;}\n.ml5{margin-left: 5px;}\n.ml10{margin-left: 10px;}\n.ml15{margin-left: 15px;}\n.ml20{margin-left: 20px;}\n.ml30{margin-left: 30px;}\n.ml40{margin-left: 40px;}\n.ml50{margin-left: 50px;}\n.ml60{margin-left: 60px;}\n\n.mr0{margin-right: 0;}\n.mr5{margin-right: 5px;}\n.mr10{margin-right: 10px;}\n.mr15{margin-right: 15px;}\n.mr20{margin-right: 20px;}\n.mr30{margin-right: 30px;}\n.mr40{margin-right: 40px;}\n.mr50{margin-right: 50px;}\n.mr60{margin-right: 60px;}\n\n.p0{padding: 0;}\n.p10{padding: 10px;}\n\n.pt0{padding-top: 0;}\n.pt1{padding-top: 1px;}\n.pt2{padding-top: 2px;}\n.pt3{padding-top: 3px;}\n.pt4{padding-top: 4px;}\n.pt5{padding-top: 5px;}\n.pt10{padding-top: 10px;}\n.t15{padding-top: 15px;}\n.pt20{padding-top: 20px;}\n.pt30{padding-top: 30px;}\n.pt40{padding-top: 40px;}\n.pt50{padding-top: 50px;}\n.pt60{padding-top: 60px;}\n\n.pb0{padding-bottom: 0;}\n.pb5{padding-bottom: 5px;}\n.pb10{padding-bottom: 10px;}\n.pb15{padding-bottom: 15px;}\n.pb20{padding-bottom: 20px;}\n.pb30{padding-bottom: 30px;}\n.pb35{padding-bottom: 35px;}\n.pb40{padding-bottom: 40px;}\n.pb50{padding-bottom: 50px;}\n.pb60{padding-bottom: 60px;}\n\n.pl0{padding-left: 0;}\n.pl5{padding-left: 5px;}\n.pl10{padding-left: 10px;}\n.pl15{padding-left: 15px;}\n.pl20{padding-left: 20px;}\n.pl30{padding-left: 30px;}\n.pl40{padding-left: 40px;}\n.pl50{padding-left: 50px;}\n.pl60{padding-left: 60px;}\n\n.pr0{padding-right: 0;}\n.pr5{padding-right: 5px;}\n.pr10{padding-right: 10px;}\n.pr15{padding-right: 15px;}\n.pr20{padding-right: 20px;}\n.pr30{padding-right: 30px;}\n.pr40{padding-right: 40px;}\n.pr50{padding-right: 50px;}\n.pr60{padding-right: 60px;}\n\n.b_t { border-top:#CCC solid 1px; }\n.b_b { border-bottom:#CCC solid 1px; }\n\n.bg_gr { background-color: #f9f9f9; }\n.bg_gr_2 { background-color: #E9E9E9; }\n\n.w10{width: 50px;}\n.w20{width: 50px;}\n.w30{width: 50px;}\n.w40{width: 50px;}\n.w50{width: 50px;}\n.w100{width: 50px;}\n.w150{width: 50px;}\n.w200{width: 50px;}\n\n\n.loading{\n	/*display:none;*/\n	display: inline-block;\n	width: 33px;\n	height: 33px;\n	background:url(../img/ajax-loader.gif) no-repeat center 0;\n}\n\npre {\n	margin: 30px 0;\n	white-space: pre-wrap;\n	word-wrap: break-word;\n	overflow: inherit;\n	strong {\n		color: #c00;\n	}\n}\n\n/* \nglobal navigation\n */\n#container,\n#content__footer {\n	@media(max-width: 1280px) {\n		width: 1280px;\n	}\n}\n\n#wrap {\n/*	overflow: hidden; */\n  	background-color: #f8f8f8;\n}\n\n#content__menu {\n}\n#global-nav {\n	@extend .clearfix;\n	margin-bottom: 30px;\n	border-top: 10px solid #333;\n}\n.nav-inner {\n	position: relative;\n	z-index: 10;\n	margin: 0;\n	padding: 0;\n	display: table;\n	width: 100%;\n	height: 90px;\n	table-layout: fixed;\n	background-image: linear-gradient(180deg, #f19018 0%, #c76d02 100%);\n	box-shadow: 0px 1px 4px 0px rgba(102, 102, 102, 0.8);\n	\n	a {\n		display: table-cell;\n		padding: 16px 10px 8px;\n		color: #FFF;\n		text-align: center; \n		border-left: 1px solid #f2a955;\n		border-right: 1px solid #c66a03;\n		vertical-align: top;\n		word-wrap: break-word;\n\n		span {\n			display: inline-block;\n			height: 45px;\n		}\n		\n		&:first-child {\n			width: 250px;\n			border-left: none;\n		}\n		&:last-child {\n			border-right: none;\n		}\n\n		&:hover,&:focus {\n			text-decoration: none;\n			background: #a25400;\n		}\n\n		&.navs img {\n			padding-bottom: 10px;\n		}\n		&.brand {\n			width: 300px;\n			padding: 16px 24px;\n			line-height: 1.0;\n		}\n	}\n}\n#global-nav.login-nav {\n	a {\n		display: block;\n	}\n}\n.page-area {\n	width: 100%;\n	background: #FFF;\n\n	.page-area-inner {\n		@extend .clearfix;\n		padding: 20px 40px 10px;\n		margin: 0 auto;\n	}\n	.page-title {\n		float: left;\n		padding-left: 30px;\n		margin: 0;\n		color: #666666;\n		font-size: 20px;\n		line-height: 28px;\n		background: url(../../img/common/page-parts-icon.png) left center no-repeat;\n	}\n	.user-name {\n		float: right;\n	}\n	.user-name-text {\n		display: inline-block;\n		font-size: 12px;\n		line-height: 28px;\n		padding-left: 30px;\n		background: url(../../img/common/user_icon.png) left center no-repeat;\n		&:after {\n			content: \"|\";\n			margin: 0 10px;\n		}\n	}\n	.logout-link {\n		color: #f19018;\n		font-size: 12px;\n		line-height: 28px;\n		text-decoration: underline;\n	}\n}\n\n#content__main {\n	padding: 0 40px;\n\n	article{\n/* 		overflow: hidden; */\n		min-width: 1200px;\n		padding: 20px;\n		margin: 0 auto 30px;\n		border-radius: 6px;\n		background-color: #ffffff;\n		box-shadow: 0px 0px 3px 1px rgba(0, 0, 0, 0.3);\n		border-top-color: #f19018;\n		border-top-width: 7px;\n		border-top-style: solid;\n\n		@media(min-width: 2000px) {\n			width: 1960px;\n		}\n	}\n\n	.title-secondary {\n		@extend .clearfix;\n		display: table;\n		width: 100%;\n		margin-bottom: 20px;\n\n		> * {\n			display: table-cell;\n			vertical-align: middle;\n		}\n\n		.section-title {\n			display: table;\n\n			h2 {\n				display: table-cell;\n				padding-right: 30px;\n				vertical-align: middle;\n				line-height: 1.0;\n			}\n			.sub-text {\n				display: table-cell;\n				padding-left: 22px;\n				margin-left: 10px;\n				vertical-align: middle;\n				background: url(../../img/common/icon_attension.png) left center no-repeat;\n			}\n		}\n	}\n}\n\n#content__footer {\n	background: #000;\n	\n	.footer-inner {\n		@extend .clearfix;\n		padding: 10px 40px 0;\n		margin: 0 auto;\n		color: #fff;\n		\n		p {\n			float: left;\n			\n			> img {\n				margin-right: 20px;\n			}\n		}\n		.pagetop {\n			float: right;\n			height: 31px;\n			padding-right: 30px;\n			margin: 5px 0;\n			background: url(../../img/common/top_arrow.png) right top no-repeat;\n			font-family: Verdana;\n			color: #ffffff;\n			font-size: 13px;\n		}\n	}\n}\n\n.parts {\n	.section_ {\n		margin-bottom: 60px;\n	}\n	.row-fluid {\n		@extend .clearfix;\n		margin-bottom: 20px;\n	}\n\n	.title-secondary {\n		margin-bottom: 30px!important;\n	}\n\n	.section_label {\n		.row-fluid {\n			> * {\n				float: left;\n				margin-right: 10px;\n			}\n		}\n	} \n}\n\n.user-login {\n	.panel {\n		box-sizing: border-box;\n		max-width: 464px;\n		padding: 30px;\n		margin: 0 auto 60px;\n	}\n	.title-login {\n		margin: 0 0 20px;\n		color: #f19018;\n		font-size: 30px;\n		font-weight: 700;\n		line-height: 18px;\n	}\n	a {\n		color: #666666;\n		font-size: 13px;\n		text-decoration: underline;\n	}\n\n	.table-login {\n		th,td {\n			background: none;\n			border: none;\n		}\n		span {\n			color: #999999;\n			font-size: 13px;\n			font-weight: 700;\n		}\n	}\n}\n\n.ui-datepicker {\n	width: 21rem;\n}\n.add-on {\n	display: inline;\n	i {\n		font-size: 22px;\n		vertical-align: middle;\n	}\n}",
+			"file": "/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/common.scss",
+			"file_size": 10453,
+			"file_write_time": 131127621480000000,
+			"settings":
+			{
+				"buffer_size": 10453,
+				"line_ending": "Unix",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/_panels.scss",
+			"settings":
+			{
+				"buffer_size": 6388,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/_theme.scss",
+			"settings":
+			{
+				"buffer_size": 10531,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/_variables.scss",
+			"settings":
+			{
+				"buffer_size": 35077,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/_tables.scss",
+			"settings":
+			{
+				"buffer_size": 7065,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "omni",
+		"selected_items":
+		[
+			[
+				"omni",
+				"OmniMarkupPreviewer: Empty Cache"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"media",
+				"Snippet: media"
+			],
+			[
+				"ready",
+				"Snippet: document.ready - $(function(){})"
+			],
+			[
+				"openfile",
+				"ANF: Copy Current File"
+			],
+			[
+				"path",
+				"File: Copy Path"
+			],
+			[
+				"copy",
+				"ANF: Copy Current File"
+			],
+			[
+				"do",
+				"Snippet: document.ready - $(function(){})"
+			],
+			[
+				"docum",
+				"Snippet: document.ready - $(function(){})"
+			],
+			[
+				"shell",
+				"ShellCommand"
+			],
+			[
+				"document",
+				"Snippet: document.ready - $(function(){})"
+			],
+			[
+				"re",
+				"File: Rename"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"addproje",
+				"Project Manager: Add Project"
+			],
+			[
+				"pro",
+				"Project Manager"
+			],
+			[
+				"",
+				"ANF: Copy Current File"
+			],
+			[
+				"block",
+				"Toggle Block Comment"
+			],
+			[
+				"keyf",
+				"Snippet: @keyframes"
+			],
+			[
+				"fill",
+				"Snippet: animation-fill-mode:forwards"
+			],
+			[
+				"animation-na",
+				"Snippet: animation-name"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"transpare",
+				"Snippet: transparentize()"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"retty",
+				"HTMLPrettify"
+			],
+			[
+				"blo",
+				"Toggle Block Comment"
+			],
+			[
+				"cop",
+				"ANF: Copy Current File"
+			],
+			[
+				"bloc",
+				"Toggle Block Comment"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"copycu",
+				"ANF: Copy Current File"
+			],
+			[
+				"jquer",
+				"Snippet: jQuery(document).ready"
+			],
+			[
+				"new",
+				"ANF: New File"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"commen",
+				"Toggle Comment"
+			],
+			[
+				"p",
+				"Project Manager"
+			],
+			[
+				"shel",
+				"ShellCommand"
+			],
+			[
+				"pwd",
+				"Project Manager: Open Project in New Window"
+			],
+			[
+				"proje",
+				"Project Manager"
+			],
+			[
+				"termi",
+				"Terminal: Open"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"tarnsi",
+				"Snippet: transition"
+			],
+			[
+				"inclu",
+				"Snippet: @include"
+			],
+			[
+				"include",
+				"Snippet: @include"
+			],
+			[
+				"includ",
+				"Snippet: @include"
+			],
+			[
+				"smoo",
+				"Snippet: font-smooth"
+			],
+			[
+				"mixi",
+				"Snippet: @mixin"
+			],
+			[
+				"exten",
+				"Snippet: @extend"
+			],
+			[
+				"extend",
+				"Snippet: @extend"
+			],
+			[
+				"jquery",
+				"Snippet: HTML - Include jQuery"
+			]
+		],
+		"width": 370.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/css",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/sass"
+	],
+	"file_history":
+	[
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/bower_components/bootstrap/README.md",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/login_tas.html",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/login.html",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/login_hotel.html",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/list_tas.html",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/list_hotel.html",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/edit_hotel.html",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/edit_tas.html",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/hotelaccount_hotel.html",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/hotelaccount_tas.html",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/edit.html",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/list.html",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/_theme.scss",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/index.html",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/parts.html",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/js/jquery/jquery.autosize.min.js",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/css/admin_layout_bk.css",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/_bootstrap.scss",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/lib/datepicker/js/bootstrap-datepicker.js",
+		"/Users/n-futagami/Downloads/datepicker/js/bootstrap-datepicker.js",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/parts_tas.html",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/parts_hotel.html",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/bower_components/eonasdan-bootstrap-datetimepicker/src/js/bootstrap-datetimepicker.js",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/bower_components/eonasdan-bootstrap-datetimepicker/build/js/bootstrap-datetimepicker.min.js",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/_tables.scss",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/js/bootstrap/bootstrap/form.js",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/js/document.js",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/common.scss",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/js/util/form.js",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/js/libs.js",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/js/main.js",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/_variables.scss",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/_type.scss",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/_navbar.scss",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/_navs.scss",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/_labels.scss",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/mixins/_labels.scss",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/_buttons.scss",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/_grid.scss",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/admin_layout.scss",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/style.scss",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/_utilities.scss",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/_setting.scss",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/_reset.scss",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/admin_layout_bk.scss",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/css/bootstrap.css",
+		"/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/css/style.css",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/css/style.css",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/frame.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/suites.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/top.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/verify.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/login.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/api/readme.md",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/devicepool.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/project.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/scss/uikit/core/flex.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/components/form-password.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/uikit.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/scss/style.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/scss/uikit/uikit-mixins.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/scss/uikit/core/table.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/style_old.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/scss/uikit/uikit-variables.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/scss/uikit/core/grid.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/jquery.function.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/scss/uikit/core/modal.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/scss/uikit/core/nav.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/api/app/Project.php",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/new5.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/new4.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/new3.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/new2.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/new1.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/devices.html",
+		"/Users/n-futagami/_Project/Devicepack/source/devices.html",
+		"/Users/n-futagami/_Project/Devicepack/source/suites.html",
+		"/Users/n-futagami/_Project/Devicepack/source/new5.html",
+		"/Users/n-futagami/_Project/Devicepack/source/new4.html",
+		"/Users/n-futagami/_Project/Devicepack/source/new3.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/scss/_breadcrumb.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/index.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/scss/_variables.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/scss/style_old.scss",
+		"/Users/n-futagami/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/is_login.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/_breadcrumb.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/_type.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/_buttons.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/mixins/_table-row.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/mixins/_alert.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/_alert.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/_variables.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/_modal.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/_mixins.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/_nav.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/style.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/js/Chart.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/_reboot.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/_normalize.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/bootstrap.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/_button-group.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/_custom-forms.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/mixins/_grid.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/new1.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/_tables.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/new2.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/new3.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/new4.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/new5.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/js/jquery.function.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/suites.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/devices.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/top.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/mixins/_border-radius.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/mixins/_grid-framework.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/js/bs/umd/tab.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/_grid.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/_forms.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/mixins/_forms.scss",
+		"/Users/n-futagami/Dropbox/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/mixins/_size.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/_utilities.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/_dropdown.scss",
+		"/Users/n-futagami/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/css/style.css",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/index.html",
+		"/Users/n-futagami/Library/Application Support/Sublime Text 3/Packages/User/Projects/IDG-futagami/Dash-Docset-Creator.sublime-project"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 473.0,
+		"where_history":
+		[
+			"<open folders>",
+			"<open folders>,*css",
+			"<open folders>,*html",
+			"<open folders>",
+			"<open folders>,*js",
+			"<open folders>,js",
+			"<open folders>",
+			"<open folders>,*.scss",
+			"<open folders>,*.html",
+			"<open folders>,*.scss",
+			"<open folders>,.scss",
+			"<open folders>",
+			"<open folders>,*html",
+			"<open folders>",
+			"<open folders>,*html",
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"form",
+			"width=\"200\"",
+			"first-child",
+			"table",
+			"Danger",
+			"000",
+			"ddd",
+			"navbar",
+			"$btn-color",
+			"transparent",
+			"none",
+			"active",
+			"pagina",
+			"active",
+			"color",
+			"btn-",
+			"btn",
+			"Form",
+			".span12",
+			".span1",
+			".span12",
+			"textarea",
+			"    <link href=\"./assets/css/common.css\" rel=\"stylesheet\">\n    <link href=\"./assets/lib/datepicker/css/datepicker.css\" rel=\"stylesheet\">\n    <link href=\"./assets/lib/timepicker/bootstrap-timepicker.css\" rel=\"stylesheet\">\n\n    <script src=\"/assets/js/jquery/jquery.js\"></script>\n    <script src=\"/assets/js/bootstrap/bootstrap.min.js\"></script>\n    <script src=\"/assets/js/bootstrap/bootstrap/form.js\"></script>\n    <script src=\"/assets/lib/datepicker/js/bootstrap-datepicker.js\"></script>\n    <script src=\"/assets/lib/datepicker/js/locales/bootstrap-datepicker.ja.js\"></script>\n    <script src=\"/assets/lib/timepicker/bootstrap-timepicker.js\"></script>\n",
+			"<!--     \n    <link href=\"./assets/lib/cleditor/jquery.cleditor.css\" rel=\"stylesheet\" />\n    <link href=\"./assets/css/jquery.treeview.css\" rel=\"stylesheet\">\n    <link href=\"./assets/css/admin.css\" rel=\"stylesheet\">\n    <link href=\"./assets/css/admin_layout.css\" rel=\"stylesheet\">\n    <link href=\"./assets/css/non-responsive.css\" rel=\"stylesheet\">\n    <link href=\"./assets/css/style.css\" rel=\"stylesheet\">\n -->\n",
+			"    <!-- <script src=\"/assets/js/jquery/jquery.validate.js\"></script>\n    <script src=\"/assets/js/jquery/localization/validate/messages_ja.js\"></script>\n    <script src=\"/assets/js/jquery/jquery.easing.1.3.js\"></script>\n    <script src=\"/assets/js/jquery/jquery.scrollTo-1.4.3.1-min.js\"></script>\n    <script src=\"/assets/js/jquery/jquery.cookie.js\"></script>\n    <script src=\"/assets/js/jquery/jquery.ah-placeholder.js\"></script>\n    <script src=\"/assets/js/jquery/jquery.mousewheel.js\"></script>\n    <script src=\"/assets/js/jquery/jquery.autosize.min.js\"></script> -->\n    <!-- <script src=\"/assets/js/bootstrap/bootstrap-transition.js\"></script>\n<script src=\"/assets/js/bootstrap/bootstrap-alert.js\"></script>\n<script src=\"/assets/js/bootstrap/bootstrap-modal.js\"></script>\n<script src=\"/assets/js/bootstrap/bootstrap-dropdown.js\"></script>\n<script src=\"/assets/js/bootstrap/bootstrap-scrollspy.js\"></script>\n<script src=\"/assets/js/bootstrap/bootstrap-tab.js\"></script>\n<script src=\"/assets/js/bootstrap/bootstrap-tooltip.js\"></script>\n<script src=\"/assets/js/bootstrap/bootstrap-popover.js\"></script>\n<script src=\"/assets/js/bootstrap/bootstrap-button.js\"></script>\n<script src=\"/assets/js/bootstrap/bootstrap-collapse.js\"></script>\n<script src=\"/assets/js/bootstrap/bootstrap-carousel.js\"></script>\n<script src=\"/assets/js/bootstrap/bootstrap-typeahead.js\"></script> -->\n    <!-- <script src=\"/assets/js/jquery/jquery.blockUI.js\"></script>\n    <script src=\"/assets/js/jquery/jquery.treeview.js\"></script>\n    <script src=\"/assets/lib/cleditor/jquery.cleditor.js\"></script>\n    <script src=\"/assets/lib/ckeditor/ckeditor.js\"></script>\n    <script src=\"/assets/lib/ckeditor/adapters/jquery.js\"></script>\n     -->\n    <!-- custom javascript\n================================================== -->\n    <!-- <script src=\"/assets/js/util/form.js\"></script> -->\n    <!-- <script src=\"/assets/js/document.js\"></script> -->\n    <script>\n    //<!--\n    $(document).ready(function() {\n\n    });\n    //-->\n    </script>",
+			"datepicker",
+			" data-date-format=\"yyyy-mm-dd\"",
+			"7",
+			"add-on",
+			"input-append ",
+			"input-append",
+			"add-on",
+			"gr",
+			"<span class=\"add-on\"><i class=\"icon-calendar\"></i></span>",
+			"center",
+			"col-xs-4",
+			"xs",
+			"div",
+			"row",
+			"assets",
+			"startdate",
+			"pickdate",
+			"toString",
+			"7",
+			"update",
+			"method",
+			"id=\"datepicker-date-test(\\d+)\".*>",
+			"id=\"datepicker-date-test(\\d+)\">",
+			"id=\"datepicker-date-test(\\d)\">",
+			"id=\"datepicker-date-test",
+			"id=\"datepicker-date-test\\d\">",
+			"id=\"datepicker-date-test1\">",
+			"id=\"datepicker-date-test",
+			" data-date-format=\"yyyy-mm-dd\"",
+			"date-",
+			"/",
+			"datepi",
+			"xxxxxxxxxxxxxxxx",
+			".span12",
+			"box-shadow",
+			"panel",
+			"picker-date",
+			"options",
+			"picker",
+			"picker-date",
+			"right",
+			"datepicker",
+			"datepicker();",
+			"datepicker",
+			"bootstrapjs",
+			"-.",
+			"datepickermin",
+			"/.",
+			"distdatepicker",
+			"/-",
+			"bootstrap",
+			"fileinputjs",
+			"..",
+			"min",
+			"bootstrapjs",
+			"-.",
+			"timepicker",
+			"bootstrapjs",
+			"-.",
+			"mepicker",
+			"datepicker",
+			"radio",
+			"changeInput",
+			"radio",
+			"hanbai",
+			"changeInput",
+			"radio-",
+			"true",
+			"control",
+			"<script src=\"/assets/js/jquery/jquery.js\"></script>\n    <script src=\"/assets/js/bootstrap/bootstrap.min.js\"></script>\n    <script src=\"/assets/lib/datepicker/js/bootstrap-datepicker.js\"></script>\n    <script src=\"/assets/lib/datepicker/js/locales/bootstrap-datepicker.ja.js\"></script>\n    <script src=\"/assets/lib/timepicker/bootstrap-timepicker.js\"></script>",
+			"window",
+			"changeInput",
+			"false",
+			"true",
+			"target",
+			"false",
+			"this",
+			"changeInput",
+			"input",
+			"\">",
+			"radio_group",
+			"radio",
+			"radio_group",
+			"radio ",
+			"radio-inline",
+			"inline",
+			"radio-inline",
+			"class=\"radio\"",
+			"class=\"radio",
+			"checked=\"\"",
+			"<p class=\"help-block\">Example block-level help text here.</p>",
+			"col-xs-2",
+			"<div>",
+			"col-xs-2",
+			"4",
+			"radio",
+			"radio-inline",
+			"input-group mb30",
+			"select",
+			"いいえ",
+			"-inline",
+			"inline",
+			"inputsOtherLang"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\n",
+			"",
+			"<script src=\"/assets/js/jquery/jquery.js\"></script>\n    <script src=\"/assets/js/bootstrap/bootstrap.min.js\"></script>\n    <script src=\"/assets/js/bootstrap/bootstrap/form.js\"></script>\n    <script src=\"/assets/lib/datepicker/js/bootstrap-datepicker.js\"></script>\n    <script src=\"/assets/lib/datepicker/js/locales/bootstrap-datepicker.ja.js\"></script>\n    <script src=\"/assets/lib/timepicker/bootstrap-timepicker.js\"></script>",
+			"<title>TAS Agent</title>",
+			"width=\"203\"",
+			"<a class=\"navs\" href=\"#\"><span><img src=\"img/common/$1.png\"></span><br>$2</a>",
+			"",
+			"<span class=\"user-name-text\">タナカタロウ</span><a class=\"logout-link\" href=\"#logout\">ログアウト</a>",
+			"",
+			"<img src=\"./img/common/logo.png\" alt=\"TAS\" width=\"223\">",
+			"run.html",
+			"アカウント",
+			"Devicepack demo",
+			" id=\"main\" class=\"main\"",
+			"<div class=\"panel panel-default dvp-list-project\">\n                <div class=\"panel-heading\" role=\"tab\" id=\"headingOne\">\n                    <h4 class=\"panel-title\">\n                      <a data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseOne\" aria-expanded=\"false\" aria-controls=\"collapseOne\" class=\"collapsed\">\n                        プロジェクト\n                      </a>\n                    </h4>\n                </div>\n                <div id=\"collapseOne\" class=\"panel-collapse collapse\" role=\"tabpanel\" aria-labelledby=\"headingOne\" aria-expanded=\"false\" style=\"height: 0px;\">\n                    <ul class=\"nav dvp-side-subnav\">\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link\" href=\"top.html\">demo project</a>\n                        </li>\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link\" href=\"top.html\">demo project</a>\n                        </li>\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link disabled\" href=\"top.html\">&gt;&gt;ランの詳細を見る</a>\n                        </li>\n                    </ul>\n                </div>\n            </div>\n            <div class=\"panel panel-default dvp-list-run\">\n                <div class=\"panel-heading\" role=\"tab\" id=\"headingTwo\">\n                    <h4 class=\"panel-title\">\n                      <a class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">\n                        ラン\n                      </a>\n                    </h4>\n                </div>\n                <div id=\"collapseTwo\" class=\"panel-collapse collapse\" role=\"tabpanel\" aria-labelledby=\"headingTwo\">\n                    <ul class=\"nav dvp-side-subnav\">\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link\" href=\"#\">demo_undotsushin.ipa</a>\n                        </li>\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link\" href=\"#\">demo_undotsushin.ipa</a>\n                        </li>\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link disabled\" href=\"#\">&gt;&gt;ランの詳細を見る</a>\n                        </li>\n                    </ul>\n                </div>\n            </div>",
+			"<a href=\"./new1.html\">ランの新規作成</a>",
+			"col-lg-",
+			"            <a class=\"global__toggle__nav_icon\" href=\"#\" aria-expanded=\"false\" aria-controls=\"navlist\"><img class=\"menu\" src=\"../img/btn_menu_sp.png\" alt=\"menu\"><img class=\"close\" src=\"../img/btn_close_sp.png\" alt=\"close\"></a>\n            <nav id=\"navlist\" class=\"global__toggle__nav_list\" aria-expanded=\"true\">",
+			"<a href=\"https://www.jimin.jp/\" target=\"_blank\"><span class=\"nw\">自民党ホームページ</span></a>",
+			"                <ul class=\"child2__nav_list\">\n                    <li><a href=\"#\">政策BANK</a></li><!--\n                 --><!--<li><a href=\"#\">選挙公約2016（PDF）</a></li>--><!--\n                 --><li><a href=\"#\">政策パンフレット2016（PDF）</a></li><!--\n                 --><!--<li><a href=\"#\">こどもマニフェスト（PDF）</a></li>--><!--\n                 --><li><a href=\"#\">都道府県別政策集</a></li><!--\n                 --><!--<li><a href=\"#\" target=\"_blank\"><span class=\"nw\">自民党参院選2016</span></a></li>--><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">自民党ホームページ</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">ネット選挙について</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">プライバシーポリシー</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">お問い合わせ</span></a></li><!--\n                 --><li class=\"nav__sns\">\n                 <ul>\n                 <li><a href=\"http://www.facebook.com/share.php\" onclick=\"window.open(encodeURI(decodeURI(this.href)), 'FBwindow', 'width=554, height=470, menubar=no, toolbar=no, scrollbars=yes'); return false;\" rel=\"nofollow\"><img src=\"../img/btn_fb.png\" alt=\"シェアする\"></a></li>\n                    <li><a href=\"http://twitter.com/share\" onClick=\"window.open(encodeURI(decodeURI(this.href)), 'tweetwindow', 'width=650, height=470, personalbar=0, toolbar=0, scrollbars=1, sizable=1'); return false;\" rel=\"nofollow\"><img src=\"../img/btn_tw.png\" alt=\"\"></a></li>\n                 </ul>\n                 </li>\n                </ul>",
+			"<meta name=\"twitter:title\" content=\"自民党政策サイト\" />",
+			"<meta property=\"og:title\" content=\"自民党政策サイト\" />",
+			"<!-- *** OGP *** -->\n<meta property=\"og:title\" content=\"自由民主党\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:image\" content=\"https://www.jimin.jp/common/img/facebook-lbdems.jpg\" />\n<meta property=\"og:url\" content=\"https://special.jimin.jp/political_promise/\" />\n\n<meta name=\"twitter:title\" content=\"自由民主党\" />\n<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@jimin_koho\" />\n<meta name=\"twitter:description\" content=\"「この道を。力強く、前へ。」自民党の政策サイトです。道半ばではありますが、アベノミクスは確実に「結果」を生み出しています。この道を、力強く、前へ、進んで行こうではありませんか。 国民の皆様と共に,「誇りある日本」を取り戻すために。\" />\n<meta name=\"twitter:image\" content=\"https://www.jimin.jp/common/img/twitter-lbdems.jpg\" />\n<meta property=\"twitter:account_id\" content=\"58359180\" />\n",
+			"https://special.jimin.jp/political_promise/",
+			"<script>\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');\n  ga('create', 'UA-41065878-7', 'auto');\n  ga('send', 'pageview');\n</script>\n</body>\n",
+			"                 --><!--<li><a href=\"#\" target=\"_blank\"><span class=\"nw\">自民党参院選2016</span></a></li>--><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">自民党ホームページ</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">ネット選挙について</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">プライバシーポリシー</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">お問い合わせ</span></a></li>",
+			"                 --><!--<li><a href=\"#\" target=\"_blank\">自民党参院選2016<span class=\"nw\"></span></a></li>--><!--\n                 --><li><a href=\"#\" target=\"_blank\">自民党ホームページ<span class=\"nw\"></span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">ネット選挙について<span class=\"nw\"></span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">プライバシーポリシー<span class=\"nw\"></span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">お問い合わせ<span class=\"nw\"></span></a></li>",
+			"",
+			"都道府県別政策集",
+			"<div class=\"global__toggle__nav_icon\"><a href=\"#global__toggle__nav\"><img class=\"menu\" src=\"../img/btn_menu_sp.png\" alt=\"menu\"><img class=\"close\" src=\"../img/btn_close_sp.png\" alt=\"close\"></a></div>",
+			"<title>｜自民党政策サイト</title>",
+			"                <ul class=\"child2__nav_list\">\n                    <li><a href=\"#\">政策BANK</a></li><!--\n                 --><!--<li><a href=\"#\">選挙公約2016（PDF）</a></li>--><!--\n                 --><li><a href=\"#\">政策パンフレット2016（PDF）</a></li><!--\n                 --><!--<li><a href=\"#\">こどもマニフェスト（PDF）</a></li>--><!--\n                 --><li><a href=\"#\">都道府県別政策集（PDF）</a></li><!--\n                 --><!--<li><a href=\"#\" target=\"_blank\">自民党参院選2016</a></li>--><!--\n                 --><li><a href=\"#\" target=\"_blank\">自民党ホームページ</a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">ネット選挙について</a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">プライバシーポリシー</a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">お問い合わせ</a></li>\n                </ul>",
+			"\n<title>自由民主党</title>\n",
+			"",
+			"<title>自由民主党</title>",
+			"<title>siteName</title>\n\n<!-- *** OGP *** -->\n<meta property=\"og:title\" content=\"自由民主党\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:image\" content=\"https://www.jimin.jp/common/img/facebook-lbdems.jpg\" />\n<meta property=\"og:url\" content=\"https://www.jimin.jp/election/results/sen_san24/political_promise/\" />",
+			"<meta name=\"description\" content=\"「この道を。力強く、前へ。」自民党の政策サイトです。道半ばではありますが、アベノミクスは確実に「結果」を生み出しています。この道を、力強く、前へ、進んで行こうではありませんか。 国民の皆様と共に,「誇りある日本」を取り戻すために。\">\n<meta name=\"keywords\" content=\"自民党,自由民主党,自民,安倍晋三,アベノミクス,経済,外交,一億総活躍,3本の矢,地方創生,18歳選挙,女性活躍,子育て,介護,高齢者,若者,中小企業,農業,TPP,外国人,復興,奨学金,就職,保育,医療,教育,環境,エネルギー,労働\">",
+			"id=\"pageup",
+			"<script src=\"../js/jquery.function.js\"></script>",
+			"<script src=\"../js/jquery.easing.1.3.js\"></script>",
+			"<a id=\"#pageup\" href=\"#\">",
+			"<a class=\"logo\" href=\"../../index.html\">",
+			"<a class=\"logo\" href=\"../index.html\">",
+			"../prevention",
+			"/img/diplomacy",
+			"../diplomacy",
+			"small",
+			"<a href=\"../society/index.html\">さあ、一億総活躍社会へ！</a>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/n-futagami/_Project/D_iret_TAS/07_web/source/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 747,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								381,
+								381
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"is_xml": false,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/n-futagami/_Project/D_iret_TAS/07_web/source/parts.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 114141,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								112686,
+								112742
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 87.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/n-futagami/_Project/D_iret_TAS/07_web/source/hotelaccount_hotel.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 48760,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5658,
+								5658
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/n-futagami/_Project/D_iret_TAS/07_web/source/hotelaccount_tas.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 63836,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1440,
+								1552
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 86.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/_navbar.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17591,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9601,
+								9601
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/_buttons.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3919,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								209,
+								242
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/_pagination.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1189,
+								1444
+							]
+						],
+						"settings":
+						{
+							"auto_indent": true,
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 66.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/mixins/_pagination.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 507,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/_utilities.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 765,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								154,
+								154
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/_grid.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1443,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/common.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10453,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9970,
+								9970
+							]
+						],
+						"settings":
+						{
+							"auto_indent": true,
+							"in_converting": true,
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"revert_to_scratch": true,
+							"sftp_duplicate_views": 0,
+							"synced": false,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/_panels.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6388,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								246,
+								246
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 12,
+					"file": "/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/_theme.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10531,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3938,
+								3938
+							]
+						],
+						"settings":
+						{
+							"auto_indent": true,
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/_variables.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 35077,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32767,
+								32767
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 14999.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/common.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10453,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9884,
+								9894
+							]
+						],
+						"settings":
+						{
+							"auto_indent": true,
+							"in_converting": true,
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"revert_to_scratch": true,
+							"sftp_duplicate_views": 0,
+							"synced": false,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/Users/n-futagami/_Project/D_iret_TAS/07_web/source/assets/sass/bootstrap/_tables.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7065,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6152,
+								6152
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3711.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "TAS.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rea",
+				"assets/bower_components/bootstrap/README.md"
+			],
+			[
+				"hotel",
+				"hotelaccount_tas.html"
+			],
+			[
+				"hote",
+				"hotelaccount_hotel.html"
+			],
+			[
+				"table",
+				"assets/sass/bootstrap/_tables.scss"
+			],
+			[
+				"common",
+				"assets/sass/common.scss"
+			],
+			[
+				"pagina",
+				"assets/sass/bootstrap/mixins/_pagination.scss"
+			],
+			[
+				"navbar",
+				"assets/sass/bootstrap/_navbar.scss"
+			],
+			[
+				"themescss",
+				"assets/sass/bootstrap/_theme.scss"
+			],
+			[
+				"variable",
+				"assets/sass/bootstrap/_variables.scss"
+			],
+			[
+				"grid",
+				"assets/sass/bootstrap/_grid.scss"
+			],
+			[
+				"bootstrap.scss",
+				"assets/sass/_bootstrap.scss"
+			],
+			[
+				"pane",
+				"assets/sass/bootstrap/_panels.scss"
+			],
+			[
+				"datepicker",
+				"assets/lib/datepicker/js/bootstrap-datepicker.js"
+			],
+			[
+				"ho",
+				"hotelaccount_tas.html"
+			],
+			[
+				"part",
+				"parts_tas.html"
+			],
+			[
+				"form",
+				"assets/js/bootstrap/bootstrap/form.js"
+			],
+			[
+				"bootstrap/fo",
+				"assets/js/bootstrap/bootstrap/form.js"
+			],
+			[
+				"main",
+				"js/main.js"
+			],
+			[
+				"table.sscss",
+				"assets/sass/bootstrap/_tables.scss"
+			],
+			[
+				"parts",
+				"parts.html"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"edi",
+				"edit_tas.html"
+			],
+			[
+				"vari",
+				"assets/sass/bootstrap/_variables.scss"
+			],
+			[
+				"como",
+				"assets/sass/common.scss"
+			],
+			[
+				"partstas",
+				"parts_tas.html"
+			],
+			[
+				"loginho",
+				"login_hotel.html"
+			],
+			[
+				"login",
+				"login_tas.html"
+			],
+			[
+				"type",
+				"assets/sass/bootstrap/_type.scss"
+			],
+			[
+				"nav",
+				"assets/sass/bootstrap/_navs.scss"
+			],
+			[
+				"tab",
+				"assets/sass/bootstrap/_tables.scss"
+			],
+			[
+				"ty",
+				"assets/sass/bootstrap/_type.scss"
+			],
+			[
+				"label",
+				"assets/sass/bootstrap/_labels.scss"
+			],
+			[
+				"log",
+				"login.html"
+			],
+			[
+				"docu",
+				"assets/js/document.js"
+			],
+			[
+				"",
+				"login.html"
+			],
+			[
+				"list",
+				"list.html"
+			],
+			[
+				"style",
+				"assets/sass/style.scss"
+			],
+			[
+				"varia",
+				"assets/sass/bootstrap/_variables.scss"
+			],
+			[
+				"icons",
+				"scss/uikit/core/icon.scss"
+			],
+			[
+				"frame",
+				"frame.html"
+			],
+			[
+				"func",
+				"js/jquery.function.js"
+			],
+			[
+				"sui",
+				"suites.html"
+			],
+			[
+				"uikit-mi",
+				"scss/uikit/uikit-mixins.scss"
+			],
+			[
+				"top",
+				"top.html"
+			],
+			[
+				"suites",
+				"suites.html"
+			],
+			[
+				"suite",
+				"suites.html"
+			],
+			[
+				"val",
+				"scss/uikit/uikit-variables.scss"
+			],
+			[
+				"de",
+				"devices.html"
+			],
+			[
+				"new4",
+				"new4.html"
+			],
+			[
+				"new3",
+				"new3.html"
+			],
+			[
+				"new",
+				"new5.html"
+			],
+			[
+				"new1",
+				"new1.html"
+			],
+			[
+				"new2",
+				"new2.html"
+			],
+			[
+				"modal",
+				"scss/uikit/core/modal.scss"
+			],
+			[
+				"uiki",
+				"js/uikit.js"
+			],
+			[
+				"stl",
+				"css/style.css"
+			],
+			[
+				"tyle",
+				"css/style.css"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"bread",
+				"scss/_breadcrumb.scss"
+			],
+			[
+				"va",
+				"scss/_variables.scss"
+			],
+			[
+				"style.",
+				"scss/style_old.scss"
+			],
+			[
+				"chart",
+				"js/Chart.js"
+			],
+			[
+				"fun",
+				"js/jquery.function.js"
+			],
+			[
+				"function",
+				"js/jquery.function.js"
+			],
+			[
+				"reboot",
+				"scss/_reboot.scss"
+			],
+			[
+				"moda",
+				"scss/_modal.scss"
+			],
+			[
+				"table-or",
+				"scss/mixins/_table-row.scss"
+			],
+			[
+				"mixingri",
+				"scss/mixins/_grid.scss"
+			],
+			[
+				"cus",
+				"scss/_custom-forms.scss"
+			],
+			[
+				"s",
+				"scss/style.scss"
+			],
+			[
+				"reb",
+				"scss/_reboot.scss"
+			],
+			[
+				"nor",
+				"scss/_normalize.scss"
+			],
+			[
+				"mixi",
+				"scss/_mixins.scss"
+			],
+			[
+				"boot",
+				"scss/bootstrap.scss"
+			],
+			[
+				"varie",
+				"scss/_variables.scss"
+			],
+			[
+				"scss",
+				"sass/_main.scss"
+			],
+			[
+				"lay",
+				"sass/_layout.scss"
+			],
+			[
+				"pre",
+				"prevention/index.html"
+			],
+			[
+				"local",
+				"local/index.html"
+			],
+			[
+				"life",
+				"life/index.html"
+			],
+			[
+				"trade",
+				"trade/index.html"
+			],
+			[
+				"econo",
+				"economics/index.html"
+			],
+			[
+				"sass",
+				"sass/_setting.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 307.0,
+		"last_filter": "btn-default",
+		"selected_items":
+		[
+			[
+				"btn-default",
+				"btn-default"
+			],
+			[
+				"center",
+				"center-block"
+			],
+			[
+				"pagination",
+				"pagination"
+			],
+			[
+				"autosize",
+				"_autoSize"
+			],
+			[
+				"vam",
+				"va-m"
+			],
+			[
+				"vm",
+				"va-m"
+			],
+			[
+				"label",
+				"label"
+			],
+			[
+				"radio",
+				"radio"
+			],
+			[
+				"body",
+				"body"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"table-bordered",
+				"table-bordered"
+			],
+			[
+				"text-cen",
+				"text-center"
+			],
+			[
+				"clea",
+				"clearfix"
+			],
+			[
+				"label-primary",
+				"label-primary"
+			],
+			[
+				"uk-icon-chevo",
+				"uk-icon-chevron-left"
+			],
+			[
+				"fade",
+				"uk-animation-fade"
+			],
+			[
+				"uk-open",
+				"uk-open"
+			],
+			[
+				"uk-fle",
+				"uk-flex"
+			],
+			[
+				"dvp-devi",
+				"dvp-device-table"
+			],
+			[
+				"grid",
+				"make-grid-columns"
+			],
+			[
+				"btn-",
+				"btn-lg"
+			],
+			[
+				"tool",
+				"Tooltip"
+			],
+			[
+				"nav-tabs",
+				"nav-tabs"
+			],
+			[
+				"table-re",
+				"table-responsive"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"c-indicator",
+				"c-indicator"
+			],
+			[
+				"table-row-variant",
+				"table-row-variant"
+			],
+			[
+				"table-success",
+				"table-success"
+			],
+			[
+				"thead-inverse",
+				"thead-inverse"
+			],
+			[
+				"alert-va",
+				"alert-variant"
+			],
+			[
+				"alert",
+				"alert"
+			],
+			[
+				"bodr",
+				"border-radius"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"sele",
+				"select"
+			],
+			[
+				"btn",
+				"btn-secondary"
+			],
+			[
+				"button",
+				"Button"
+			],
+			[
+				"input",
+				"input-group"
+			],
+			[
+				"table",
+				"table-responsive"
+			],
+			[
+				"size",
+				"size"
+			],
+			[
+				"clear",
+				"clearfix"
+			],
+			[
+				"hori",
+				"dl-horizontal"
+			],
+			[
+				"font",
+				"font-weight-normal"
+			],
+			[
+				"radiu",
+				"border-radius"
+			],
+			[
+				"bread",
+				"breadcrumb"
+			],
+			[
+				"box-shadow",
+				"box-shadow"
+			],
+			[
+				"box-",
+				"box-shadow"
+			]
+		],
+		"width": 476.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 176.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

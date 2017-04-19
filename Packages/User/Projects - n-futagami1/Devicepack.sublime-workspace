@@ -1,0 +1,2177 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dis",
+				"displayDevicepools"
+			],
+			[
+				"devi",
+				"devicepools"
+			],
+			[
+				"disp",
+				"displayRuns"
+			],
+			[
+				"logo",
+				"logo.svg"
+			],
+			[
+				"uk-badge-in",
+				"uk-badge-notification"
+			],
+			[
+				"load",
+				"loadChart"
+			],
+			[
+				"uk-icon-angle",
+				"uk-icon-angle-up \tUIkit class"
+			],
+			[
+				"uk-icon",
+				"uk-icon-large \tUIkit class"
+			],
+			[
+				"uni",
+				"uniqueProblem"
+			],
+			[
+				"pro",
+				"problem"
+			],
+			[
+				"prob",
+				"problem\t(app.js)"
+			],
+			[
+				"proble",
+				"problems"
+			],
+			[
+				"E",
+				"ERRORED\t(app.js)"
+			],
+			[
+				"acc",
+				"accordion.min.js"
+			],
+			[
+				"script",
+				"script\tHTML - Script"
+			],
+			[
+				"colu",
+				"columns"
+			],
+			[
+				"chi",
+				"child"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"setT",
+				"setTimeout〔function〕"
+			],
+			[
+				"cha",
+				"chart"
+			],
+			[
+				"icon-passed",
+				"icon-passed_circle\t(top.html)"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"resul",
+				"result_icon"
+			],
+			[
+				"po",
+				"polling"
+			],
+			[
+				"scro",
+				"scrollTop\t.scrollTop()"
+			],
+			[
+				"uk-margin",
+				"uk-margin-small-bottom"
+			],
+			[
+				"clear",
+				"clearTimeout\t(uikit.js)"
+			],
+			[
+				"functio",
+				"function"
+			],
+			[
+				"hide",
+				"hide\t(uikit.js)"
+			],
+			[
+				"uk-bu",
+				"uk-button-danger \tUIkit class"
+			],
+			[
+				"progre",
+				"progress"
+			],
+			[
+				"wi",
+				"width\t(new1.html)"
+			],
+			[
+				"prog",
+				"progressBar"
+			],
+			[
+				"typ",
+				"type"
+			],
+			[
+				"before",
+				"beforeAll\t(upload.js)"
+			],
+			[
+				"j",
+				"jQuery\t(new1.html)"
+			],
+			[
+				"settin",
+				"settings\t(new1.html)"
+			],
+			[
+				"upload",
+				"uploadSelect\t(new1.html)"
+			],
+			[
+				"uk-pro",
+				"uk-progress-bar\t(new1.html)"
+			],
+			[
+				"favicon",
+				"favicon.ico"
+			],
+			[
+				"pag",
+				"pagination.min.js"
+			],
+			[
+				"icon-fail",
+				"icon-failed_circle\t(top.html)"
+			],
+			[
+				"icon-wa",
+				"icon-warned_circle\t(top.html)"
+			],
+			[
+				"icon-pass",
+				"icon-passed_circle\t(top.html)"
+			],
+			[
+				"erro",
+				"errored\t(symbol-defs.svg)"
+			],
+			[
+				"warn",
+				"warned\t(symbol-defs.svg)"
+			],
+			[
+				"box-",
+				"box-sizing\t(style.scss)"
+			],
+			[
+				"text",
+				"text-align\t(style.scss)"
+			],
+			[
+				"war",
+				"warned"
+			],
+			[
+				"styl",
+				"style\t(bar-svg.js)"
+			],
+			[
+				"style",
+				":style=〔attribute〕"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"to",
+				"total"
+			],
+			[
+				"stop",
+				"stopped"
+			],
+			[
+				"acri",
+				"activeProject"
+			],
+			[
+				"proje",
+				"project"
+			],
+			[
+				"xli",
+				"xlink:href\t(top.html)"
+			],
+			[
+				"hei",
+				"height\t(top.html)"
+			],
+			[
+				"uk-margin-ler",
+				"uk-margin-large-bottom \tUIkit class"
+			],
+			[
+				"uk-margin-b",
+				"uk-margin-bottom \tUIkit class"
+			],
+			[
+				"ro",
+				"rowData"
+			],
+			[
+				"li",
+				"lib"
+			],
+			[
+				"icon-failed",
+				"icon-failed_circle\t(symbol-defs.svg)"
+			],
+			[
+				"use",
+				"use"
+			],
+			[
+				"sv",
+				"svg.js"
+			],
+			[
+				"sym",
+				"symbol-defs.svg\tFile"
+			],
+			[
+				"screen",
+				"screenshots"
+			],
+			[
+				"scree",
+				"screenshots"
+			],
+			[
+				"uk-mar",
+				"uk-margin-large-bottom\t(suites.html)"
+			],
+			[
+				"has",
+				"hasFiles\t(app.js)"
+			],
+			[
+				"read",
+				"ready.samples"
+			],
+			[
+				"fil",
+				"files\t(app.js)"
+			],
+			[
+				"performance",
+				"performanceCPU\t(suites.html)"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"la",
+				"labels"
+			],
+			[
+				"line",
+				"linegraph\t(main.js)"
+			],
+			[
+				"sample",
+				"sampleSync"
+			],
+			[
+				"screenA",
+				"screenshotArtifacts"
+			],
+			[
+				"scre",
+				"screenshot\t(app.js)"
+			],
+			[
+				"uk-margin-large",
+				"uk-margin-large-bottom \tUIkit class"
+			],
+			[
+				"arti",
+				"artifact"
+			],
+			[
+				"toggle",
+				"toggleClass\t.toggleClass()"
+			],
+			[
+				"fade",
+				"fadeOut〔function〕"
+			],
+			[
+				"format",
+				"formatDate\t(main.js)"
+			],
+			[
+				"uk-form",
+				"uk-form \tUIkit class"
+			],
+			[
+				"tool",
+				"tooltip.min.js"
+			],
+			[
+				"artifa",
+				"artifactSync"
+			],
+			[
+				"ar",
+				"artifacts"
+			],
+			[
+				"art",
+				"artifacts\t(app.js)"
+			],
+			[
+				"scren",
+				"screenshots"
+			],
+			[
+				"tests",
+				"tests.html"
+			],
+			[
+				"suite",
+				"suites"
+			],
+			[
+				"setA",
+				"setArn\t(app.js)"
+			],
+			[
+				"uk-magin",
+				"uk-margin-small-bottom \tUIkit class"
+			],
+			[
+				"uk-magin-sma",
+				"uk-margin-small-bottom \tUIkit class"
+			],
+			[
+				"jo",
+				"job"
+			],
+			[
+				"warnd",
+				"warnedIconX"
+			],
+			[
+				"set",
+				"setArtifact"
+			],
+			[
+				"device",
+				"deviceId"
+			],
+			[
+				"job",
+				"jobAsync"
+			],
+			[
+				"req",
+				"requests"
+			],
+			[
+				"succ",
+				"successWidth"
+			],
+			[
+				"info",
+				"infoWidth"
+			],
+			[
+				"succe",
+				"success\t(app.js)"
+			],
+			[
+				"suc",
+				"successX"
+			],
+			[
+				"warned",
+				"warnedWidth"
+			],
+			[
+				"wane",
+				"warnedWidth"
+			],
+			[
+				"wan",
+				"warnedWidth"
+			],
+			[
+				"warne",
+				"warnedWidth"
+			],
+			[
+				"vie",
+				"viewBoxHeight"
+			],
+			[
+				"view",
+				"viewBoxWidth"
+			],
+			[
+				"coun",
+				"counters"
+			],
+			[
+				"for",
+				"for〔keyword〕"
+			],
+			[
+				"type",
+				"typeof〔keyword〕"
+			],
+			[
+				"uk-ali",
+				"uk-align-center \tUIkit class"
+			],
+			[
+				"defaul",
+				"defaultAPIs"
+			],
+			[
+				"resu",
+				"result\t(app.js)"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"counter",
+				"counters"
+			],
+			[
+				"ron",
+				"round\t(jquery.function.js)"
+			],
+			[
+				"pass",
+				"passed"
+			],
+			[
+				"destro",
+				"destroyed\t(vue.js)"
+			],
+			[
+				"su",
+				"success\t(jquery.function.js)"
+			],
+			[
+				"str",
+				"stringfy\t(app.js)"
+			],
+			[
+				"st",
+				"stringfy"
+			],
+			[
+				"meth",
+				"method\t(vue.js)"
+			],
+			[
+				"label",
+				"labels\t(jquery.function.js)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/run/list/main.js",
+			"settings":
+			{
+				"buffer_size": 1470,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/run/list/app.js",
+			"settings":
+			{
+				"buffer_size": 4361,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/lib/donut.js",
+			"settings":
+			{
+				"buffer_size": 2473,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ren",
+		"selected_items":
+		[
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"prettjson",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"json",
+				"Pretty JSON: JSON 2 XML"
+			],
+			[
+				"rev",
+				"File: Reveal"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"ready",
+				"Snippet: document.ready - $(function(){})"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"codic",
+				"codic: search"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packagea",
+				"Package Control: Add Repository"
+			],
+			[
+				"project",
+				"Project Manager"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"proje",
+				"Project: Edit Project"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"co",
+				"ANF: Copy Current File"
+			],
+			[
+				"synhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"mo",
+				"File: Move"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"re",
+				"File: Reveal"
+			],
+			[
+				"block",
+				"Toggle Block Comment"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"copy",
+				"ANF: Copy Current File"
+			],
+			[
+				"",
+				"ANF: Copy Current File"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"setj",
+				"Set Syntax: JSON"
+			],
+			[
+				"show",
+				"SFTP: Show Panel"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"convertutf",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"delte",
+				"File: Delete"
+			],
+			[
+				"align",
+				"Preferences: Alignment File Settings – Syntax Specific – User"
+			],
+			[
+				"linter ",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"comment",
+				"Toggle Block Comment"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"shell",
+				"ShellCommand"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"curent",
+				"ANF: Copy Current File"
+			],
+			[
+				"synja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"curre",
+				"ANF: Copy Current File"
+			],
+			[
+				"file",
+				"File: Search Files"
+			],
+			[
+				"rotate",
+				"Snippet: transform:rotate()"
+			],
+			[
+				"transform",
+				"Snippet: transform"
+			],
+			[
+				"blo",
+				"Toggle Block Comment"
+			],
+			[
+				"keyf",
+				"Snippet: @keyframes"
+			],
+			[
+				"fill",
+				"Snippet: animation-fill-mode:forwards"
+			],
+			[
+				"animation-na",
+				"Snippet: animation-name"
+			],
+			[
+				"transpare",
+				"Snippet: transparentize()"
+			],
+			[
+				"retty",
+				"HTMLPrettify"
+			],
+			[
+				"cop",
+				"ANF: Copy Current File"
+			],
+			[
+				"bloc",
+				"Toggle Block Comment"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"copycu",
+				"ANF: Copy Current File"
+			],
+			[
+				"jquer",
+				"Snippet: jQuery(document).ready"
+			],
+			[
+				"new",
+				"ANF: New File"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"commen",
+				"Toggle Comment"
+			],
+			[
+				"p",
+				"Project Manager"
+			],
+			[
+				"shel",
+				"ShellCommand"
+			],
+			[
+				"pwd",
+				"Project Manager: Open Project in New Window"
+			],
+			[
+				"termi",
+				"Terminal: Open"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"tarnsi",
+				"Snippet: transition"
+			],
+			[
+				"inclu",
+				"Snippet: @include"
+			],
+			[
+				"include",
+				"Snippet: @include"
+			],
+			[
+				"includ",
+				"Snippet: @include"
+			],
+			[
+				"smoo",
+				"Snippet: font-smooth"
+			],
+			[
+				"mixi",
+				"Snippet: @mixin"
+			],
+			[
+				"exten",
+				"Snippet: @extend"
+			],
+			[
+				"extend",
+				"Snippet: @extend"
+			],
+			[
+				"jquery",
+				"Snippet: HTML - Include jQuery"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/css",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/lib",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/nav",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/run",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/run/device",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/run/list",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/scss",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/scss/uikit"
+	],
+	"file_history":
+	[
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/lib/donut.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/run/step1/app.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/new1.html",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/run/list/main.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/run/list/app.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/new2.html",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/project.html",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/nav/project.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/webpack.config.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/devicepool/main.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/top.html",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/run/device/main.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/run/device/app.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/scss/_c3.scss",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/scss/style.scss",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/scss/uikit/uikit-mixins.scss",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/scss/uikit/uikit.scss",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/css/style.css",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/nav/user.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/nav/run.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/nav/devicepool.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/run/test/app.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/test.html",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/run/tests/app.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/.gitignore",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/new5.html",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/new4.html",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/new3.html",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/login.html",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/devices.html",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/devicepool.html",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/upload.html",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/tests.html",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/suites.html",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/signup.html",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/package.json",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/lib/page.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/index.html",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/is_login.html",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/lib/config.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/lib/cognitoServiceProvider.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/lib/cognito.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/login/app.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/login/main.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/project/main.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/run/suite/app.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/dist/login.js",
+		"/Users/n-futagami/Desktop/index.html",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/verify.html",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/lib/linegraph.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/devicepool/app.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/lib/filter.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/lib/query.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/lib/bar.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/lib/bar.html",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/dist/config.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/dist/cognito.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/core/core.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/lib/svg/symbol-defs.svg",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/jquery.function.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/run/step3/app.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/lib/svg.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/project/create.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/upload/app.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/upload/delete.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/devicepool/create.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/project/app.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/run/step1/main.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/scss/uikit/core/icon.scss",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/lib/c3.js",
+		"/Users/n-futagami/.bashrc",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/devicepool/delete.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/project/delete.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/run/step2/select_test.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/run/step1/select_app.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/project/rename.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/scss/uikit/components/notify.scss",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/components/notify.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/lib/notify.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/tests/core/modal.html",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/dist/devicepool.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/scss/uikit/core/base.scss",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/frame.html",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/scss/uikit/components/accordion.scss",
+		"/Users/n-futagami/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/scss/uikit/core/animation.scss",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/run/step2/app.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/core/offcanvas.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/uikit.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/lib/arn.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/components/tooltip.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/components/upload.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/dist/filter.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/lib/storage.js",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/lib/auth.js",
+		"/Users/n-futagami/.ssh/devicepack.pem",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/project.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/scss/style.scss",
+		"/Users/n-futagami/Library/Application Support/Sublime Text 3/Packages/User/Projects - n-futagami1/Devicepack.sublime-project",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/tests.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/test.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/suites.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/new5.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/new4.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/new3.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/new2.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/new1.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/devicepool/main.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/frame.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/devices.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/devicepool.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/login_design.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/lib/donut.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/top.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/run/list/app.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/lib/bar.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/lib/bar.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/lib/svg/symbol-defs.svg",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/run/device/main.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/run/device/app.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/run/list/main.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/lib/bar-svg.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/lib/svg.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/nav/project.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/nav/run.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/project/main.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/run/step1/main.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/run/step2/main.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 473.0,
+		"where_history":
+		[
+			"<open folders>,*js,*html,*css,-style.css,-*.min.js,-*.min.css,-*.min.scss,-node_modules/,-dist/",
+			"<open folders>,*js,*html,*css,-style.css,-*.min.js,-*.min.css,-*.min.scss,-node_modules/",
+			"<open folders>,*js,*html,*css,-style.css,-*.min.css,-*.min.scss,-node_modules/",
+			"<open folders>,*html,*css,-style.css,-*.min.css,-*.min.scss,-node_modules/",
+			"<open folders>,*html,*css,-style.css,-*.min.css,-*.min.scss",
+			"<open folders>,*html,*css,-style.css,-*.min.css",
+			"<open folders>,*html,*css,-style.css",
+			"<open folders>,*html,*css",
+			"<open folders>,src/*js",
+			"<open folders>,^dist/*js",
+			"<open folders>,!dist/*js",
+			"<open folders>,dist/*js",
+			"<open folders>,!dist",
+			"<open folders>",
+			"<open folders>, src/*js",
+			"<open folders>",
+			"<open folders>,js/src/**/*js",
+			"<open folders>,*js",
+			"<open folders>",
+			"<open folders>,*js",
+			"<open folders>,js",
+			"<open folders>",
+			"<open folders>,*.scss",
+			"<open folders>,*.html",
+			"<open folders>,*.scss",
+			"<open folders>,.scss",
+			"<open folders>",
+			"<open folders>,*html",
+			"<open folders>",
+			"<open folders>,*html",
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"c3.min.css",
+			"runs",
+			"len",
+			"list",
+			"project",
+			"accor",
+			"accordion",
+			"getCurrentUser",
+			"filter",
+			"Sort",
+			"date",
+			"filter",
+			"$els",
+			"els",
+			"<!",
+			"counters",
+			"donut",
+			"true",
+			"setInterval",
+			"vue-router",
+			"referer",
+			"value",
+			"linegraph",
+			"    <script src=\"js/Chart.js\"></script>\n",
+			"    <script src=\"//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js\"></script>\n\n",
+			"    <script type=\"text/javascript\">\n        if (!window.jQuery) document.writeln('<script src=\"../js/jquery.min.js\"><\\/script>');\n    </script>",
+			"\n    <script src=\"//cdnjs.cloudflare.com/ajax/libs/fabric.js/1.6.2/fabric.min.js\"></script>",
+			"//cdnjs.cloudflare.com/ajax/libs/fabric.js/1.6.2/fabric.min.js",
+			"<script src=\"../js/jquery.js\">",
+			"transform",
+			"svg",
+			"28px",
+			"20px",
+			"dvp-problems",
+			"dvp-problems-list",
+			"result-icon",
+			".uk-badge",
+			"div",
+			"uniqueProblems",
+			"problems",
+			"test",
+			"p",
+			"p.",
+			"problem",
+			"h3",
+			"problem",
+			"FAILED",
+			"prob",
+			"notify",
+			"400px",
+			"run-",
+			"result",
+			"p.",
+			"suite",
+			"page",
+			"result",
+			"UIkit",
+			"result",
+			"problem",
+			"message",
+			"prob",
+			"result",
+			"tab",
+			"10px",
+			"span",
+			"noti",
+			"<i class=\"uk-icon-small uk-icon-sort-desc\"></i>",
+			"init",
+			"this",
+			"chart",
+			"svg",
+			"child",
+			"fucntion",
+			"this",
+			"this.counters.",
+			"chart",
+			"in",
+			"data",
+			"num",
+			"デバイスプール",
+			"data",
+			"20",
+			" width=\"20\" height=\"20\"",
+			"job",
+			"suite",
+			" v-if=\"ready.runs\"",
+			"runs.length > 0",
+			"job",
+			"runs",
+			":",
+			"run",
+			"\"\"",
+			" \"\",",
+			"\"\",\n",
+			"runs[0].",
+			"counters",
+			"}}</p>",
+			"animation",
+			"result_icon",
+			"running",
+			"scheduling",
+			"RUNNING",
+			"running",
+			"failed",
+			"errored",
+			"icon",
+			"result",
+			"status",
+			"pendings",
+			"i",
+			"suche",
+			"sucheduled",
+			"polling",
+			"pendings",
+			"pending",
+			"result",
+			"app",
+			"uploadAsync",
+			"poling",
+			"40",
+			"32",
+			"uk-icon-spin",
+			"animati",
+			"E05485",
+			"svg",
+			".result.toLowerCase()",
+			"deviceMinutes",
+			"job.deviceMinutes"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"    <script src=\"//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js\"></script>\n",
+			"",
+			"<script src=\"../js/jquery.min.js\">",
+			"",
+			"<main id=\"main\" v-cloak>",
+			"",
+			"\n",
+			"    <!-- favicon -->\n    <link rel=\"icon\" type=\"image/png\" href=\"img/favicon-48x48.png\" sizes=\"48x48\">\n    <link rel=\"icon\" type=\"image/png\" href=\"img/favicon-96x96.png\" sizes=\"96x96\">\n    <link rel=\"icon\" type=\"image/png\" href=\"img/favicon-16x16.png\" sizes=\"16x16\">\n    <link rel=\"icon\" type=\"image/png\" href=\"img/favicon-32x32.png\" sizes=\"32x32\">\n\n",
+			"<a href=\"./new1.html\" id=\"create-steps-new\" class=\"dvp-create-btn uk-button uk-button-primary uk-button-large\">ランの新規作成</a>",
+			"<a href=\"#\"><span class=\"dvp-icon-detail\"></span>詳細</a>",
+			"run.html",
+			"    <nav id=\"vue-sidebar\">\n        <nav-project></nav-project>\n    </nav>\n</div>\n<!-- #container -->\n",
+			"    <div id=\"container\">\n        <main id=\"main\">",
+			"",
+			"新規作成",
+			"<nav>\n            <div id=\"sidebar\">\n                <h3 id=\"brand-logo\"><a href=\"./index.html\"><img src=\"img/share/logo.png\" alt=\"Devicepack\"></a></h3>\n                <ul class=\"dvp-side-menu uk-nav uk-nav-parent-icon\" data-uk-nav=\"{multiple:true}\">\n                    <li class=\"uk-parent dvp-nav-project\">\n                        <a href=\"#\" class=\"dvp-icons-project\">プロジェクト</a>\n                        <ul class=\"uk-nav-sub uk-nav uk-nav-parent-icon\" data-uk-nav>\n                        <li class=\"uk-parent\"><a href=\"#\" class=\"dvp-nav-list\">demo project<i class=\"uk-icon-chevron-right\"></i></a>\n                                <ul id=\"run01\" class=\"uk-nav-sub dvp-nav-run\">\n                                    <li><a href=\"devices.html\" class=\"dvp-nav-list\">demo_undotsushin.ipa</a></li>\n                                    <li><a href=\"devices.html\" class=\"dvp-nav-list\">demo_undotsushin.ipa</a></li>\n                                    <li><a href=\"top.html\">すべてのランを見る</a></li>\n                                    <li class=\"dvp-nav-create\"><a href=\"new1.html\" class=\"dvp-icons-create\">ランの新規作成</a></li>\n                                </ul>\n                            </li>\n                            <li class=\"uk-parent\"><a href=\"#\" class=\"dvp-nav-list\">demo project<i class=\"uk-icon-chevron-right\"></i></a>\n                                <ul class=\"uk-nav-sub dvp-nav-run\">\n                                    <li><a href=\"devices.html\" class=\"dvp-nav-list\">demo_undotsushin.ipa</a></li>\n                                    <li><a href=\"devices.html\" class=\"dvp-nav-list\">demo_undotsushin.ipa</a></li>\n                                    <li><a href=\"top.html\">すべてのランを見る</a></li>\n                                    <li class=\"dvp-nav-create\"><a href=\"new1.html\" class=\"dvp-icons-create\">ランの新規作成</a></li>\n                                </ul>\n                            </li>\n                            <li class=\"uk-parent\"><a href=\"#\" class=\"dvp-nav-list\">demo project<i class=\"uk-icon-chevron-right\"></i></a>\n                                <ul class=\"uk-nav-sub dvp-nav-run\">\n                                    <li><a href=\"devices.html\">demo_undotsushin.ipa</a></li>\n                                    <li><a href=\"devices.html\">demo_undotsushin.ipa</a></li>\n                                    <li><a href=\"top.html\">すべてのランを見る</a></li>\n                                    <li class=\"dvp-nav-create\"><a href=\"new1.html\" class=\"dvp-icons-create\">ランの新規作成</a></li>\n                                </ul>\n                            </li>\n                            <li><a href=\"project.html\">プロジェクト一覧</a></li>\n                            <li class=\"dvp-nav-create\"><a href=\"project.html#create\" class=\"dvp-icons-create\">プロジェクトの新規作成</a></li>\n                        </ul>\n                    </li>\n                    <li class=\"uk-parent dvp-nav-dp\">\n                        <a href=\"#\" class=\"dvp-icons-dp\">デバイスプール</a>\n                        <ul class=\"uk-nav-sub\">\n                            <li><a href=\"devicepool.html\">デバイスプール一覧</a></li>\n                            <li class=\"dvp-nav-create\"><a href=\"devicepool.html#create\" class=\"dvp-icons-create\">デバイスプールの新規作成</a></li>\n                        </ul>\n                    </li>\n                </ul>\n                <ul class=\"dvp-admin-menu uk-nav\">\n                    <li class=\"nav-item dvp-nav-admin\">\n                        <a class=\"nav-link dvp-icons-admin\" href=\"#\">shinichi+cloudpack@cloudpack.jp</a>\n                    </li>\n                    <li class=\"nav-item dvp-nav-logout\">\n                        <a class=\"nav-link dvp-icons-logout\" href=\"#\">ログアウト</a>\n                    </li>\n                </ul>\n            </div>\n        </nav>",
+			"shinichi+cloudpack@cloudpack.jp",
+			"run.html",
+			"アカウント",
+			"Devicepack demo",
+			" id=\"main\" class=\"main\"",
+			"<div class=\"panel panel-default dvp-list-project\">\n                <div class=\"panel-heading\" role=\"tab\" id=\"headingOne\">\n                    <h4 class=\"panel-title\">\n                      <a data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseOne\" aria-expanded=\"false\" aria-controls=\"collapseOne\" class=\"collapsed\">\n                        プロジェクト\n                      </a>\n                    </h4>\n                </div>\n                <div id=\"collapseOne\" class=\"panel-collapse collapse\" role=\"tabpanel\" aria-labelledby=\"headingOne\" aria-expanded=\"false\" style=\"height: 0px;\">\n                    <ul class=\"nav dvp-side-subnav\">\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link\" href=\"top.html\">demo project</a>\n                        </li>\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link\" href=\"top.html\">demo project</a>\n                        </li>\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link disabled\" href=\"top.html\">&gt;&gt;ランの詳細を見る</a>\n                        </li>\n                    </ul>\n                </div>\n            </div>\n            <div class=\"panel panel-default dvp-list-run\">\n                <div class=\"panel-heading\" role=\"tab\" id=\"headingTwo\">\n                    <h4 class=\"panel-title\">\n                      <a class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">\n                        ラン\n                      </a>\n                    </h4>\n                </div>\n                <div id=\"collapseTwo\" class=\"panel-collapse collapse\" role=\"tabpanel\" aria-labelledby=\"headingTwo\">\n                    <ul class=\"nav dvp-side-subnav\">\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link\" href=\"#\">demo_undotsushin.ipa</a>\n                        </li>\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link\" href=\"#\">demo_undotsushin.ipa</a>\n                        </li>\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link disabled\" href=\"#\">&gt;&gt;ランの詳細を見る</a>\n                        </li>\n                    </ul>\n                </div>\n            </div>",
+			"<a href=\"./new1.html\">ランの新規作成</a>",
+			"col-lg-",
+			"            <a class=\"global__toggle__nav_icon\" href=\"#\" aria-expanded=\"false\" aria-controls=\"navlist\"><img class=\"menu\" src=\"../img/btn_menu_sp.png\" alt=\"menu\"><img class=\"close\" src=\"../img/btn_close_sp.png\" alt=\"close\"></a>\n            <nav id=\"navlist\" class=\"global__toggle__nav_list\" aria-expanded=\"true\">",
+			"<a href=\"https://www.jimin.jp/\" target=\"_blank\"><span class=\"nw\">自民党ホームページ</span></a>",
+			"                <ul class=\"child2__nav_list\">\n                    <li><a href=\"#\">政策BANK</a></li><!--\n                 --><!--<li><a href=\"#\">選挙公約2016（PDF）</a></li>--><!--\n                 --><li><a href=\"#\">政策パンフレット2016（PDF）</a></li><!--\n                 --><!--<li><a href=\"#\">こどもマニフェスト（PDF）</a></li>--><!--\n                 --><li><a href=\"#\">都道府県別政策集</a></li><!--\n                 --><!--<li><a href=\"#\" target=\"_blank\"><span class=\"nw\">自民党参院選2016</span></a></li>--><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">自民党ホームページ</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">ネット選挙について</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">プライバシーポリシー</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">お問い合わせ</span></a></li><!--\n                 --><li class=\"nav__sns\">\n                 <ul>\n                 <li><a href=\"http://www.facebook.com/share.php\" onclick=\"window.open(encodeURI(decodeURI(this.href)), 'FBwindow', 'width=554, height=470, menubar=no, toolbar=no, scrollbars=yes'); return false;\" rel=\"nofollow\"><img src=\"../img/btn_fb.png\" alt=\"シェアする\"></a></li>\n                    <li><a href=\"http://twitter.com/share\" onClick=\"window.open(encodeURI(decodeURI(this.href)), 'tweetwindow', 'width=650, height=470, personalbar=0, toolbar=0, scrollbars=1, sizable=1'); return false;\" rel=\"nofollow\"><img src=\"../img/btn_tw.png\" alt=\"\"></a></li>\n                 </ul>\n                 </li>\n                </ul>",
+			"<meta name=\"twitter:title\" content=\"自民党政策サイト\" />",
+			"<meta property=\"og:title\" content=\"自民党政策サイト\" />",
+			"<!-- *** OGP *** -->\n<meta property=\"og:title\" content=\"自由民主党\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:image\" content=\"https://www.jimin.jp/common/img/facebook-lbdems.jpg\" />\n<meta property=\"og:url\" content=\"https://special.jimin.jp/political_promise/\" />\n\n<meta name=\"twitter:title\" content=\"自由民主党\" />\n<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@jimin_koho\" />\n<meta name=\"twitter:description\" content=\"「この道を。力強く、前へ。」自民党の政策サイトです。道半ばではありますが、アベノミクスは確実に「結果」を生み出しています。この道を、力強く、前へ、進んで行こうではありませんか。 国民の皆様と共に,「誇りある日本」を取り戻すために。\" />\n<meta name=\"twitter:image\" content=\"https://www.jimin.jp/common/img/twitter-lbdems.jpg\" />\n<meta property=\"twitter:account_id\" content=\"58359180\" />\n",
+			"https://special.jimin.jp/political_promise/",
+			"<script>\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');\n  ga('create', 'UA-41065878-7', 'auto');\n  ga('send', 'pageview');\n</script>\n</body>\n",
+			"                 --><!--<li><a href=\"#\" target=\"_blank\"><span class=\"nw\">自民党参院選2016</span></a></li>--><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">自民党ホームページ</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">ネット選挙について</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">プライバシーポリシー</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">お問い合わせ</span></a></li>",
+			"                 --><!--<li><a href=\"#\" target=\"_blank\">自民党参院選2016<span class=\"nw\"></span></a></li>--><!--\n                 --><li><a href=\"#\" target=\"_blank\">自民党ホームページ<span class=\"nw\"></span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">ネット選挙について<span class=\"nw\"></span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">プライバシーポリシー<span class=\"nw\"></span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">お問い合わせ<span class=\"nw\"></span></a></li>",
+			"",
+			"都道府県別政策集",
+			"<div class=\"global__toggle__nav_icon\"><a href=\"#global__toggle__nav\"><img class=\"menu\" src=\"../img/btn_menu_sp.png\" alt=\"menu\"><img class=\"close\" src=\"../img/btn_close_sp.png\" alt=\"close\"></a></div>",
+			"<title>｜自民党政策サイト</title>",
+			"                <ul class=\"child2__nav_list\">\n                    <li><a href=\"#\">政策BANK</a></li><!--\n                 --><!--<li><a href=\"#\">選挙公約2016（PDF）</a></li>--><!--\n                 --><li><a href=\"#\">政策パンフレット2016（PDF）</a></li><!--\n                 --><!--<li><a href=\"#\">こどもマニフェスト（PDF）</a></li>--><!--\n                 --><li><a href=\"#\">都道府県別政策集（PDF）</a></li><!--\n                 --><!--<li><a href=\"#\" target=\"_blank\">自民党参院選2016</a></li>--><!--\n                 --><li><a href=\"#\" target=\"_blank\">自民党ホームページ</a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">ネット選挙について</a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">プライバシーポリシー</a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">お問い合わせ</a></li>\n                </ul>",
+			"\n<title>自由民主党</title>\n",
+			"",
+			"<title>自由民主党</title>",
+			"<title>siteName</title>\n\n<!-- *** OGP *** -->\n<meta property=\"og:title\" content=\"自由民主党\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:image\" content=\"https://www.jimin.jp/common/img/facebook-lbdems.jpg\" />\n<meta property=\"og:url\" content=\"https://www.jimin.jp/election/results/sen_san24/political_promise/\" />",
+			"<meta name=\"description\" content=\"「この道を。力強く、前へ。」自民党の政策サイトです。道半ばではありますが、アベノミクスは確実に「結果」を生み出しています。この道を、力強く、前へ、進んで行こうではありませんか。 国民の皆様と共に,「誇りある日本」を取り戻すために。\">\n<meta name=\"keywords\" content=\"自民党,自由民主党,自民,安倍晋三,アベノミクス,経済,外交,一億総活躍,3本の矢,地方創生,18歳選挙,女性活躍,子育て,介護,高齢者,若者,中小企業,農業,TPP,外国人,復興,奨学金,就職,保育,医療,教育,環境,エネルギー,労働\">",
+			"id=\"pageup",
+			"<script src=\"../js/jquery.function.js\"></script>",
+			"<script src=\"../js/jquery.easing.1.3.js\"></script>",
+			"<a id=\"#pageup\" href=\"#\">",
+			"<a class=\"logo\" href=\"../../index.html\">",
+			"<a class=\"logo\" href=\"../index.html\">",
+			"../prevention",
+			"/img/diplomacy",
+			"../diplomacy",
+			"small",
+			"<a href=\"../society/index.html\">さあ、一億総活躍社会へ！</a>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/run/list/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1470,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/run/list/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/lib/donut.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2473,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "Devicepack.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"main.",
+				"js/src/devicepool/main.js"
+			],
+			[
+				"webpa",
+				"webpack.config.js"
+			],
+			[
+				"step1/app",
+				"js/src/run/step1/app.js"
+			],
+			[
+				"do",
+				"js/src/lib/donut.js"
+			],
+			[
+				"donu",
+				"js/src/lib/donut.js"
+			],
+			[
+				"s",
+				"scss/style.scss"
+			],
+			[
+				"style",
+				"css/style.css"
+			],
+			[
+				"top",
+				"top.html"
+			],
+			[
+				"list/app",
+				"js/src/run/list/app.js"
+			],
+			[
+				"styl",
+				"scss/style.scss"
+			],
+			[
+				"sty",
+				"css/style.css"
+			],
+			[
+				"page",
+				"js/src/lib/page.js"
+			],
+			[
+				"st",
+				"scss/style.scss"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"login",
+				"login.html"
+			],
+			[
+				"suites",
+				"suites.html"
+			],
+			[
+				"suite/app",
+				"js/src/run/suite/app.js"
+			],
+			[
+				"login/",
+				"js/src/login/app.js"
+			],
+			[
+				"cognit",
+				"js/src/lib/cognito.js"
+			],
+			[
+				"suite/",
+				"js/src/run/suite/app.js"
+			],
+			[
+				"suite",
+				"suites.html"
+			],
+			[
+				"devicepool/",
+				"js/src/devicepool/app.js"
+			],
+			[
+				"device",
+				"devicepool.html"
+			],
+			[
+				"lineg",
+				"js/src/lib/linegraph.js"
+			],
+			[
+				"jq",
+				"js/jquery.function.js"
+			],
+			[
+				"listapp",
+				"js/src/run/list/app.js"
+			],
+			[
+				"top.",
+				"top.html"
+			],
+			[
+				"sym",
+				"js/src/lib/svg/symbol-defs.svg"
+			],
+			[
+				"device/app",
+				"js/src/run/device/app.js"
+			],
+			[
+				"new1",
+				"new1.html"
+			],
+			[
+				"step1/a",
+				"js/src/run/step1/app.js"
+			],
+			[
+				"upload/ap",
+				"js/src/upload/app.js"
+			],
+			[
+				"sy",
+				"js/src/lib/svg/symbol-defs.svg"
+			],
+			[
+				"svg.",
+				"js/src/lib/svg.js"
+			],
+			[
+				"config",
+				"js/src/lib/config.js"
+			],
+			[
+				"con",
+				"js/dist/config.js"
+			],
+			[
+				"new3.",
+				"new3.html"
+			],
+			[
+				"/step3/app",
+				"js/src/run/step3/app.js"
+			],
+			[
+				"upload",
+				"upload.html"
+			],
+			[
+				"nav/pro",
+				"js/src/nav/project.js"
+			],
+			[
+				"test/app",
+				"js/src/run/test/app.js"
+			],
+			[
+				"tests/a",
+				"js/src/run/tests/app.js"
+			],
+			[
+				"sv",
+				"js/src/lib/svg.js"
+			],
+			[
+				"log",
+				"login.html"
+			],
+			[
+				"nav/run",
+				"js/src/nav/run.js"
+			],
+			[
+				"/nav/project",
+				"js/src/nav/project.js"
+			],
+			[
+				"confi",
+				"js/dist/config.js"
+			],
+			[
+				"notify.",
+				"scss/uikit/components/notify.scss"
+			],
+			[
+				"not",
+				"js/components/notify.js"
+			],
+			[
+				"lib/no",
+				"js/src/lib/notify.js"
+			],
+			[
+				"noti",
+				"js/components/notify.js"
+			],
+			[
+				"function",
+				"js/jquery.function.js"
+			],
+			[
+				"nav/run.j",
+				"js/src/nav/run.js"
+			],
+			[
+				"nav/proje",
+				"js/src/nav/project.js"
+			],
+			[
+				"fun",
+				"js/jquery.function.js"
+			],
+			[
+				"step2/a",
+				"js/src/run/step2/app.js"
+			],
+			[
+				"new2",
+				"new2.html"
+			],
+			[
+				"list/",
+				"js/src/run/list/app.js"
+			],
+			[
+				"jquery",
+				"js/jquery.function.js"
+			],
+			[
+				"off",
+				"js/core/offcanvas.js"
+			],
+			[
+				"uiki",
+				"js/uikit.js"
+			],
+			[
+				"tool",
+				"js/components/tooltip.js"
+			],
+			[
+				"top.html",
+				"top.html"
+			],
+			[
+				"run/list/app",
+				"js/src/run/list/app.js"
+			],
+			[
+				"run/list/main",
+				"js/src/run/list/main.js"
+			],
+			[
+				"filter",
+				"js/dist/filter.js"
+			],
+			[
+				"step2/app",
+				"js/src/run/step2/app.js"
+			],
+			[
+				"nav/user",
+				"js/src/nav/user.js"
+			],
+			[
+				"nav/de",
+				"js/src/nav/devicepool.js"
+			],
+			[
+				"nav/",
+				"js/src/nav/project.js"
+			],
+			[
+				"uploa",
+				"js/components/upload.js"
+			],
+			[
+				"new1.h",
+				"new1.html"
+			],
+			[
+				"to",
+				"top.html"
+			],
+			[
+				"svg",
+				"js/src/lib/svg.js"
+			],
+			[
+				"proj",
+				"project.html"
+			],
+			[
+				"project.html",
+				"project.html"
+			],
+			[
+				"def.sv",
+				"svg/symbol-defs.svg"
+			],
+			[
+				"lib/noti",
+				"js/src/lib/notify.js"
+			],
+			[
+				"project",
+				"project.html"
+			],
+			[
+				"device.html",
+				"devices.html"
+			],
+			[
+				"webpack",
+				"webpack.config.js"
+			],
+			[
+				"tests",
+				"tests.html"
+			],
+			[
+				"page.js",
+				"js/src/lib/page.js"
+			],
+			[
+				"device/app.",
+				"js/src/run/device/app.js"
+			],
+			[
+				"quer",
+				"js/src/lib/query.js"
+			],
+			[
+				"query",
+				"js/src/lib/query.js"
+			],
+			[
+				"bar",
+				"js/src/lib/bar.js"
+			],
+			[
+				"function.",
+				"js/jquery.function.js"
+			],
+			[
+				"deviceapp",
+				"js/src/run/device/app.js"
+			],
+			[
+				"devi",
+				"devices.html"
+			],
+			[
+				"devic",
+				"devicepool.html"
+			],
+			[
+				"que",
+				"js/src/lib/query.js"
+			],
+			[
+				"web",
+				"webpack.config.js"
+			],
+			[
+				"t",
+				"top.html"
+			],
+			[
+				"holder",
+				"js/holder.js"
+			],
+			[
+				"webp",
+				"webpack.config.js"
+			],
+			[
+				"app_devi",
+				"js/src/run/app_device.js"
+			],
+			[
+				"app.js",
+				"js/src/run/app.js"
+			],
+			[
+				"is_",
+				"is_login.html"
+			],
+			[
+				"app.",
+				"js/src/run/app.js"
+			],
+			[
+				"project/main",
+				"js/src/project/main.js"
+			],
+			[
+				"vue",
+				"node_modules/vue/dist/vue.js"
+			],
+			[
+				"lib/filter",
+				"js/src/lib/filter.js"
+			],
+			[
+				"func",
+				"js/jquery.function.js"
+			],
+			[
+				"we",
+				"webpack.config.js"
+			],
+			[
+				"frame",
+				"frame.html"
+			],
+			[
+				"new5",
+				"new5.html"
+			],
+			[
+				"new4",
+				"new4.html"
+			],
+			[
+				"new3",
+				"new3.html"
+			],
+			[
+				"test",
+				"test.html"
+			],
+			[
+				"page_tes",
+				"js/src/page_tests.js"
+			],
+			[
+				"",
+				"suites.html"
+			],
+			[
+				"page_de",
+				"js/src/page_devices.js"
+			],
+			[
+				"proje",
+				"project.html"
+			],
+			[
+				"nav_",
+				"js/src/nav_project.js"
+			],
+			[
+				"de",
+				"devicepool.html"
+			],
+			[
+				"page_",
+				"js/src/page_project.js"
+			],
+			[
+				"frame.h",
+				"frame.html"
+			],
+			[
+				"run",
+				"js/src/nav_run.js"
+			],
+			[
+				"navrun",
+				"js/src/nav_run.js"
+			],
+			[
+				"cogni",
+				"js/src/cognito.js"
+			],
+			[
+				"main",
+				"js/src/main.js"
+			],
+			[
+				"uikitvai",
+				"scss/uikit/uikit-variables.scss"
+			],
+			[
+				"vari",
+				"scss/uikit/uikit-variables.scss"
+			],
+			[
+				"offcanvas",
+				"scss/uikit/core/offcanvas.scss"
+			],
+			[
+				"icon",
+				"scss/uikit/core/icon.scss"
+			],
+			[
+				"icons",
+				"scss/uikit/core/icon.scss"
+			],
+			[
+				"form",
+				"js/components/form-password.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"spinner",
+				"uk-icon-spinner"
+			],
+			[
+				"uk-container",
+				"uk-container"
+			],
+			[
+				"uk-ac",
+				"uk-accordion-content"
+			],
+			[
+				"uk-accor",
+				"uk-accordion-title"
+			],
+			[
+				"uk-animation-top",
+				"uk-animation-slide-top"
+			],
+			[
+				"uk-animation",
+				"uk-animation-fade"
+			],
+			[
+				"filter",
+				"filter"
+			],
+			[
+				"uk-margin",
+				"uk-margin-large"
+			],
+			[
+				"formatDa",
+				"formatDate"
+			],
+			[
+				"uk-table-mi",
+				"uk-table-middle"
+			],
+			[
+				"uk-blo",
+				"uk-block"
+			],
+			[
+				"uk-margin-bottom",
+				"uk-margin-large-bottom"
+			],
+			[
+				"uk-flex-column",
+				"uk-flex-column"
+			],
+			[
+				"uk-active",
+				"uk-active"
+			],
+			[
+				"uk-icon-caret",
+				"uk-icon-caret-down"
+			],
+			[
+				"uk-icon",
+				"uk-icon"
+			],
+			[
+				"uk-fle",
+				"uk-flex"
+			],
+			[
+				"uk-icon-chevo",
+				"uk-icon-chevron-left"
+			],
+			[
+				"fade",
+				"uk-animation-fade"
+			],
+			[
+				"uk-open",
+				"uk-open"
+			],
+			[
+				"dvp-devi",
+				"dvp-device-table"
+			],
+			[
+				"grid",
+				"make-grid-columns"
+			],
+			[
+				"btn-",
+				"btn-lg"
+			],
+			[
+				"tool",
+				"Tooltip"
+			],
+			[
+				"nav-tabs",
+				"nav-tabs"
+			],
+			[
+				"table-re",
+				"table-responsive"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"c-indicator",
+				"c-indicator"
+			],
+			[
+				"table-row-variant",
+				"table-row-variant"
+			],
+			[
+				"table-success",
+				"table-success"
+			],
+			[
+				"body",
+				"body"
+			],
+			[
+				"thead-inverse",
+				"thead-inverse"
+			],
+			[
+				"alert-va",
+				"alert-variant"
+			],
+			[
+				"alert",
+				"alert"
+			],
+			[
+				"bodr",
+				"border-radius"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"sele",
+				"select"
+			],
+			[
+				"btn",
+				"btn-secondary"
+			],
+			[
+				"button",
+				"Button"
+			],
+			[
+				"input",
+				"input-group"
+			],
+			[
+				"table",
+				"table-responsive"
+			],
+			[
+				"size",
+				"size"
+			],
+			[
+				"clear",
+				"clearfix"
+			],
+			[
+				"hori",
+				"dl-horizontal"
+			],
+			[
+				"font",
+				"font-weight-normal"
+			],
+			[
+				"radiu",
+				"border-radius"
+			],
+			[
+				"bread",
+				"breadcrumb"
+			],
+			[
+				"box-shadow",
+				"box-shadow"
+			],
+			[
+				"box-",
+				"box-shadow"
+			]
+		],
+		"width": 458.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

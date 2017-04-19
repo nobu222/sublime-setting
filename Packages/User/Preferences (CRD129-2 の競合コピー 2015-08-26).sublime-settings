@@ -1,0 +1,15 @@
+{
+	"close_windows_when_empty": true,
+	"color_scheme": "Packages/User/SublimeLinter/base16-eighties.dark (SL).tmTheme",
+	"disable_formatted_linebreak": true,
+	"disable_tab_abbreviations": true,
+	"draw_white_space": "all",
+	"font_size": 15,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"WordPress"
+	],
+	"word_wrap": false
+}

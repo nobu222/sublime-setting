@@ -1,0 +1,2056 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"uk-ali",
+				"uk-align-center 	UIkit class"
+			],
+			[
+				"uk-width-1",
+				"uk-width-1-10 	UIkit class"
+			],
+			[
+				"uk-width-1-10",
+				"uk-width-1-10 	UIkit class"
+			],
+			[
+				"uk-grid",
+				"uk-grid 	UIkit class"
+			],
+			[
+				"uk-width",
+				"uk-width-1-6 	UIkit class"
+			],
+			[
+				"uk-width-4-",
+				"uk-width-4-5 	UIkit class"
+			],
+			[
+				"uk-align-",
+				"uk-align-left	(style.css)"
+			],
+			[
+				"uk-icon",
+				"uk-icon-large 	UIkit class"
+			],
+			[
+				"uk-floa",
+				"uk-float-right	(style.css)"
+			],
+			[
+				"uk-wid",
+				"uk-width	(top.html)"
+			],
+			[
+				"uk-width-",
+				"uk-width-4-5	(new2.html)"
+			],
+			[
+				"uk-width-1-",
+				"uk-width-1-4	(style.css)"
+			],
+			[
+				"uk-pull-1",
+				"uk-pull-1-3	(style.css)"
+			],
+			[
+				"uk-form",
+				"uk-form-controls"
+			],
+			[
+				"uk-form-",
+				"uk-form-label	(new1.html)"
+			],
+			[
+				"uk-bu",
+				"uk-button-link 	UIkit class"
+			],
+			[
+				"data-uk-g",
+				"data-uk-grid-match 	 UIkit uk-data"
+			],
+			[
+				"t",
+				"tooltip.js"
+			],
+			[
+				"script",
+				"script	HTML - Script"
+			],
+			[
+				"uk-pan",
+				"uk-panel-box 	UIkit class"
+			],
+			[
+				"uk-form-wid",
+				"uk-form-width-large	(style.css)"
+			],
+			[
+				"uk-panebo",
+				"uk-panel-body	(top.html)"
+			],
+			[
+				"uk-button",
+				"uk-button-primary 	UIkit class"
+			],
+			[
+				"data-uk-grid",
+				"data-uk-grid-margin	(index.html)"
+			],
+			[
+				"uk-pane",
+				"uk-panel-body 	UIkit class"
+			],
+			[
+				"uk-",
+				"uk-grid"
+			],
+			[
+				"dvp-run-",
+				"dvp-run-top	(style_old.scss)"
+			],
+			[
+				"dvp-conten",
+				"dvp-content-main	(style_old.scss)"
+			],
+			[
+				"div",
+				"uk-nav-divider 	UIkit class"
+			],
+			[
+				"na",
+				"uk-nav-side 	UIkit class"
+			],
+			[
+				"pure-ta",
+				"pure-table-bordered	(pure.css)"
+			],
+			[
+				"paddin",
+				"padding: 〔property〕"
+			],
+			[
+				"pure-u",
+				"pure-u-1"
+			],
+			[
+				"clear",
+				"clearfix	(press-this-rtl.css)"
+			],
+			[
+				"padding",
+				"padding: 〔property〕"
+			],
+			[
+				"back",
+				"background-color	(pure.css)"
+			],
+			[
+				"su",
+				"summer_school.png	w:855 h:88"
+			],
+			[
+				"scrip",
+				"script	HTML - Script"
+			],
+			[
+				"wr",
+				"writeln〔function〕"
+			],
+			[
+				"hold",
+				"holder.js/300x110	(overview.html)"
+			],
+			[
+				"lage",
+				"labelString"
+			],
+			[
+				"query",
+				"querySelector	(Chart.js)"
+			],
+			[
+				"run",
+				"runCircle"
+			],
+			[
+				"ctx",
+				"ctxRun"
+			],
+			[
+				"addEven",
+				"addEventListener	(Chart.js)"
+			],
+			[
+				"animat",
+				"animation"
+			],
+			[
+				"performanceMem",
+				"performanceMemChart"
+			],
+			[
+				"perfor",
+				"performanceCPUChart"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"ct",
+				"ctxFPS"
+			],
+			[
+				"data",
+				"datasets"
+			],
+			[
+				"per",
+				"performanceCPU"
+			],
+			[
+				"option",
+				"options"
+			],
+			[
+				"device",
+				"deviceBarData"
+			],
+			[
+				"uni",
+				"unit"
+			],
+			[
+				"devi",
+				"deviceBar"
+			],
+			[
+				"can",
+				"canvas	Tag"
+			],
+			[
+				"scri",
+				"script	HTML - Script"
+			],
+			[
+				"ba",
+				"bar-graph2.png	w:440 h:25"
+			],
+			[
+				"btn-",
+				"btn-primary"
+			],
+			[
+				"demo",
+				"demo_undotsushin.ipa"
+			],
+			[
+				"the",
+				"thead-inverse	_tables.scss"
+			],
+			[
+				"sum",
+				"submit	(_normalize.scss)"
+			],
+			[
+				"create",
+				"create_device_pool"
+			],
+			[
+				"create-",
+				"create-device-pool	(new3.html)"
+			],
+			[
+				"img_icon_info",
+				"img_icon_info_lg.png	(_variables.scss)"
+			],
+			[
+				"img_icon_su",
+				"img_icon_success_lg.png	w:23 h:23"
+			],
+			[
+				"create_",
+				"create_next"
+			],
+			[
+				"create-steps",
+				"create-steps-prev	(new2.html)"
+			],
+			[
+				"new",
+				"new1.html"
+			],
+			[
+				"css",
+				"css	.css() - single"
+			],
+			[
+				"dvp-uplo",
+				"dvp-form-upload-test	(new2.html)"
+			],
+			[
+				"doc",
+				"document〔variable〕"
+			],
+			[
+				"aria",
+				"aria-controls	(index.html)"
+			],
+			[
+				"chan",
+				"changeImageSize"
+			],
+			[
+				"remo",
+				"removeClass	.removeClass()"
+			],
+			[
+				"cl",
+				"cl	console.log"
+			],
+			[
+				"scro",
+				"scrollTop	.scrollTop()"
+			],
+			[
+				"src_",
+				"src_array"
+			],
+			[
+				"attr",
+				"attr	.attr() - single"
+			],
+			[
+				"unde",
+				"undefined〔keyword〕"
+			],
+			[
+				"image",
+				"image_map"
+			],
+			[
+				"sr",
+				"src_map"
+			],
+			[
+				"slide",
+				"slideDown	.slideDown()"
+			],
+			[
+				"toggle_na",
+				"toggle_nav_list"
+			],
+			[
+				"toggle_nav",
+				"toggle_nav_list"
+			],
+			[
+				"has",
+				"hasClass	.hasClass()"
+			],
+			[
+				"togg",
+				"toggle_nav"
+			],
+			[
+				"glo",
+				"global__toggle__nav_list	(index.html)"
+			],
+			[
+				"cli",
+				"click	.click()"
+			],
+			[
+				"toggle_",
+				"toggle_nav_icon"
+			],
+			[
+				"globa",
+				"global__toggle__nav_icon	(index.html)"
+			],
+			[
+				"一億とおりの輝き",
+				"一億とおりの輝き方を支援します。"
+			],
+			[
+				"pre",
+				"prevention"
+			],
+			[
+				"life",
+				"life/"
+			],
+			[
+				"img",
+				"img_arrow_3.png	w:581 h:60"
+			],
+			[
+				"e",
+				"economics"
+			],
+			[
+				"im",
+				"img_2.jpg	w:580 h:341"
+			],
+			[
+				"content",
+				"contents	(_layout.scss)"
+			],
+			[
+				"eco",
+				"economics/"
+			],
+			[
+				"small",
+				"small__text"
+			],
+			[
+				"b",
+				"btn_pagetop_sp.png	w:80 h:80"
+			],
+			[
+				"logo",
+				"logo.png	w:234 h:106"
+			],
+			[
+				"hea",
+				"header	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/n-futagami/_Project/uikit/source/top.html",
+			"settings":
+			{
+				"buffer_size": 27512,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/uikit/source/new1.html",
+			"settings":
+			{
+				"buffer_size": 7582,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/uikit/source/new2.html",
+			"settings":
+			{
+				"buffer_size": 11185,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/uikit/source/new3.html",
+			"settings":
+			{
+				"buffer_size": 17367,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/uikit/source/scss/uikit/core/panel.scss",
+			"settings":
+			{
+				"buffer_size": 9804,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/uikit/source/scss/uikit/core/breadcrumb.scss",
+			"settings":
+			{
+				"buffer_size": 2061,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/new3.html",
+			"settings":
+			{
+				"buffer_size": 17367,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/uikit/source/scss/style.scss",
+			"settings":
+			{
+				"buffer_size": 12567,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/uikit/source/scss/uikit/core/button.scss",
+			"settings":
+			{
+				"buffer_size": 11647,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/uikit/source/js/jquery.function.js",
+			"settings":
+			{
+				"buffer_size": 11507,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/uikit/source/scss/uikit/core/nav.scss",
+			"settings":
+			{
+				"buffer_size": 12906,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/uikit/source/scss/uikit/uikit-variables.scss",
+			"settings":
+			{
+				"buffer_size": 55061,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/uikit/source/scss/uikit/core/table.scss",
+			"settings":
+			{
+				"buffer_size": 3507,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/uikit/source/css/style.css",
+			"settings":
+			{
+				"buffer_size": 1096478,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/uikit/source/scss/uikit/core/utility.scss",
+			"settings":
+			{
+				"buffer_size": 14232,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "prett",
+		"selected_items":
+		[
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"minimap",
+				"View: Toggle Minimap"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"listpa",
+				"Package Control: List Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"block",
+				"Toggle Block Comment"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"addpro",
+				"Project Manager: Add Project"
+			],
+			[
+				"jquery",
+				"Snippet: HTML - Include jQuery"
+			],
+			[
+				"jqu",
+				"Snippet: HTML - Include jQuery"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"new",
+				"ANF: New File"
+			],
+			[
+				"blo",
+				"Toggle Block Comment"
+			],
+			[
+				"cop",
+				"ANF: Copy Current File"
+			],
+			[
+				"bloc",
+				"Toggle Block Comment"
+			],
+			[
+				"",
+				"ANF: Copy Current File"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"copy",
+				"ANF: Copy Current File"
+			],
+			[
+				"copycu",
+				"ANF: Copy Current File"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"jquer",
+				"Snippet: jQuery(document).ready"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"commen",
+				"Toggle Comment"
+			],
+			[
+				"p",
+				"Project Manager"
+			],
+			[
+				"shel",
+				"ShellCommand"
+			],
+			[
+				"pwd",
+				"Project Manager: Open Project in New Window"
+			],
+			[
+				"proje",
+				"Project Manager"
+			],
+			[
+				"termi",
+				"Terminal: Open"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"tarnsi",
+				"Snippet: transition"
+			],
+			[
+				"inclu",
+				"Snippet: @include"
+			],
+			[
+				"include",
+				"Snippet: @include"
+			],
+			[
+				"includ",
+				"Snippet: @include"
+			],
+			[
+				"smoo",
+				"Snippet: font-smooth"
+			],
+			[
+				"mixi",
+				"Snippet: @mixin"
+			],
+			[
+				"exten",
+				"Snippet: @extend"
+			],
+			[
+				"extend",
+				"Snippet: @extend"
+			]
+		],
+		"width": 492.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/n-futagami/_Project/uikit/source",
+		"/Users/n-futagami/_Project/uikit/source/js",
+		"/Users/n-futagami/_Project/uikit/source/scss",
+		"/Users/n-futagami/_Project/uikit/source/scss/uikit"
+	],
+	"file_history":
+	[
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/new2.html",
+		"/Users/n-futagami/_Project/uikit/source/scss/uikit/core/base.scss",
+		"/Users/n-futagami/_Project/uikit/source/scss/uikit/uikit-mixins.scss",
+		"/Users/n-futagami/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/n-futagami/_Project/uikit/source/js/core/utility.js",
+		"/Users/n-futagami/_Project/uikit/source/index.html",
+		"/Users/n-futagami/_Project/uikit/source/scss/uikit/uikit.scss",
+		"/Users/n-futagami/_Project/uikit/source/style_old.scss",
+		"/Users/n-futagami/_Project/uikit/source/scss/uikit/uikit-variables.scss",
+		"/Users/n-futagami/_Project/uikit/source/scss/uikit/core/variables.scss",
+		"/Users/n-futagami/_Project/uikit/source/tests/overview.html",
+		"/Users/n-futagami/Dropbox/松誠館_データ/html/css/pure/pure.css",
+		"/Users/n-futagami/Dropbox/松誠館_データ/html/css/pure/pure-min.css",
+		"/Users/n-futagami/Dropbox/松誠館_データ/html/css/main.css",
+		"/Users/n-futagami/_Project/uikit/source/js/uikit.js",
+		"/Users/n-futagami/_Project/uikit/source/tests/core/alert.html",
+		"/Users/n-futagami/_Project/uikit/source/scss/style.scss",
+		"/Users/n-futagami/_Project/uikit/source/js/components/lightbox.js",
+		"/Users/n-futagami/_Project/uikit/source/tests/index.html",
+		"/Users/n-futagami/_Project/uikit/source/css/style.css",
+		"/Users/n-futagami/_Project/uikit/source/scss/uikit-variables.scss",
+		"/Users/n-futagami/_Project/uikit/source/scss/uikit.scss",
+		"/Users/n-futagami/_Project/uikit/source/scss/core/tab.scss",
+		"/Users/n-futagami/_Project/uikit/source/scss/uikit-mixins.scss",
+		"/Users/n-futagami/_Project/uikit/source/scss/core/variables.scss",
+		"/Users/n-futagami/_Project/uikit/source/scss/components/autocomplete.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/_breadcrumb.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/_type.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/_buttons.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/mixins/_table-row.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/mixins/_alert.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/_alert.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/_variables.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/_modal.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/_mixins.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/_nav.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/style.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/js/Chart.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/_reboot.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/_normalize.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/bootstrap.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/_button-group.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/_custom-forms.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/mixins/_grid.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/new1.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/_tables.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/new2.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/new3.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/new4.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/new5.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/js/jquery.function.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/suites.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/devices.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/top.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/mixins/_border-radius.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/mixins/_grid-framework.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/js/bs/umd/tab.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/_grid.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/_forms.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/mixins/_forms.scss",
+		"/Users/n-futagami/Dropbox/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/mixins/_size.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/_utilities.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/scss/_dropdown.scss",
+		"/Users/n-futagami/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/css/style.css",
+		"/Users/n-futagami/_Project/Devicepack/07_web/source/index.html",
+		"/Users/n-futagami/Library/Application Support/Sublime Text 3/Packages/User/Projects/IDG-futagami/Dash-Docset-Creator.sublime-project",
+		"/Users/n-futagami/_Project/Devicepack/07_web/gulpfile.js",
+		"/Users/n-futagami/_Project/chartjs_demo/source/index.html",
+		"/Users/n-futagami/_Project/D_limret_Jimin/07_web/SP/source/sass/style.scss",
+		"/Users/n-futagami/_Project/D_limret_Jimin/07_web/SP/source/sass/_main.scss",
+		"/Users/n-futagami/_Project/D_limret_Jimin/07_web/SP/source/diplomacy/index.html",
+		"/Users/n-futagami/_Project/D_limret_Jimin/07_web/SP/source/economics/index.html",
+		"/Users/n-futagami/_Project/D_limret_Jimin/07_web/SP/source/index.html",
+		"/Users/n-futagami/_Project/D_limret_Jimin/07_web/SP/source/gdp/index.html",
+		"/Users/n-futagami/_Project/D_limret_Jimin/07_web/SP/source/life/index.html",
+		"/Users/n-futagami/_Project/D_limret_Jimin/07_web/SP/source/local/index.html",
+		"/Users/n-futagami/_Project/D_limret_Jimin/07_web/SP/source/message/index.html",
+		"/Users/n-futagami/_Project/D_limret_Jimin/07_web/SP/source/prevention/index.html",
+		"/Users/n-futagami/_Project/D_limret_Jimin/07_web/SP/source/society/index.html",
+		"/Users/n-futagami/_Project/D_limret_Jimin/07_web/SP/source/js/jquery.function.js",
+		"/Users/n-futagami/_Project/D_limret_Jimin/07_web/SP/source/sass/_layout.scss",
+		"/Users/n-futagami/_Project/D_limret_Jimin/07_web/SP/source/css/style.css",
+		"/Users/n-futagami/_Project/D_limret_Jimin/07_web/SP/source/css/source/css/style.css.map",
+		"/Users/n-futagami/_Project/D_limret_Jimin/07_web/SP/source/css/style.css.map",
+		"/Users/n-futagami/_Project/D_limret_Jimin/07_web/SP/source/sass/_setting.scss",
+		"/Users/n-futagami/_Project/D_limret_Jimin/07_web/SP/source/sass/_reset.scss",
+		"/Users/n-futagami/_Project/D_limret_Jimin/07_web/SP/source/sass/_mixin.scss",
+		"/Users/n-futagami/_Project/D_limret_Jimin/07_web/SP/source/trade/index.html",
+		"/Users/n-futagami/_Project/D_limret_Jimin/07_web/SP/source/disaster/index.html",
+		"/Users/n-futagami/_Project/D_limret_Jimin/07_web/SP/gulpfile.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 473.0,
+		"where_history":
+		[
+			"<open folders>,*scss",
+			"<open folders>,*html",
+			"<open folders>",
+			"<open folders>,*.scss",
+			"<open folders>,*.html",
+			"<open folders>,*.scss",
+			"<open folders>,.scss",
+			"<open folders>",
+			"<open folders>,*html",
+			"<open folders>",
+			"<open folders>,*html",
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"button",
+			"30",
+			"gray",
+			".3",
+			"success\n",
+			"Devicepool",
+			"                            ",
+			" class=\"uk-form-width-large\"",
+			"form-",
+			"readonly",
+			"lighter",
+			"button",
+			"include",
+			"primary",
+			" !default",
+			"primary",
+			"<label",
+			"a",
+			"button",
+			"a",
+			"@",
+			"$font-size-sm",
+			"$font-size-lg",
+			"$grid-gutter-width",
+			"!default",
+			"primary",
+			"hook-base-hr",
+			"<li>",
+			"li",
+			"document",
+			"background",
+			"300px",
+			"\n        ",
+			"clearfix",
+			"font-size",
+			"div",
+			"<title>.*</title>",
+			"<title>",
+			"17px",
+			" uk-nav-side",
+			"13px",
+			"background",
+			"project",
+			"main",
+			"208px",
+			"class=\"uk-panel ",
+			"class=\"uk-panel",
+			"uk-panel",
+			"card-block",
+			"body",
+			"card-header",
+			"                        </div>\n                        <div class=\"card dvp-run-unit one\">\n",
+			"active",
+			" uk-nav-header",
+			"top.html",
+			"#",
+			"div",
+			"公立上位高校を目指したい、成績を上げたい、ライバルに差をつけたいなど、本気で勉強したい中学生はぜひ松誠館で一緒に勉強しましょう！",
+			" ",
+			"clear",
+			"/*!",
+			"img",
+			"h2",
+			"path",
+			"password",
+			"js",
+			"stylesheet",
+			"styles",
+			"src/",
+			"\"",
+			"hook-tab-misc",
+			"hook-base-body",
+			"callback",
+			"Starter Template for Bootstrap",
+			"\"#22969d\", \"#e6779e\", \"#efc71f\"",
+			"7",
+			"4",
+			"13",
+			"red",
+			"green",
+			"180",
+			"var",
+			"runCircle12",
+			"runCircle1",
+			"<div class=\"dvp-run-graph\">\n                                    <img src=\"img/share/dummy__graph_dounuts.png\" alt=\"\">\n                                </div>",
+			"130",
+			"20",
+			"45",
+			"left",
+			"152",
+			"125",
+			"100",
+			"scaleLabel",
+			".labelString",
+			"Memory",
+			"setConfig()",
+			"true",
+			"ture",
+			"false",
+			"e",
+			"chart",
+			"height",
+			"canvas",
+			"150",
+			"function",
+			"runCircle",
+			"performanceCPUChart",
+			"config",
+			"ture",
+			"this",
+			",",
+			"C",
+			"true",
+			"time",
+			"Value",
+			"label",
+			"datasets",
+			"jquer",
+			"bar",
+			"tooltips",
+			"hoverBackgroundColor",
+			"backgroundColor",
+			"100",
+			"categoryPercentage",
+			"e05485",
+			"e",
+			"success",
+			"breadcrumb"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"Devicepack demo",
+			" id=\"main\" class=\"main\"",
+			"<div class=\"panel panel-default dvp-list-project\">\n                <div class=\"panel-heading\" role=\"tab\" id=\"headingOne\">\n                    <h4 class=\"panel-title\">\n                      <a data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseOne\" aria-expanded=\"false\" aria-controls=\"collapseOne\" class=\"collapsed\">\n                        プロジェクト\n                      </a>\n                    </h4>\n                </div>\n                <div id=\"collapseOne\" class=\"panel-collapse collapse\" role=\"tabpanel\" aria-labelledby=\"headingOne\" aria-expanded=\"false\" style=\"height: 0px;\">\n                    <ul class=\"nav dvp-side-subnav\">\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link\" href=\"top.html\">demo project</a>\n                        </li>\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link\" href=\"top.html\">demo project</a>\n                        </li>\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link disabled\" href=\"top.html\">&gt;&gt;ランの詳細を見る</a>\n                        </li>\n                    </ul>\n                </div>\n            </div>\n            <div class=\"panel panel-default dvp-list-run\">\n                <div class=\"panel-heading\" role=\"tab\" id=\"headingTwo\">\n                    <h4 class=\"panel-title\">\n                      <a class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">\n                        ラン\n                      </a>\n                    </h4>\n                </div>\n                <div id=\"collapseTwo\" class=\"panel-collapse collapse\" role=\"tabpanel\" aria-labelledby=\"headingTwo\">\n                    <ul class=\"nav dvp-side-subnav\">\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link\" href=\"#\">demo_undotsushin.ipa</a>\n                        </li>\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link\" href=\"#\">demo_undotsushin.ipa</a>\n                        </li>\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link disabled\" href=\"#\">&gt;&gt;ランの詳細を見る</a>\n                        </li>\n                    </ul>\n                </div>\n            </div>",
+			"<a href=\"./new1.html\">ランの新規作成</a>",
+			"col-lg-",
+			"            <a class=\"global__toggle__nav_icon\" href=\"#\" aria-expanded=\"false\" aria-controls=\"navlist\"><img class=\"menu\" src=\"../img/btn_menu_sp.png\" alt=\"menu\"><img class=\"close\" src=\"../img/btn_close_sp.png\" alt=\"close\"></a>\n            <nav id=\"navlist\" class=\"global__toggle__nav_list\" aria-expanded=\"true\">",
+			"<a href=\"https://www.jimin.jp/\" target=\"_blank\"><span class=\"nw\">自民党ホームページ</span></a>",
+			"                <ul class=\"child2__nav_list\">\n                    <li><a href=\"#\">政策BANK</a></li><!--\n                 --><!--<li><a href=\"#\">選挙公約2016（PDF）</a></li>--><!--\n                 --><li><a href=\"#\">政策パンフレット2016（PDF）</a></li><!--\n                 --><!--<li><a href=\"#\">こどもマニフェスト（PDF）</a></li>--><!--\n                 --><li><a href=\"#\">都道府県別政策集</a></li><!--\n                 --><!--<li><a href=\"#\" target=\"_blank\"><span class=\"nw\">自民党参院選2016</span></a></li>--><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">自民党ホームページ</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">ネット選挙について</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">プライバシーポリシー</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">お問い合わせ</span></a></li><!--\n                 --><li class=\"nav__sns\">\n                 <ul>\n                 <li><a href=\"http://www.facebook.com/share.php\" onclick=\"window.open(encodeURI(decodeURI(this.href)), 'FBwindow', 'width=554, height=470, menubar=no, toolbar=no, scrollbars=yes'); return false;\" rel=\"nofollow\"><img src=\"../img/btn_fb.png\" alt=\"シェアする\"></a></li>\n                    <li><a href=\"http://twitter.com/share\" onClick=\"window.open(encodeURI(decodeURI(this.href)), 'tweetwindow', 'width=650, height=470, personalbar=0, toolbar=0, scrollbars=1, sizable=1'); return false;\" rel=\"nofollow\"><img src=\"../img/btn_tw.png\" alt=\"\"></a></li>\n                 </ul>\n                 </li>\n                </ul>",
+			"<meta name=\"twitter:title\" content=\"自民党政策サイト\" />",
+			"<meta property=\"og:title\" content=\"自民党政策サイト\" />",
+			"<!-- *** OGP *** -->\n<meta property=\"og:title\" content=\"自由民主党\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:image\" content=\"https://www.jimin.jp/common/img/facebook-lbdems.jpg\" />\n<meta property=\"og:url\" content=\"https://special.jimin.jp/political_promise/\" />\n\n<meta name=\"twitter:title\" content=\"自由民主党\" />\n<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@jimin_koho\" />\n<meta name=\"twitter:description\" content=\"「この道を。力強く、前へ。」自民党の政策サイトです。道半ばではありますが、アベノミクスは確実に「結果」を生み出しています。この道を、力強く、前へ、進んで行こうではありませんか。 国民の皆様と共に,「誇りある日本」を取り戻すために。\" />\n<meta name=\"twitter:image\" content=\"https://www.jimin.jp/common/img/twitter-lbdems.jpg\" />\n<meta property=\"twitter:account_id\" content=\"58359180\" />\n",
+			"https://special.jimin.jp/political_promise/",
+			"<script>\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');\n  ga('create', 'UA-41065878-7', 'auto');\n  ga('send', 'pageview');\n</script>\n</body>\n",
+			"                 --><!--<li><a href=\"#\" target=\"_blank\"><span class=\"nw\">自民党参院選2016</span></a></li>--><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">自民党ホームページ</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">ネット選挙について</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">プライバシーポリシー</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">お問い合わせ</span></a></li>",
+			"                 --><!--<li><a href=\"#\" target=\"_blank\">自民党参院選2016<span class=\"nw\"></span></a></li>--><!--\n                 --><li><a href=\"#\" target=\"_blank\">自民党ホームページ<span class=\"nw\"></span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">ネット選挙について<span class=\"nw\"></span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">プライバシーポリシー<span class=\"nw\"></span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">お問い合わせ<span class=\"nw\"></span></a></li>",
+			"",
+			"都道府県別政策集",
+			"<div class=\"global__toggle__nav_icon\"><a href=\"#global__toggle__nav\"><img class=\"menu\" src=\"../img/btn_menu_sp.png\" alt=\"menu\"><img class=\"close\" src=\"../img/btn_close_sp.png\" alt=\"close\"></a></div>",
+			"<title>｜自民党政策サイト</title>",
+			"                <ul class=\"child2__nav_list\">\n                    <li><a href=\"#\">政策BANK</a></li><!--\n                 --><!--<li><a href=\"#\">選挙公約2016（PDF）</a></li>--><!--\n                 --><li><a href=\"#\">政策パンフレット2016（PDF）</a></li><!--\n                 --><!--<li><a href=\"#\">こどもマニフェスト（PDF）</a></li>--><!--\n                 --><li><a href=\"#\">都道府県別政策集（PDF）</a></li><!--\n                 --><!--<li><a href=\"#\" target=\"_blank\">自民党参院選2016</a></li>--><!--\n                 --><li><a href=\"#\" target=\"_blank\">自民党ホームページ</a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">ネット選挙について</a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">プライバシーポリシー</a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">お問い合わせ</a></li>\n                </ul>",
+			"\n<title>自由民主党</title>\n",
+			"",
+			"<title>自由民主党</title>",
+			"<title>siteName</title>\n\n<!-- *** OGP *** -->\n<meta property=\"og:title\" content=\"自由民主党\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:image\" content=\"https://www.jimin.jp/common/img/facebook-lbdems.jpg\" />\n<meta property=\"og:url\" content=\"https://www.jimin.jp/election/results/sen_san24/political_promise/\" />",
+			"<meta name=\"description\" content=\"「この道を。力強く、前へ。」自民党の政策サイトです。道半ばではありますが、アベノミクスは確実に「結果」を生み出しています。この道を、力強く、前へ、進んで行こうではありませんか。 国民の皆様と共に,「誇りある日本」を取り戻すために。\">\n<meta name=\"keywords\" content=\"自民党,自由民主党,自民,安倍晋三,アベノミクス,経済,外交,一億総活躍,3本の矢,地方創生,18歳選挙,女性活躍,子育て,介護,高齢者,若者,中小企業,農業,TPP,外国人,復興,奨学金,就職,保育,医療,教育,環境,エネルギー,労働\">",
+			"id=\"pageup",
+			"<script src=\"../js/jquery.function.js\"></script>",
+			"<script src=\"../js/jquery.easing.1.3.js\"></script>",
+			"<a id=\"#pageup\" href=\"#\">",
+			"<a class=\"logo\" href=\"../../index.html\">",
+			"<a class=\"logo\" href=\"../index.html\">",
+			"../prevention",
+			"/img/diplomacy",
+			"../diplomacy",
+			"small",
+			"<a href=\"../society/index.html\">さあ、一億総活躍社会へ！</a>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/n-futagami/_Project/uikit/source/top.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 27512,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5712,
+								5712
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"history_list_is_closing": true,
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"is_xml": false,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": false
+						},
+						"translation.x": 260.0,
+						"translation.y": 1563.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/n-futagami/_Project/uikit/source/new1.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7582,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3603,
+								3603
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": false
+						},
+						"translation.x": 305.0,
+						"translation.y": 774.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/n-futagami/_Project/uikit/source/new2.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11185,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5881,
+								5881
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": false
+						},
+						"translation.x": 109.0,
+						"translation.y": 328.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/n-futagami/_Project/uikit/source/new3.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17367,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7461,
+								7461
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": false
+						},
+						"translation.x": 3.0,
+						"translation.y": 2055.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/n-futagami/_Project/uikit/source/scss/uikit/core/panel.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9804,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5782,
+								5782
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2829.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/n-futagami/_Project/uikit/source/scss/uikit/core/breadcrumb.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2061,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1795,
+								1795
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"sftp_duplicate_views": 0,
+							"synced": false,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"file": "/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/new3.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17367,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17367,
+								17367
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4664.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/n-futagami/_Project/uikit/source/scss/style.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12567,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11371,
+								11371
+							]
+						],
+						"settings":
+						{
+							"auto_indent": true,
+							"history_list_is_closing": true,
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": true,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 7096.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/n-futagami/_Project/uikit/source/scss/uikit/core/button.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11647,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11066,
+								11084
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 6104.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/n-futagami/_Project/uikit/source/js/jquery.function.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11507,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10610,
+								10610
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5548.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Users/n-futagami/_Project/uikit/source/scss/uikit/core/nav.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12906,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								779,
+								779
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/Users/n-futagami/_Project/uikit/source/scss/uikit/uikit-variables.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 55061,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								33442,
+								33465
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 11045.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/Users/n-futagami/_Project/uikit/source/scss/uikit/core/table.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3507,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3203,
+								3203
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1134.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/Users/n-futagami/_Project/uikit/source/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1096478,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								157191,
+								157191
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 171456.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/Users/n-futagami/_Project/uikit/source/scss/uikit/core/utility.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14232,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1178,
+								1144
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/n-futagami/_Project/uikit/source/scss/uikit/core/breadcrumb.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2061,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"sftp_duplicate_views": 0,
+							"synced": false,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "Devicepack-uikit.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"new",
+				"new3.html"
+			],
+			[
+				"button",
+				"scss/uikit/core/button.scss"
+			],
+			[
+				"table",
+				"scss/uikit/core/table.scss"
+			],
+			[
+				"nav.",
+				"scss/uikit/core/nav.scss"
+			],
+			[
+				"jq",
+				"js/jquery.function.js"
+			],
+			[
+				"uti",
+				"scss/uikit/core/utility.scss"
+			],
+			[
+				"uikit",
+				"scss/uikit/uikit.scss"
+			],
+			[
+				"bead",
+				"scss/uikit/core/breadcrumb.scss"
+			],
+			[
+				"mixi",
+				"scss/uikit/uikit-mixins.scss"
+			],
+			[
+				"bread",
+				"scss/uikit/core/breadcrumb.scss"
+			],
+			[
+				"mixins",
+				"scss/uikit/uikit-mixins.scss"
+			],
+			[
+				"uikit/var",
+				"scss/uikit/uikit-variables.scss"
+			],
+			[
+				"var",
+				"scss/uikit/core/variables.scss"
+			],
+			[
+				"style_ol",
+				"scss/style_old.scss"
+			],
+			[
+				"over",
+				"tests/overview.html"
+			],
+			[
+				"t",
+				"top.html"
+			],
+			[
+				"main.",
+				"css/main.css"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"o",
+				"tests/overview.html"
+			],
+			[
+				"chart",
+				"js/Chart.js"
+			],
+			[
+				"fun",
+				"js/jquery.function.js"
+			],
+			[
+				"function",
+				"js/jquery.function.js"
+			],
+			[
+				"new3",
+				"new3.html"
+			],
+			[
+				"new4",
+				"new4.html"
+			],
+			[
+				"top",
+				"top.html"
+			],
+			[
+				"reboot",
+				"scss/_reboot.scss"
+			],
+			[
+				"va",
+				"scss/_variables.scss"
+			],
+			[
+				"moda",
+				"scss/_modal.scss"
+			],
+			[
+				"table-or",
+				"scss/mixins/_table-row.scss"
+			],
+			[
+				"style",
+				"scss/style.scss"
+			],
+			[
+				"mixingri",
+				"scss/mixins/_grid.scss"
+			],
+			[
+				"func",
+				"js/jquery.function.js"
+			],
+			[
+				"grid",
+				"scss/mixins/_grid.scss"
+			],
+			[
+				"cus",
+				"scss/_custom-forms.scss"
+			],
+			[
+				"form",
+				"scss/_forms.scss"
+			],
+			[
+				"s",
+				"scss/style.scss"
+			],
+			[
+				"reb",
+				"scss/_reboot.scss"
+			],
+			[
+				"nor",
+				"scss/_normalize.scss"
+			],
+			[
+				"boot",
+				"scss/bootstrap.scss"
+			],
+			[
+				"varie",
+				"scss/_variables.scss"
+			],
+			[
+				"style.",
+				"scss/style.scss"
+			],
+			[
+				"main",
+				"sass/_main.scss"
+			],
+			[
+				"scss",
+				"sass/_main.scss"
+			],
+			[
+				"lay",
+				"sass/_layout.scss"
+			],
+			[
+				"pre",
+				"prevention/index.html"
+			],
+			[
+				"local",
+				"local/index.html"
+			],
+			[
+				"life",
+				"life/index.html"
+			],
+			[
+				"trade",
+				"trade/index.html"
+			],
+			[
+				"econo",
+				"economics/index.html"
+			],
+			[
+				"sass",
+				"sass/_setting.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 87.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"hr",
+				"hook-base-hr"
+			],
+			[
+				"clearfix",
+				"uk-clearfix"
+			],
+			[
+				"panel",
+				"uk-panel"
+			],
+			[
+				"clear",
+				"clearfix"
+			],
+			[
+				"grid",
+				"make-grid-columns"
+			],
+			[
+				"btn-",
+				"btn-lg"
+			],
+			[
+				"tool",
+				"Tooltip"
+			],
+			[
+				"nav-tabs",
+				"nav-tabs"
+			],
+			[
+				"table-re",
+				"table-responsive"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"c-indicator",
+				"c-indicator"
+			],
+			[
+				"table-row-variant",
+				"table-row-variant"
+			],
+			[
+				"table-success",
+				"table-success"
+			],
+			[
+				"body",
+				"body"
+			],
+			[
+				"thead-inverse",
+				"thead-inverse"
+			],
+			[
+				"alert-va",
+				"alert-variant"
+			],
+			[
+				"alert",
+				"alert"
+			],
+			[
+				"bodr",
+				"border-radius"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"sele",
+				"select"
+			],
+			[
+				"btn",
+				"btn-secondary"
+			],
+			[
+				"button",
+				"Button"
+			],
+			[
+				"input",
+				"input-group"
+			],
+			[
+				"table",
+				"table-responsive"
+			],
+			[
+				"size",
+				"size"
+			],
+			[
+				"hori",
+				"dl-horizontal"
+			],
+			[
+				"font",
+				"font-weight-normal"
+			],
+			[
+				"radiu",
+				"border-radius"
+			],
+			[
+				"bread",
+				"breadcrumb"
+			],
+			[
+				"box-shadow",
+				"box-shadow"
+			],
+			[
+				"box-",
+				"box-shadow"
+			]
+		],
+		"width": 458.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 182.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

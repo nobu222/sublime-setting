@@ -1,0 +1,7 @@
+{
+    // "shell_cmd": "make"
+    "cmd": ["node", "$file", "file_base_name"],
+    "working_dir": "${project_path:${folder}}",
+    "path": "$HOME/.nodebrew/current/bin",
+    "selector": "*.js"
+}

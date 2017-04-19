@@ -1,0 +1,8 @@
+{
+  "snippets": {
+    "variables": {
+      "lang": "ja"
+    }
+  },
+  "disabled_keymap_actions": "expand_abbreviation_by_tab",
+}

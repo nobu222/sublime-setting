@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+#${1:id}.collapse>.panel>(.panel-heading#toggle-${2:heading}$[role=tab]>h4.panel-title>a.collapse[data-parent=#${1:id} href=#panel-list$ area-expanded=${3:false} area-controls=#panel-list$]${4:text}^^#panel-list$.panel-collapse.collapse[role=tabpanel area-labelledby=#toggle-${2:heading}$]>${5:ul.list-group>li*2>a})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>bs3-acd</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.html</scope>
+</snippet>

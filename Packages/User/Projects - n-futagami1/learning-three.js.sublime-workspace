@@ -1,0 +1,2412 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"request",
+				"requestAnimationFrame	(three.js)"
+			],
+			[
+				"rota",
+				"rotateSystem"
+			],
+			[
+				"parti",
+				"particles"
+			],
+			[
+				"color",
+				"colors	(three.js)"
+			],
+			[
+				"setH",
+				"setHSL	(three.js)"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"vertex",
+				"vertexColors"
+			],
+			[
+				"Points",
+				"PointsMaterial	(three.js)"
+			],
+			[
+				"particle",
+				"particles	(03-basic-point-cloud.html)"
+			],
+			[
+				"getOb",
+				"getObjectByName	(03-basic-point-cloud.html)"
+			],
+			[
+				"inner",
+				"innerWidth〔variable〕"
+			],
+			[
+				"inn",
+				"innerHeight〔variable〕"
+			],
+			[
+				"sta",
+				"stats.js	(01-particles.html)"
+			],
+			[
+				"0xCCC",
+				"0xC0C0C0	(three.js)"
+			],
+			[
+				"Mesh",
+				"MeshBasicMaterial	(three.js)"
+			],
+			[
+				"Plane",
+				"PlaneGeometry	(three.js)"
+			],
+			[
+				"Th",
+				"THREE"
+			],
+			[
+				"render",
+				"renderer"
+			],
+			[
+				"0xEEEE",
+				"0xeeeeee	(three.js)"
+			],
+			[
+				"setCle",
+				"setClearColor	(three.js)"
+			],
+			[
+				"WebG",
+				"WebGLRenderer	(three.js)"
+			],
+			[
+				"favicon",
+				"favicon.ico"
+			],
+			[
+				"pag",
+				"pagination.min.js"
+			],
+			[
+				"icon-fail",
+				"icon-failed_circle	(top.html)"
+			],
+			[
+				"icon-wa",
+				"icon-warned_circle	(top.html)"
+			],
+			[
+				"icon-pass",
+				"icon-passed_circle	(top.html)"
+			],
+			[
+				"resul",
+				"result_icon	(app.js)"
+			],
+			[
+				"erro",
+				"errored	(symbol-defs.svg)"
+			],
+			[
+				"warn",
+				"warned	(symbol-defs.svg)"
+			],
+			[
+				"box-",
+				"box-sizing	(style.scss)"
+			],
+			[
+				"text",
+				"text-align	(style.scss)"
+			],
+			[
+				"war",
+				"warned"
+			],
+			[
+				"styl",
+				"style	(bar-svg.js)"
+			],
+			[
+				"style",
+				":style=〔attribute〕"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"to",
+				"total"
+			],
+			[
+				"stop",
+				"stopped"
+			],
+			[
+				"acri",
+				"activeProject"
+			],
+			[
+				"proje",
+				"project"
+			],
+			[
+				"xli",
+				"xlink:href	(top.html)"
+			],
+			[
+				"hei",
+				"height	(top.html)"
+			],
+			[
+				"wi",
+				"width	(top.html)"
+			],
+			[
+				"uk-margin-ler",
+				"uk-margin-large-bottom 	UIkit class"
+			],
+			[
+				"uk-margin-b",
+				"uk-margin-bottom 	UIkit class"
+			],
+			[
+				"ro",
+				"rowData"
+			],
+			[
+				"li",
+				"lib"
+			],
+			[
+				"icon-passed",
+				"icon-passed_circle	(symbol-defs.svg)"
+			],
+			[
+				"icon-failed",
+				"icon-failed_circle	(symbol-defs.svg)"
+			],
+			[
+				"use",
+				"use"
+			],
+			[
+				"sv",
+				"svg.js"
+			],
+			[
+				"sym",
+				"symbol-defs.svg	File"
+			],
+			[
+				"screen",
+				"screenshots"
+			],
+			[
+				"scree",
+				"screenshots"
+			],
+			[
+				"uk-mar",
+				"uk-margin-large-bottom	(suites.html)"
+			],
+			[
+				"has",
+				"hasFiles	(app.js)"
+			],
+			[
+				"read",
+				"ready.samples"
+			],
+			[
+				"fil",
+				"files	(app.js)"
+			],
+			[
+				"performance",
+				"performanceCPU	(suites.html)"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"la",
+				"labels"
+			],
+			[
+				"line",
+				"linegraph	(main.js)"
+			],
+			[
+				"sample",
+				"sampleSync"
+			],
+			[
+				"screenA",
+				"screenshotArtifacts"
+			],
+			[
+				"uk-margin",
+				"uk-margin-small-bottom"
+			],
+			[
+				"scre",
+				"screenshot	(app.js)"
+			],
+			[
+				"uk-margin-large",
+				"uk-margin-large-bottom 	UIkit class"
+			],
+			[
+				"arti",
+				"artifact"
+			],
+			[
+				"toggle",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"fade",
+				"fadeOut〔function〕"
+			],
+			[
+				"format",
+				"formatDate	(main.js)"
+			],
+			[
+				"uk-form",
+				"uk-form 	UIkit class"
+			],
+			[
+				"tool",
+				"tooltip.min.js"
+			],
+			[
+				"artifa",
+				"artifactSync"
+			],
+			[
+				"ar",
+				"artifacts"
+			],
+			[
+				"art",
+				"artifacts	(app.js)"
+			],
+			[
+				"scren",
+				"screenshots"
+			],
+			[
+				"tests",
+				"tests.html"
+			],
+			[
+				"suite",
+				"suites"
+			],
+			[
+				"setA",
+				"setArn	(app.js)"
+			],
+			[
+				"uk-magin",
+				"uk-margin-small-bottom 	UIkit class"
+			],
+			[
+				"uk-magin-sma",
+				"uk-margin-small-bottom 	UIkit class"
+			],
+			[
+				"jo",
+				"job"
+			],
+			[
+				"warnd",
+				"warnedIconX"
+			],
+			[
+				"set",
+				"setArtifact"
+			],
+			[
+				"device",
+				"deviceId"
+			],
+			[
+				"job",
+				"jobAsync"
+			],
+			[
+				"req",
+				"requests"
+			],
+			[
+				"succ",
+				"successWidth"
+			],
+			[
+				"info",
+				"infoWidth"
+			],
+			[
+				"succe",
+				"success	(app.js)"
+			],
+			[
+				"suc",
+				"successX"
+			],
+			[
+				"warned",
+				"warnedWidth"
+			],
+			[
+				"wane",
+				"warnedWidth"
+			],
+			[
+				"wan",
+				"warnedWidth"
+			],
+			[
+				"warne",
+				"warnedWidth"
+			],
+			[
+				"vie",
+				"viewBoxHeight"
+			],
+			[
+				"view",
+				"viewBoxWidth"
+			],
+			[
+				"coun",
+				"counters"
+			],
+			[
+				"type",
+				"typeof〔keyword〕"
+			],
+			[
+				"uk-ali",
+				"uk-align-center 	UIkit class"
+			],
+			[
+				"defaul",
+				"defaultAPIs"
+			],
+			[
+				"resu",
+				"result	(app.js)"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"counter",
+				"counters"
+			],
+			[
+				"ron",
+				"round	(jquery.function.js)"
+			],
+			[
+				"pass",
+				"passed"
+			],
+			[
+				"destro",
+				"destroyed	(vue.js)"
+			],
+			[
+				"su",
+				"success	(jquery.function.js)"
+			],
+			[
+				"str",
+				"stringfy	(app.js)"
+			],
+			[
+				"st",
+				"stringfy"
+			],
+			[
+				"meth",
+				"method	(vue.js)"
+			],
+			[
+				"label",
+				"labels	(jquery.function.js)"
+			],
+			[
+				"t",
+				"top.js"
+			],
+			[
+				"new",
+				"new5.js"
+			],
+			[
+				"test",
+				"tests.js	(page_tests.js)"
+			],
+			[
+				"te",
+				"tests.js"
+			],
+			[
+				"de",
+				"devices.js"
+			],
+			[
+				"devi",
+				"device	(suites.html)"
+			],
+			[
+				"dist",
+				"dist/"
+			],
+			[
+				"top",
+				"top.js"
+			],
+			[
+				"devicepool_de",
+				"devicepool_detail.js"
+			],
+			[
+				"sele",
+				"selectedProject	(project.html)"
+			],
+			[
+				"selec",
+				"selectedProject"
+			],
+			[
+				"selectedPro",
+				"selectedProjectArn"
+			],
+			[
+				"params",
+				"paramsArray"
+			],
+			[
+				"uk-icon-plus-",
+				"uk-icon-plus-square-o	(style.css)"
+			],
+			[
+				"uk-icon-angl",
+				"uk-icon-angle-right 	UIkit class"
+			],
+			[
+				"project",
+				"project-list	(frame.html)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/n-futagami/_Project/three.js/www/index.html",
+			"settings":
+			{
+				"buffer_size": 3559,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/three.js/www/libs/three.js",
+			"settings":
+			{
+				"buffer_size": 973075,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/three.js/learning-three-js-2e-ja-support/chapter-01/03-materials-light.html",
+			"settings":
+			{
+				"buffer_size": 3397,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/three.js/learning-three-js-2e-ja-support/chapter-01/02-first-scene.html",
+			"settings":
+			{
+				"buffer_size": 3048,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/three.js/learning-three-js-2e-ja-support/chapter-01/04-materials-light-animation.html",
+			"settings":
+			{
+				"buffer_size": 4551,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/three.js/learning-three-js-2e-ja-support/chapter-07/01-particles.html",
+			"settings":
+			{
+				"buffer_size": 2852,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/three.js/learning-three-js-2e-ja-support/chapter-07/02-particles-webgl.html",
+			"settings":
+			{
+				"buffer_size": 3016,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/three.js/learning-three-js-2e-ja-support/chapter-07/03-basic-point-cloud.html",
+			"settings":
+			{
+				"buffer_size": 4817,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/three.js/learning-three-js-2e-ja-support/chapter-07/08-sprites.html",
+			"settings":
+			{
+				"buffer_size": 5668,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/n-futagami/_Project/three.js/learning-three-js-2e-ja-support/chapter-07/09-sprites-3D.html",
+			"settings":
+			{
+				"buffer_size": 3985,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "copy",
+		"selected_items":
+		[
+			[
+				"copy",
+				"File: Copy Path From Project"
+			],
+			[
+				"codic",
+				"codic: get Project Id list"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Add Repository"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"path",
+				"File: Copy Path From Project"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"",
+				"ANF: Copy Current File"
+			],
+			[
+				"edi",
+				"Project: Edit Project"
+			],
+			[
+				"proje",
+				"Project Manager: Add Project"
+			],
+			[
+				"packagea",
+				"Package Control: Add Repository"
+			],
+			[
+				"project",
+				"Project Manager"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"co",
+				"ANF: Copy Current File"
+			],
+			[
+				"synhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"mo",
+				"File: Move"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"re",
+				"File: Reveal"
+			],
+			[
+				"block",
+				"Toggle Block Comment"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"setj",
+				"Set Syntax: JSON"
+			],
+			[
+				"show",
+				"SFTP: Show Panel"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"convertutf",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"delte",
+				"File: Delete"
+			],
+			[
+				"align",
+				"Preferences: Alignment File Settings – Syntax Specific – User"
+			],
+			[
+				"linter ",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"comment",
+				"Toggle Block Comment"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"shell",
+				"ShellCommand"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"curent",
+				"ANF: Copy Current File"
+			],
+			[
+				"synja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"curre",
+				"ANF: Copy Current File"
+			],
+			[
+				"file",
+				"File: Search Files"
+			],
+			[
+				"rotate",
+				"Snippet: transform:rotate()"
+			],
+			[
+				"transform",
+				"Snippet: transform"
+			],
+			[
+				"blo",
+				"Toggle Block Comment"
+			],
+			[
+				"keyf",
+				"Snippet: @keyframes"
+			],
+			[
+				"fill",
+				"Snippet: animation-fill-mode:forwards"
+			],
+			[
+				"animation-na",
+				"Snippet: animation-name"
+			],
+			[
+				"transpare",
+				"Snippet: transparentize()"
+			],
+			[
+				"retty",
+				"HTMLPrettify"
+			],
+			[
+				"cop",
+				"ANF: Copy Current File"
+			],
+			[
+				"bloc",
+				"Toggle Block Comment"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"copycu",
+				"ANF: Copy Current File"
+			],
+			[
+				"jquer",
+				"Snippet: jQuery(document).ready"
+			],
+			[
+				"new",
+				"ANF: New File"
+			],
+			[
+				"commen",
+				"Toggle Comment"
+			],
+			[
+				"p",
+				"Project Manager"
+			],
+			[
+				"shel",
+				"ShellCommand"
+			],
+			[
+				"pwd",
+				"Project Manager: Open Project in New Window"
+			],
+			[
+				"termi",
+				"Terminal: Open"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"tarnsi",
+				"Snippet: transition"
+			],
+			[
+				"inclu",
+				"Snippet: @include"
+			],
+			[
+				"include",
+				"Snippet: @include"
+			],
+			[
+				"includ",
+				"Snippet: @include"
+			],
+			[
+				"smoo",
+				"Snippet: font-smooth"
+			],
+			[
+				"mixi",
+				"Snippet: @mixin"
+			],
+			[
+				"exten",
+				"Snippet: @extend"
+			],
+			[
+				"extend",
+				"Snippet: @extend"
+			],
+			[
+				"jquery",
+				"Snippet: HTML - Include jQuery"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/n-futagami/_Project/three.js",
+		"/Users/n-futagami/_Project/three.js/learning-three-js-2e-ja-support",
+		"/Users/n-futagami/_Project/three.js/learning-three-js-2e-ja-support/chapter-01"
+	],
+	"file_history":
+	[
+		"/Users/n-futagami/_Project/three.js/learning-three-js-2e-ja-support/assets/textures/particles/sprite-sheet.png",
+		"/Users/n-futagami/Library/Application Support/Sublime Text 3/Packages/User/SublimeCodic.sublime-settings",
+		"/Users/n-futagami/Library/Application Support/Sublime Text 3/Packages/SublimeCodic/SublimeCodic.sublime-settings",
+		"/Users/n-futagami/Library/Application Support/Sublime Text 3/Packages/User/codic.sublime-settings",
+		"/Users/n-futagami/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/n-futagami/Library/Application Support/Sublime Text 3/Packages/codic/codic.sublime-settings",
+		"/Users/n-futagami/_Project/three.js/learning-three-js-2e-ja-support/libs/stats.js",
+		"/Users/n-futagami/_Project/three.js/learning-three-js-2e-ja-support/chapter-01/01-basic-skeleton.html",
+		"/Users/n-futagami/_Project/three.js/learning-three-js-2e-ja-support/libs/three.js",
+		"/Users/n-futagami/_Project/three.js/tube.json",
+		"/Users/n-futagami/_Project/three.js/underground-live-map/bin/fetch.py",
+		"/Users/n-futagami/_Project/three.js/underground-live-map/data/bus.php",
+		"/Users/n-futagami/_Project/three.js/underground-live-map/london-buses/index.html",
+		"/Users/n-futagami/_Project/three.js/underground-live-map/bin/stations.json",
+		"/Users/n-futagami/Library/Application Support/Sublime Text 3/Packages/User/Projects - n-futagami1/learning-three.js.sublime-project",
+		"/Users/n-futagami/.ssh/devicepack.pem",
+		"/Users/n-futagami/_Project/CLP_Devicepack/07_web/devicepack/web/js/src/lib/config.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/project.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/scss/style.scss",
+		"/Users/n-futagami/Library/Application Support/Sublime Text 3/Packages/User/Projects - n-futagami1/Devicepack.sublime-project",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/tests.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/test.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/suites.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/new5.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/new4.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/new3.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/new2.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/new1.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/devicepool/main.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/frame.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/devices.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/devicepool.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/login_design.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/lib/donut.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/top.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/run/list/app.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/lib/bar.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/lib/bar.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/lib/svg/symbol-defs.svg",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/run/device/main.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/run/device/app.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/run/list/main.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/lib/bar-svg.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/lib/svg.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/nav/project.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/nav/run.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/project/main.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/run/step1/main.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/run/step2/main.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/run/step3/main.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/run/step4/main.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/run/step5/main.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/run/suite/main.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/run/test/main.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/run/tests/main.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/index.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/is_login.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/login.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/signup.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/verify.html",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/nav/user.js",
+		"/Users/n-futagami/Creative Cloud Files/Decicepack/logo.svg",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/lib/c3.js",
+		"/Users/n-futagami/Dropbox/Sublime Text 3/Packages/User/svg-symbol-use.sublime-snippet",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/run/step3/app.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/lib/notify.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/run/step5/app.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/run/suite/app.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/run/test/app.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/run/tests/app.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/run/step1/app.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/lib/filter.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/css/style.css",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/scss/asset/c3.min.css",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/scss/uikit/uikit-variables.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/scss/uikit/uikit.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/lib/page.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/webpack.config.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/api/app/Http/routes.php",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/nav/devicepool.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/devicepool/app.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/project/app.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/project/create.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/project/delete.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/project/rename.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/api/storage/logs/lumen.log",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/lib/linegraph.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/jquery.function.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/lib/arn.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/node_modules/webpack/node_modules/watchpack/node_modules/chokidar/node_modules/fsevents/node_modules/node-pre-gyp/lib/install.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/scss/uikit/core/utility.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/devicepool/create.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/lib/query.js",
+		"/Users/n-futagami/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/dist/filter.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/api/readme.md",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/api/app/Http/Controllers/SampleController.php",
+		"/Users/n-futagami/Downloads/log.json",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/scss/uikit/core/table.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/bar.svg",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/lib/default.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/holder.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/lib/storage.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/lib/config.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/run/donut.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/run/bar.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/run/app_device.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/run/device.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/run/main.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/run/app.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/node_modules/vue/dist/vue.js",
+		"/Users/n-futagami/_Project/D_limret_Jimin/07_web/source/sass/_mixin.scss",
+		"/Users/n-futagami/_Project/D_limret_Jimin/07_web/source/sass/_reset.scss",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/run/run-circle.js",
+		"/Users/n-futagami/Library/Application Support/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
+		"/Users/n-futagami/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/run/page_new1.js",
+		"/Users/n-futagami/Library/Application Support/Sublime Text 3/Packages/SublimeFiles/Default (OSX).sublime-keymap",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/page_devices.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/suites.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/tests.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/nav_project.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/test.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/nav_user.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/page_test.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/page_new1.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/page_new2.js",
+		"/Users/n-futagami/_Project/Devicepack/07_web/devicepack/web/js/src/page_new3.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 473.0,
+		"where_history":
+		[
+			"<open folders>,*html,*css",
+			"<open folders>,src/*js",
+			"<open folders>,^dist/*js",
+			"<open folders>,!dist/*js",
+			"<open folders>,dist/*js",
+			"<open folders>,!dist",
+			"<open folders>",
+			"<open folders>, src/*js",
+			"<open folders>",
+			"<open folders>,js/src/**/*js",
+			"<open folders>,*js",
+			"<open folders>",
+			"<open folders>,*js",
+			"<open folders>,js",
+			"<open folders>",
+			"<open folders>,*.scss",
+			"<open folders>,*.html",
+			"<open folders>,*.scss",
+			"<open folders>,.scss",
+			"<open folders>",
+			"<open folders>,*html",
+			"<open folders>",
+			"<open folders>,*html",
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"<.?section>",
+			"<section>",
+			"geo",
+			"geom",
+			"てすと",
+			"camera",
+			"shift",
+			"super",
+			"generate_naming",
+			"innd",
+			"live",
+			"api",
+			"\\",
+			"\\n",
+			"polling",
+			"status",
+			"isLoading",
+			"sidebar",
+			"position",
+			"@",
+			"<!",
+			"    <link rel=\"shortcut icon\" href=\"images/favicon.ico\" type=\"image/x-icon\">\n    <link rel=\"apple-touch-icon-precomposed\" href=\"images/apple-touch-icon.png\">\n",
+			"/",
+			"png",
+			"runsOnPage",
+			" v-if=\"ready.runs\"",
+			"page",
+			"shinichi",
+			"10\">",
+			"10",
+			"#",
+			"warning",
+			"p_circle",
+			"passed_circle",
+			"info",
+			"data-uk-tooltip ",
+			"passed",
+			"padded",
+			"passed",
+			"<div",
+			"th",
+			"circle",
+			"result",
+			"}}<span>",
+			"<svg",
+			" v-if=\"passedWidth > 10\"",
+			"min-width: 60px;",
+			"30px",
+			"<div",
+			"class",
+			"box-sizing",
+			"box",
+			"overflow",
+			"padding: 3px 0;",
+			"<svg",
+			"font-size",
+			"passed",
+			"stopped",
+			"passed",
+			"width: 30px; height: 30px;",
+			"10rem",
+			"fill: #fff;\"",
+			"<svg>",
+			"svg",
+			"passed",
+			"xlink",
+			"svg",
+			"width",
+			"passed",
+			": function",
+			"passed",
+			"20",
+			"40px",
+			"percent",
+			"return",
+			"bar",
+			"stopped",
+			"style=",
+			"%",
+			"}}",
+			"{{",
+			"foregroundColor",
+			"passed",
+			"href=",
+			"canvas",
+			"<nav",
+			"1",
+			"<nav",
+			"nav",
+			"body",
+			"body\n",
+			"body",
+			"offcan",
+			"icon",
+			"offca",
+			"transision",
+			"gray-light",
+			"dvp-project-table",
+			"Header",
+			"passed",
+			"21px",
+			"inlinef",
+			"nav",
+			"static",
+			"sidebar",
+			"static",
+			"dvp-icon-offcanvas ",
+			"uk-offcanvas-page",
+			"gray-",
+			"header",
+			"title",
+			"right",
+			"\">",
+			"uk-row-first",
+			"c3",
+			"notify",
+			"StatusがSKIPPEDの場合",
+			"run",
+			"failed",
+			"passed",
+			"2CA2D1",
+			"width",
+			"e6779e",
+			"#EFC71F",
+			"22969D",
+			"#22969D",
+			"#",
+			"icon-"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"\n",
+			"    <!-- favicon -->\n    <link rel=\"icon\" type=\"image/png\" href=\"img/favicon-48x48.png\" sizes=\"48x48\">\n    <link rel=\"icon\" type=\"image/png\" href=\"img/favicon-96x96.png\" sizes=\"96x96\">\n    <link rel=\"icon\" type=\"image/png\" href=\"img/favicon-16x16.png\" sizes=\"16x16\">\n    <link rel=\"icon\" type=\"image/png\" href=\"img/favicon-32x32.png\" sizes=\"32x32\">\n\n",
+			"<a href=\"./new1.html\" id=\"create-steps-new\" class=\"dvp-create-btn uk-button uk-button-primary uk-button-large\">ランの新規作成</a>",
+			"<a href=\"#\"><span class=\"dvp-icon-detail\"></span>詳細</a>",
+			"run.html",
+			"    <nav id=\"vue-sidebar\">\n        <nav-project></nav-project>\n    </nav>\n</div>\n<!-- #container -->\n",
+			"    <div id=\"container\">\n        <main id=\"main\">",
+			"",
+			"新規作成",
+			"<nav>\n            <div id=\"sidebar\">\n                <h3 id=\"brand-logo\"><a href=\"./index.html\"><img src=\"img/share/logo.png\" alt=\"Devicepack\"></a></h3>\n                <ul class=\"dvp-side-menu uk-nav uk-nav-parent-icon\" data-uk-nav=\"{multiple:true}\">\n                    <li class=\"uk-parent dvp-nav-project\">\n                        <a href=\"#\" class=\"dvp-icons-project\">プロジェクト</a>\n                        <ul class=\"uk-nav-sub uk-nav uk-nav-parent-icon\" data-uk-nav>\n                        <li class=\"uk-parent\"><a href=\"#\" class=\"dvp-nav-list\">demo project<i class=\"uk-icon-chevron-right\"></i></a>\n                                <ul id=\"run01\" class=\"uk-nav-sub dvp-nav-run\">\n                                    <li><a href=\"devices.html\" class=\"dvp-nav-list\">demo_undotsushin.ipa</a></li>\n                                    <li><a href=\"devices.html\" class=\"dvp-nav-list\">demo_undotsushin.ipa</a></li>\n                                    <li><a href=\"top.html\">すべてのランを見る</a></li>\n                                    <li class=\"dvp-nav-create\"><a href=\"new1.html\" class=\"dvp-icons-create\">ランの新規作成</a></li>\n                                </ul>\n                            </li>\n                            <li class=\"uk-parent\"><a href=\"#\" class=\"dvp-nav-list\">demo project<i class=\"uk-icon-chevron-right\"></i></a>\n                                <ul class=\"uk-nav-sub dvp-nav-run\">\n                                    <li><a href=\"devices.html\" class=\"dvp-nav-list\">demo_undotsushin.ipa</a></li>\n                                    <li><a href=\"devices.html\" class=\"dvp-nav-list\">demo_undotsushin.ipa</a></li>\n                                    <li><a href=\"top.html\">すべてのランを見る</a></li>\n                                    <li class=\"dvp-nav-create\"><a href=\"new1.html\" class=\"dvp-icons-create\">ランの新規作成</a></li>\n                                </ul>\n                            </li>\n                            <li class=\"uk-parent\"><a href=\"#\" class=\"dvp-nav-list\">demo project<i class=\"uk-icon-chevron-right\"></i></a>\n                                <ul class=\"uk-nav-sub dvp-nav-run\">\n                                    <li><a href=\"devices.html\">demo_undotsushin.ipa</a></li>\n                                    <li><a href=\"devices.html\">demo_undotsushin.ipa</a></li>\n                                    <li><a href=\"top.html\">すべてのランを見る</a></li>\n                                    <li class=\"dvp-nav-create\"><a href=\"new1.html\" class=\"dvp-icons-create\">ランの新規作成</a></li>\n                                </ul>\n                            </li>\n                            <li><a href=\"project.html\">プロジェクト一覧</a></li>\n                            <li class=\"dvp-nav-create\"><a href=\"project.html#create\" class=\"dvp-icons-create\">プロジェクトの新規作成</a></li>\n                        </ul>\n                    </li>\n                    <li class=\"uk-parent dvp-nav-dp\">\n                        <a href=\"#\" class=\"dvp-icons-dp\">デバイスプール</a>\n                        <ul class=\"uk-nav-sub\">\n                            <li><a href=\"devicepool.html\">デバイスプール一覧</a></li>\n                            <li class=\"dvp-nav-create\"><a href=\"devicepool.html#create\" class=\"dvp-icons-create\">デバイスプールの新規作成</a></li>\n                        </ul>\n                    </li>\n                </ul>\n                <ul class=\"dvp-admin-menu uk-nav\">\n                    <li class=\"nav-item dvp-nav-admin\">\n                        <a class=\"nav-link dvp-icons-admin\" href=\"#\">shinichi+cloudpack@cloudpack.jp</a>\n                    </li>\n                    <li class=\"nav-item dvp-nav-logout\">\n                        <a class=\"nav-link dvp-icons-logout\" href=\"#\">ログアウト</a>\n                    </li>\n                </ul>\n            </div>\n        </nav>",
+			"shinichi+cloudpack@cloudpack.jp",
+			"run.html",
+			"アカウント",
+			"Devicepack demo",
+			" id=\"main\" class=\"main\"",
+			"<div class=\"panel panel-default dvp-list-project\">\n                <div class=\"panel-heading\" role=\"tab\" id=\"headingOne\">\n                    <h4 class=\"panel-title\">\n                      <a data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseOne\" aria-expanded=\"false\" aria-controls=\"collapseOne\" class=\"collapsed\">\n                        プロジェクト\n                      </a>\n                    </h4>\n                </div>\n                <div id=\"collapseOne\" class=\"panel-collapse collapse\" role=\"tabpanel\" aria-labelledby=\"headingOne\" aria-expanded=\"false\" style=\"height: 0px;\">\n                    <ul class=\"nav dvp-side-subnav\">\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link\" href=\"top.html\">demo project</a>\n                        </li>\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link\" href=\"top.html\">demo project</a>\n                        </li>\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link disabled\" href=\"top.html\">&gt;&gt;ランの詳細を見る</a>\n                        </li>\n                    </ul>\n                </div>\n            </div>\n            <div class=\"panel panel-default dvp-list-run\">\n                <div class=\"panel-heading\" role=\"tab\" id=\"headingTwo\">\n                    <h4 class=\"panel-title\">\n                      <a class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">\n                        ラン\n                      </a>\n                    </h4>\n                </div>\n                <div id=\"collapseTwo\" class=\"panel-collapse collapse\" role=\"tabpanel\" aria-labelledby=\"headingTwo\">\n                    <ul class=\"nav dvp-side-subnav\">\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link\" href=\"#\">demo_undotsushin.ipa</a>\n                        </li>\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link\" href=\"#\">demo_undotsushin.ipa</a>\n                        </li>\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link disabled\" href=\"#\">&gt;&gt;ランの詳細を見る</a>\n                        </li>\n                    </ul>\n                </div>\n            </div>",
+			"<a href=\"./new1.html\">ランの新規作成</a>",
+			"col-lg-",
+			"            <a class=\"global__toggle__nav_icon\" href=\"#\" aria-expanded=\"false\" aria-controls=\"navlist\"><img class=\"menu\" src=\"../img/btn_menu_sp.png\" alt=\"menu\"><img class=\"close\" src=\"../img/btn_close_sp.png\" alt=\"close\"></a>\n            <nav id=\"navlist\" class=\"global__toggle__nav_list\" aria-expanded=\"true\">",
+			"<a href=\"https://www.jimin.jp/\" target=\"_blank\"><span class=\"nw\">自民党ホームページ</span></a>",
+			"                <ul class=\"child2__nav_list\">\n                    <li><a href=\"#\">政策BANK</a></li><!--\n                 --><!--<li><a href=\"#\">選挙公約2016（PDF）</a></li>--><!--\n                 --><li><a href=\"#\">政策パンフレット2016（PDF）</a></li><!--\n                 --><!--<li><a href=\"#\">こどもマニフェスト（PDF）</a></li>--><!--\n                 --><li><a href=\"#\">都道府県別政策集</a></li><!--\n                 --><!--<li><a href=\"#\" target=\"_blank\"><span class=\"nw\">自民党参院選2016</span></a></li>--><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">自民党ホームページ</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">ネット選挙について</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">プライバシーポリシー</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">お問い合わせ</span></a></li><!--\n                 --><li class=\"nav__sns\">\n                 <ul>\n                 <li><a href=\"http://www.facebook.com/share.php\" onclick=\"window.open(encodeURI(decodeURI(this.href)), 'FBwindow', 'width=554, height=470, menubar=no, toolbar=no, scrollbars=yes'); return false;\" rel=\"nofollow\"><img src=\"../img/btn_fb.png\" alt=\"シェアする\"></a></li>\n                    <li><a href=\"http://twitter.com/share\" onClick=\"window.open(encodeURI(decodeURI(this.href)), 'tweetwindow', 'width=650, height=470, personalbar=0, toolbar=0, scrollbars=1, sizable=1'); return false;\" rel=\"nofollow\"><img src=\"../img/btn_tw.png\" alt=\"\"></a></li>\n                 </ul>\n                 </li>\n                </ul>",
+			"<meta name=\"twitter:title\" content=\"自民党政策サイト\" />",
+			"<meta property=\"og:title\" content=\"自民党政策サイト\" />",
+			"<!-- *** OGP *** -->\n<meta property=\"og:title\" content=\"自由民主党\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:image\" content=\"https://www.jimin.jp/common/img/facebook-lbdems.jpg\" />\n<meta property=\"og:url\" content=\"https://special.jimin.jp/political_promise/\" />\n\n<meta name=\"twitter:title\" content=\"自由民主党\" />\n<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@jimin_koho\" />\n<meta name=\"twitter:description\" content=\"「この道を。力強く、前へ。」自民党の政策サイトです。道半ばではありますが、アベノミクスは確実に「結果」を生み出しています。この道を、力強く、前へ、進んで行こうではありませんか。 国民の皆様と共に,「誇りある日本」を取り戻すために。\" />\n<meta name=\"twitter:image\" content=\"https://www.jimin.jp/common/img/twitter-lbdems.jpg\" />\n<meta property=\"twitter:account_id\" content=\"58359180\" />\n",
+			"https://special.jimin.jp/political_promise/",
+			"<script>\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');\n  ga('create', 'UA-41065878-7', 'auto');\n  ga('send', 'pageview');\n</script>\n</body>\n",
+			"                 --><!--<li><a href=\"#\" target=\"_blank\"><span class=\"nw\">自民党参院選2016</span></a></li>--><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">自民党ホームページ</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">ネット選挙について</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">プライバシーポリシー</span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\"><span class=\"nw\">お問い合わせ</span></a></li>",
+			"                 --><!--<li><a href=\"#\" target=\"_blank\">自民党参院選2016<span class=\"nw\"></span></a></li>--><!--\n                 --><li><a href=\"#\" target=\"_blank\">自民党ホームページ<span class=\"nw\"></span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">ネット選挙について<span class=\"nw\"></span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">プライバシーポリシー<span class=\"nw\"></span></a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">お問い合わせ<span class=\"nw\"></span></a></li>",
+			"",
+			"都道府県別政策集",
+			"<div class=\"global__toggle__nav_icon\"><a href=\"#global__toggle__nav\"><img class=\"menu\" src=\"../img/btn_menu_sp.png\" alt=\"menu\"><img class=\"close\" src=\"../img/btn_close_sp.png\" alt=\"close\"></a></div>",
+			"<title>｜自民党政策サイト</title>",
+			"                <ul class=\"child2__nav_list\">\n                    <li><a href=\"#\">政策BANK</a></li><!--\n                 --><!--<li><a href=\"#\">選挙公約2016（PDF）</a></li>--><!--\n                 --><li><a href=\"#\">政策パンフレット2016（PDF）</a></li><!--\n                 --><!--<li><a href=\"#\">こどもマニフェスト（PDF）</a></li>--><!--\n                 --><li><a href=\"#\">都道府県別政策集（PDF）</a></li><!--\n                 --><!--<li><a href=\"#\" target=\"_blank\">自民党参院選2016</a></li>--><!--\n                 --><li><a href=\"#\" target=\"_blank\">自民党ホームページ</a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">ネット選挙について</a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">プライバシーポリシー</a></li><!--\n                 --><li><a href=\"#\" target=\"_blank\">お問い合わせ</a></li>\n                </ul>",
+			"\n<title>自由民主党</title>\n",
+			"",
+			"<title>自由民主党</title>",
+			"<title>siteName</title>\n\n<!-- *** OGP *** -->\n<meta property=\"og:title\" content=\"自由民主党\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:image\" content=\"https://www.jimin.jp/common/img/facebook-lbdems.jpg\" />\n<meta property=\"og:url\" content=\"https://www.jimin.jp/election/results/sen_san24/political_promise/\" />",
+			"<meta name=\"description\" content=\"「この道を。力強く、前へ。」自民党の政策サイトです。道半ばではありますが、アベノミクスは確実に「結果」を生み出しています。この道を、力強く、前へ、進んで行こうではありませんか。 国民の皆様と共に,「誇りある日本」を取り戻すために。\">\n<meta name=\"keywords\" content=\"自民党,自由民主党,自民,安倍晋三,アベノミクス,経済,外交,一億総活躍,3本の矢,地方創生,18歳選挙,女性活躍,子育て,介護,高齢者,若者,中小企業,農業,TPP,外国人,復興,奨学金,就職,保育,医療,教育,環境,エネルギー,労働\">",
+			"id=\"pageup",
+			"<script src=\"../js/jquery.function.js\"></script>",
+			"<script src=\"../js/jquery.easing.1.3.js\"></script>",
+			"<a id=\"#pageup\" href=\"#\">",
+			"<a class=\"logo\" href=\"../../index.html\">",
+			"<a class=\"logo\" href=\"../index.html\">",
+			"../prevention",
+			"/img/diplomacy",
+			"../diplomacy",
+			"small",
+			"<a href=\"../society/index.html\">さあ、一億総活躍社会へ！</a>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/n-futagami/_Project/three.js/www/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3559,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2426,
+								2426
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_indent": true,
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"is_xml": false,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 39.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/n-futagami/_Project/three.js/www/libs/three.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 973075,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12258,
+								12258
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 11889.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/n-futagami/_Project/three.js/learning-three-js-2e-ja-support/chapter-01/03-materials-light.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3397,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2866,
+								2866
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"is_xml": false,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 445.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "/Users/n-futagami/_Project/three.js/learning-three-js-2e-ja-support/chapter-01/02-first-scene.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3048,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1961,
+								1961
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"is_xml": false,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 407.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/n-futagami/_Project/three.js/learning-three-js-2e-ja-support/chapter-01/04-materials-light-animation.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4551,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1708,
+								1708
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"is_xml": false,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/n-futagami/_Project/three.js/learning-three-js-2e-ja-support/chapter-07/01-particles.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2852,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								414,
+								341
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"is_xml": false,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/n-futagami/_Project/three.js/learning-three-js-2e-ja-support/chapter-07/02-particles-webgl.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3016,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								993,
+								993
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"is_xml": false,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 878.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/n-futagami/_Project/three.js/learning-three-js-2e-ja-support/chapter-07/03-basic-point-cloud.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4817,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3807,
+								3810
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"is_xml": false,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1225.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/n-futagami/_Project/three.js/learning-three-js-2e-ja-support/chapter-07/08-sprites.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5668,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2572,
+								2582
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"is_xml": false,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2069.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/n-futagami/_Project/three.js/learning-three-js-2e-ja-support/chapter-07/09-sprites-3D.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3985,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1772,
+								1785
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"is_xml": false,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1221.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.469959260757,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "learning-three.js.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"03-basic",
+				"learning-three-js-2e-ja-support/chapter-07/03-basic-point-cloud.html"
+			],
+			[
+				"02-par",
+				"learning-three-js-2e-ja-support/chapter-07/02-particles-webgl.html"
+			],
+			[
+				"stat",
+				"learning-three-js-2e-ja-support/libs/stats.js"
+			],
+			[
+				"particle",
+				"learning-three-js-2e-ja-support/chapter-07/01-particles.html"
+			],
+			[
+				"three",
+				"learning-three-js-2e-ja-support/libs/three.js"
+			],
+			[
+				"fe",
+				"underground-live-map/bin/fetch.py"
+			],
+			[
+				"station",
+				"underground-live-map/bin/stations.json"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"style",
+				"scss/style.scss"
+			],
+			[
+				"main.",
+				"js/src/devicepool/main.js"
+			],
+			[
+				"list/",
+				"js/src/run/list/app.js"
+			],
+			[
+				"to",
+				"top.html"
+			],
+			[
+				"top",
+				"top.html"
+			],
+			[
+				"svg",
+				"js/src/lib/svg.js"
+			],
+			[
+				"nav/pro",
+				"js/src/nav/project.js"
+			],
+			[
+				"proj",
+				"project.html"
+			],
+			[
+				"do",
+				"js/src/lib/donut.js"
+			],
+			[
+				"project.html",
+				"project.html"
+			],
+			[
+				"sy",
+				"js/src/lib/svg/symbol-defs.svg"
+			],
+			[
+				"def.sv",
+				"svg/symbol-defs.svg"
+			],
+			[
+				"lib/noti",
+				"js/src/lib/notify.js"
+			],
+			[
+				"st",
+				"scss/style.scss"
+			],
+			[
+				"project",
+				"project.html"
+			],
+			[
+				"device.html",
+				"devices.html"
+			],
+			[
+				"webpack",
+				"webpack.config.js"
+			],
+			[
+				"device",
+				"devices.html"
+			],
+			[
+				"tests",
+				"tests.html"
+			],
+			[
+				"suite",
+				"suites.html"
+			],
+			[
+				"devicepool/",
+				"js/src/devicepool/app.js"
+			],
+			[
+				"page.js",
+				"js/src/lib/page.js"
+			],
+			[
+				"nav/",
+				"js/src/nav/run.js"
+			],
+			[
+				"page",
+				"js/src/lib/page.js"
+			],
+			[
+				"suites",
+				"suites.html"
+			],
+			[
+				"device/app",
+				"js/src/run/device/app.js"
+			],
+			[
+				"device/app.",
+				"js/src/run/device/app.js"
+			],
+			[
+				"quer",
+				"js/src/lib/query.js"
+			],
+			[
+				"query",
+				"js/src/lib/query.js"
+			],
+			[
+				"top.html",
+				"top.html"
+			],
+			[
+				"bar",
+				"js/src/lib/bar.js"
+			],
+			[
+				"function",
+				"js/jquery.function.js"
+			],
+			[
+				"filter",
+				"js/src/lib/filter.js"
+			],
+			[
+				"function.",
+				"js/jquery.function.js"
+			],
+			[
+				"deviceapp",
+				"js/src/run/device/app.js"
+			],
+			[
+				"devi",
+				"devices.html"
+			],
+			[
+				"devic",
+				"devicepool.html"
+			],
+			[
+				"donu",
+				"js/src/lib/donut.js"
+			],
+			[
+				"que",
+				"js/src/lib/query.js"
+			],
+			[
+				"web",
+				"webpack.config.js"
+			],
+			[
+				"t",
+				"top.html"
+			],
+			[
+				"holder",
+				"js/holder.js"
+			],
+			[
+				"webp",
+				"webpack.config.js"
+			],
+			[
+				"list/app",
+				"js/src/run/list/app.js"
+			],
+			[
+				"app_devi",
+				"js/src/run/app_device.js"
+			],
+			[
+				"app.js",
+				"js/src/run/app.js"
+			],
+			[
+				"is_",
+				"is_login.html"
+			],
+			[
+				"app.",
+				"js/src/run/app.js"
+			],
+			[
+				"fun",
+				"js/jquery.function.js"
+			],
+			[
+				"project/main",
+				"js/src/project/main.js"
+			],
+			[
+				"vue",
+				"node_modules/vue/dist/vue.js"
+			],
+			[
+				"lib/filter",
+				"js/src/lib/filter.js"
+			],
+			[
+				"func",
+				"js/jquery.function.js"
+			],
+			[
+				"we",
+				"webpack.config.js"
+			],
+			[
+				"frame",
+				"frame.html"
+			],
+			[
+				"new5",
+				"new5.html"
+			],
+			[
+				"new4",
+				"new4.html"
+			],
+			[
+				"new3",
+				"new3.html"
+			],
+			[
+				"new2",
+				"new2.html"
+			],
+			[
+				"new1",
+				"new1.html"
+			],
+			[
+				"test",
+				"test.html"
+			],
+			[
+				"page_tes",
+				"js/src/page_tests.js"
+			],
+			[
+				"",
+				"suites.html"
+			],
+			[
+				"page_de",
+				"js/src/page_devices.js"
+			],
+			[
+				"proje",
+				"project.html"
+			],
+			[
+				"nav_",
+				"js/src/nav_project.js"
+			],
+			[
+				"de",
+				"devicepool.html"
+			],
+			[
+				"page_",
+				"js/src/page_project.js"
+			],
+			[
+				"frame.h",
+				"frame.html"
+			],
+			[
+				"run",
+				"js/src/nav_run.js"
+			],
+			[
+				"navrun",
+				"js/src/nav_run.js"
+			],
+			[
+				"cogni",
+				"js/src/cognito.js"
+			],
+			[
+				"confi",
+				"js/src/config.js"
+			],
+			[
+				"main",
+				"js/src/main.js"
+			],
+			[
+				"uikitvai",
+				"scss/uikit/uikit-variables.scss"
+			],
+			[
+				"vari",
+				"scss/uikit/uikit-variables.scss"
+			],
+			[
+				"offcanvas",
+				"scss/uikit/core/offcanvas.scss"
+			],
+			[
+				"icon",
+				"scss/uikit/core/icon.scss"
+			],
+			[
+				"icons",
+				"scss/uikit/core/icon.scss"
+			],
+			[
+				"form",
+				"js/components/form-password.js"
+			],
+			[
+				"sui",
+				"suites.html"
+			],
+			[
+				"table",
+				"scss/uikit/core/table.scss"
+			],
+			[
+				"uikit-mi",
+				"scss/uikit/uikit-mixins.scss"
+			],
+			[
+				"grid",
+				"scss/uikit/core/grid.scss"
+			],
+			[
+				"val",
+				"scss/uikit/uikit-variables.scss"
+			],
+			[
+				"new",
+				"new5.html"
+			],
+			[
+				"modal",
+				"scss/uikit/core/modal.scss"
+			],
+			[
+				"uiki",
+				"js/uikit.js"
+			],
+			[
+				"stl",
+				"css/style.css"
+			],
+			[
+				"tyle",
+				"css/style.css"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"bread",
+				"scss/_breadcrumb.scss"
+			],
+			[
+				"va",
+				"scss/_variables.scss"
+			],
+			[
+				"style.",
+				"scss/style_old.scss"
+			],
+			[
+				"chart",
+				"js/Chart.js"
+			],
+			[
+				"reboot",
+				"scss/_reboot.scss"
+			],
+			[
+				"moda",
+				"scss/_modal.scss"
+			],
+			[
+				"table-or",
+				"scss/mixins/_table-row.scss"
+			],
+			[
+				"mixingri",
+				"scss/mixins/_grid.scss"
+			],
+			[
+				"cus",
+				"scss/_custom-forms.scss"
+			],
+			[
+				"s",
+				"scss/style.scss"
+			],
+			[
+				"reb",
+				"scss/_reboot.scss"
+			],
+			[
+				"nor",
+				"scss/_normalize.scss"
+			],
+			[
+				"mixi",
+				"scss/_mixins.scss"
+			],
+			[
+				"boot",
+				"scss/bootstrap.scss"
+			],
+			[
+				"varie",
+				"scss/_variables.scss"
+			],
+			[
+				"scss",
+				"sass/_main.scss"
+			],
+			[
+				"lay",
+				"sass/_layout.scss"
+			],
+			[
+				"pre",
+				"prevention/index.html"
+			],
+			[
+				"local",
+				"local/index.html"
+			],
+			[
+				"life",
+				"life/index.html"
+			],
+			[
+				"trade",
+				"trade/index.html"
+			],
+			[
+				"econo",
+				"economics/index.html"
+			],
+			[
+				"sass",
+				"sass/_setting.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "filter",
+		"selected_items":
+		[
+			[
+				"filter",
+				"filter"
+			],
+			[
+				"uk-margin",
+				"uk-margin-large"
+			],
+			[
+				"formatDa",
+				"formatDate"
+			],
+			[
+				"uk-table-mi",
+				"uk-table-middle"
+			],
+			[
+				"uk-blo",
+				"uk-block"
+			],
+			[
+				"uk-margin-bottom",
+				"uk-margin-large-bottom"
+			],
+			[
+				"uk-flex-column",
+				"uk-flex-column"
+			],
+			[
+				"uk-active",
+				"uk-active"
+			],
+			[
+				"uk-icon-caret",
+				"uk-icon-caret-down"
+			],
+			[
+				"uk-icon",
+				"uk-icon"
+			],
+			[
+				"uk-fle",
+				"uk-flex"
+			],
+			[
+				"uk-icon-chevo",
+				"uk-icon-chevron-left"
+			],
+			[
+				"fade",
+				"uk-animation-fade"
+			],
+			[
+				"uk-open",
+				"uk-open"
+			],
+			[
+				"dvp-devi",
+				"dvp-device-table"
+			],
+			[
+				"grid",
+				"make-grid-columns"
+			],
+			[
+				"btn-",
+				"btn-lg"
+			],
+			[
+				"tool",
+				"Tooltip"
+			],
+			[
+				"nav-tabs",
+				"nav-tabs"
+			],
+			[
+				"table-re",
+				"table-responsive"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"c-indicator",
+				"c-indicator"
+			],
+			[
+				"table-row-variant",
+				"table-row-variant"
+			],
+			[
+				"table-success",
+				"table-success"
+			],
+			[
+				"body",
+				"body"
+			],
+			[
+				"thead-inverse",
+				"thead-inverse"
+			],
+			[
+				"alert-va",
+				"alert-variant"
+			],
+			[
+				"alert",
+				"alert"
+			],
+			[
+				"bodr",
+				"border-radius"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"sele",
+				"select"
+			],
+			[
+				"btn",
+				"btn-secondary"
+			],
+			[
+				"button",
+				"Button"
+			],
+			[
+				"input",
+				"input-group"
+			],
+			[
+				"table",
+				"table-responsive"
+			],
+			[
+				"size",
+				"size"
+			],
+			[
+				"clear",
+				"clearfix"
+			],
+			[
+				"hori",
+				"dl-horizontal"
+			],
+			[
+				"font",
+				"font-weight-normal"
+			],
+			[
+				"radiu",
+				"border-radius"
+			],
+			[
+				"bread",
+				"breadcrumb"
+			],
+			[
+				"box-shadow",
+				"box-shadow"
+			],
+			[
+				"box-",
+				"box-shadow"
+			]
+		],
+		"width": 458.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

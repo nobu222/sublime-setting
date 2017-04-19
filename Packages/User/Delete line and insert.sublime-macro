@@ -1,0 +1,88 @@
+[
+	{
+		"args":
+		{
+			"by": "characters",
+			"forward": false
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"by": "characters",
+			"forward": false
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"by": "characters",
+			"forward": false
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"by": "characters",
+			"forward": false
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"by": "characters",
+			"forward": false
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"by": "characters",
+			"forward": false
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"by": "characters",
+			"forward": false
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"by": "characters",
+			"forward": false
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"by": "characters",
+			"forward": false
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"file": "Packages/User/lineEnd.sublime-macro"
+		},
+		"command": "run_macro_file"
+	},
+	{
+		"args":
+		{
+			"file": "Packages/User/Delete to BOL.sublime-macro"
+		},
+		"command": "run_macro_file"
+	}
+]
